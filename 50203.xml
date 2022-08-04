@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list>
+<!-- вкладка разное -->
+
+<!-- Адена -->
+<item id="1">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="57" count="10000000" enchant="0"/>
+</item>
+
+<!-- Элитные шапки модника -->
+<item id="10">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="25107" count="1" enchant="0"/>
+</item>
+
+<!-- 100% Свиток: Модифицировать Оружие (S) -->
+<item id="11">
+<ingredient id="4037" count="10000" enchant="0"/>
+<production id="961" count="1" enchant="0"/>
+</item>
+
+<!-- 100% Свиток: Модифицировать Доспех (S) -->
+<item id="12">
+<ingredient id="4037" count="2000" enchant="0"/>
+<production id="962" count="1" enchant="0"/>
+</item>
+	
+<!-- Dragon Bugle of Wind -->
+	<item id="19">
+<ingredient id="4037" count="200" enchant="0"/>
+<production id="4422" count="1" enchant="0"/>
+	</item>
+
+<!-- Great Wolf Necklace -->
+<item id="20">
+<ingredient id="4037" count="250" enchant="0"/>
+<production id="9882" count="1" enchant="0"/>
+</item>
+
+<!-- Фенрир -->
+<item id="21">
+<ingredient id="4037" count="500" enchant="0"/>
+<production id="10426" count="1" enchant="0"/>
+</item>
+
+<!-- Кодекс гигантов -->
+<item id="25">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="6622" count="1" enchant="0"/>
+</item>
+
+<!-- Top LS 76 -->
+<item id="26">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="8762" count="1" enchant="0"/>
+</item>
+
+<!-- Синий Кристалл Души - Уровень 12 -->
+<item id="30">
+<ingredient id="4037" count="50" enchant="0"/>
+<production id="5582" count="1" enchant="0"/>
+</item>
+
+<!-- Зеленый Кристалл Души - Уровень 12 -->
+<item id="31">
+<ingredient id="4037" count="50" enchant="0"/>
+<production id="5581" count="1" enchant="0"/>
+</item>
+
+<!-- Красный Кристалл Души - Уровень 12 -->
+<item id="32">
+<ingredient id="4037" count="50" enchant="0"/>
+<production id="5580" count="1" enchant="0"/>
+</item>
+
+<!-- Синий Кристалл Души: Уровень 13 -->
+<item id="33">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="5914" count="1" enchant="0"/>
+</item>
+
+<!-- Зеленый Кристалл Души: Уровень 13 -->
+<item id="34">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="5911" count="1" enchant="0"/>
+</item>
+
+<!-- Красный Кристалл Души: Уровень 13 -->
+<item id="35">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="5908" count="1" enchant="0"/>
+</item>
+/////////
+
+  <!-- Руна опыта\сп 50% 3ч -->
+  <item id="45">
+    <ingredient id="4037" count="15"/>
+    <production id="9221" count="1"/>
+  </item>
+    
+  <!-- Руна опыта\сп 50% 24ч -->
+  <item id="46">
+    <ingredient id="4037" count="65"/>
+    <production id="9217" count="1"/>
+  </item>
+    
+  <!-- Руна опыта\сп 50% 72ч -->
+  <item id="47">
+    <ingredient id="4037" count="120"/>
+    <production id="9219" count="1"/>
+  </item>
+  
+  <!-- Руна опыта\сп 100% 3ч -->
+  <item id="48">
+    <ingredient id="4037" count="30"/>
+    <production id="9216" count="1"/>
+  </item>
+
+  <!-- Руна опыта\сп 100% 24ч -->
+  <item id="49">
+    <ingredient id="4037" count="100"/>
+    <production id="9218" count="1"/>
+  </item>
+
+  <!-- Руна опыта\сп 100% 72ч -->
+  <item id="50">
+    <ingredient id="4037" count="180"/>
+    <production id="9220" count="1"/>
+  </item>
+  
+  <!-- Руна богатства 50% 3ч -->
+  <item id="51">
+    <ingredient id="4037" count="30"/>
+    <production id="9222" count="1"/>
+  </item>
+    
+  <!-- Руна богатства 50% 24ч -->
+  <item id="52">
+    <ingredient id="4037" count="80"/>
+    <production id="9224" count="1"/>
+  </item>
+    
+  <!-- Руна богатства 50% 72ч -->
+  <item id="53">
+    <ingredient id="4037" count="150"/>
+    <production id="9226" count="1"/>
+  </item>
+  
+  <!-- Руна богатства 100% 3ч -->
+  <item id="54">
+    <ingredient id="4037" count="50"/>
+    <production id="9223" count="1"/>
+  </item>
+
+  <!-- Руна богатства 100% 24ч -->
+  <item id="55">
+    <ingredient id="4037" count="130"/>
+    <production id="9225" count="1"/>
+  </item>
+
+  <!-- Руна богатства 100% 72ч -->
+  <item id="56">
+    <ingredient id="4037" count="210"/>
+    <production id="9227" count="1"/>
+  </item>
+
+
+</list>

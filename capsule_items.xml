@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<capsule itemId="8534" requiredItemId="57" requiredItemAmount="50" gachaponCrate="true">
+		<!-- Item Name -->
+		<item id="853" min="1" max="1" chance="34." />
+		<item id="916" min="1" max="1" chance="33." />
+		<item id="884" min="1" max="1" chance="33." />
+	</capsule>
+	<capsule itemId="8535">
+		<!-- Item Name -->
+		<item id="854" min="1" max="1" chance="34." />
+		<item id="917" min="1" max="1" chance="33." />
+		<item id="885" min="1" max="1" chance="33." />
+	</capsule>
+	<capsule itemId="8536">
+		<!-- Item Name -->
+		<item id="855" min="1" max="1" chance="34." />
+		<item id="119" min="1" max="1" chance="33." />
+		<item id="886" min="1" max="1" chance="33." />
+	</capsule>
+	<capsule itemId="8537">
+		<!-- Item Name -->
+		<item id="856" min="1" max="1" chance="34." />
+		<item id="918" min="1" max="1" chance="33." />
+		<item id="887" min="1" max="1" chance="33." />
+	</capsule>
+	<capsule itemId="8538">
+		<!-- Item Name -->
+		<item id="864" min="1" max="1" chance="34." />
+		<item id="926" min="1" max="1" chance="33." />
+		<item id="895" min="1" max="1" chance="33." />
+	</capsule>
+	<capsule itemId="8539">
+		<!-- Item Name -->
+		<item id="8179" min="1" max="1" chance="20." />
+		<item id="8178" min="1" max="1" chance="30." />
+		<item id="8177" min="1" max="1" chance="50." />
+	</capsule>
+	<capsule itemId="8540">
+		<!-- Item Name -->
+		<item id="8175" min="1" max="1" chance="30." />
+	</capsule>
+	<capsule itemId="5916">
+		<!-- Item Name -->
+		<item id="5917" min="1" max="1" chance="20." />
+		<item id="5918" min="1" max="1" chance="20." />
+		<item id="5919" min="1" max="1" chance="20." />
+		<item id="5920" min="1" max="1" chance="20." />
+		<item id="736" min="1" max="1" chance="20." />
+	</capsule>
+	<capsule itemId="7629">
+		<!-- Item Name -->
+		<item id="6688" min="1" max="1" chance="9." />
+		<item id="6689" min="1" max="1" chance="9." />
+		<item id="6690" min="1" max="1" chance="9." />
+		<item id="6691" min="1" max="1" chance="9." />
+		<item id="6693" min="1" max="1" chance="9." />
+		<item id="6694" min="1" max="1" chance="9." />
+		<item id="6695" min="1" max="1" chance="9." />
+		<item id="6696" min="1" max="1" chance="9." />
+		<item id="6697" min="1" max="1" chance="9." />
+		<item id="7579" min="1" max="1" chance="9." />
+		<item id="57" min="330000" max="330000" chance="9." />
+	</capsule>
+	<capsule itemId="7630">
+		<!-- Item Name -->
+		<item id="6703" min="1" max="1" chance="8." />
+		<item id="6704" min="1" max="1" chance="8." />
+		<item id="6705" min="1" max="1" chance="8." />
+		<item id="6706" min="1" max="1" chance="8." />
+		<item id="6708" min="1" max="1" chance="8." />
+		<item id="6709" min="1" max="1" chance="8." />
+		<item id="6695" min="1" max="1" chance="8." />
+		<item id="6710" min="1" max="1" chance="8." />
+		<item id="6712" min="1" max="1" chance="8." />
+		<item id="6713" min="1" max="1" chance="8." />
+		<item id="6714" min="1" max="1" chance="8." />
+		<item id="57" min="292000" max="292000" chance="8." />
+	</capsule>
+	<capsule itemId="7631">
+		<!-- Item Name -->
+		<item id="6701" min="1" max="1" chance="20." />
+		<item id="6702" min="1" max="1" chance="20." />
+		<item id="6707" min="1" max="1" chance="20." />
+		<item id="6711" min="1" max="1" chance="20." />
+		<item id="57" min="93000" max="93000" chance="20." />
+	</capsule>
+	<capsule itemId="7632">
+		<!-- Item Name -->
+		<item id="6857" min="1" max="1" chance="9." />
+		<item id="6859" min="1" max="1" chance="9." />
+		<item id="6861" min="1" max="1" chance="9." />
+		<item id="6863" min="1" max="1" chance="9." />
+		<item id="6867" min="1" max="1" chance="9." />
+		<item id="6869" min="1" max="1" chance="9." />
+		<item id="6871" min="1" max="1" chance="9." />
+		<item id="6875" min="1" max="1" chance="9." />
+		<item id="6877" min="1" max="1" chance="9." />
+		<item id="6879" min="1" max="1" chance="9." />
+		<item id="57" min="340000" max="340000" chance="9." />
+	</capsule>
+	<capsule itemId="7633">
+		<!-- Item Name -->
+		<item id="6853" min="1" max="1" chance="20." />
+		<item id="6855" min="1" max="1" chance="20." />
+		<item id="6865" min="1" max="1" chance="20." />
+		<item id="6873" min="1" max="1" chance="20." />
+		<item id="57" min="850000" max="850000" chance="20." />
+	</capsule>
+	<capsule itemId="7634">
+		<!-- Looted Goods - Brown Pouch -->
+		<item id="1874" min="20" max="20" chance="18." />
+		<item id="1875" min="20" max="20" chance="16." />
+		<item id="1876" min="20" max="20" chance="10." />
+		<item id="1877" min="20" max="20" chance="10." />
+		<item id="1879" min="20" max="20" chance="5." />
+		<item id="1880" min="20" max="20" chance="10" />
+		<item id="1881" min="20" max="20" chance="10." />
+		<item id="1882" min="20" max="20" chance="11." />
+		<item id="57" min="150000" max="150000" chance="10." />
+	</capsule>
+	<capsule itemId="7635">
+		<!-- Looted Goods - Gray Pouch  -->
+		<item id="4039" min="4" max="4" chance="20." />
+		<item id="4040" min="4" max="4" chance="20." />
+		<item id="4041" min="4" max="4" chance="20." />
+		<item id="4042" min="4" max="4" chance="10." />
+		<item id="4043" min="4" max="4" chance="10." />
+		<item id="4044" min="4" max="4" chance="10." />
+		<item id="57" min="160000" max="160000" chance="10." />
+	</capsule>
+	<capsule itemId="5969">
+		<!-- Item Name -->
+		<item id="5970" min="1" max="1" chance="5." />
+		<item id="5971" min="1" max="1" chance="5." />
+		<item id="5982" min="1" max="1" chance="5." />
+		<item id="5987" min="1" max="1" chance="5." />
+		<item id="5989" min="1" max="1" chance="5." />
+		<item id="5990" min="1" max="1" chance="5." />
+		<item id="5991" min="1" max="1" chance="5." />
+		<item id="5992" min="1" max="1" chance="5." />
+		<item id="5996" min="1" max="1" chance="5." />
+		<item id="5998" min="1" max="1" chance="5." />
+		<item id="5999" min="1" max="1" chance="12.5" />
+		<item id="6000" min="1" max="1" chance="12.5" />
+		<item id="5972" min="1" max="1" chance="12.5" />
+		<item id="6001" min="1" max="1" chance="12.5" />
+	</capsule>
+	<capsule itemId="7725">
+		<!-- Item Name -->
+		<item id="6035" min="1" max="1" chance="7." />
+		<item id="1060" min="1" max="1" chance="39." />
+		<item id="735" min="1" max="1" chance="7." />
+		<item id="1540" min="1" max="1" chance="3." />
+		<item id="1061" min="1" max="1" chance="12." />
+		<item id="1539" min="1" max="1" chance="32." />
+	</capsule>
+	<capsule itemId="7637">
+		<!-- Item Name -->
+		<item id="4039" min="4" max="4" chance="20." />
+		<item id="4041" min="1" max="1" chance="10." />
+		<item id="4043" min="4" max="4" chance="20." />
+		<item id="4044" min="4" max="4" chance="20." />
+		<item id="4042" min="2" max="2" chance="15." />
+		<item id="4040" min="2" max="2" chance="15." />
+	</capsule>
+	<capsule itemId="7636">
+		<!-- Item Name -->
+		<item id="1875" min="3" max="3" chance="20." />
+		<item id="1882" min="3" max="3" chance="10." />
+		<item id="1880" min="4" max="4" chance="20." />
+		<item id="1874" min="1" max="1" chance="20." />
+		<item id="1877" min="3" max="3" chance="15." />
+		<item id="1881" min="1" max="1" chance="15." />
+		<item id="1879" min="3" max="3" chance="20." />
+		<item id="1876" min="6" max="6" chance="10." />
+	</capsule>
+	<capsule itemId="6010">
+		<!-- Item Name -->
+		<item id="6017" min="2" max="2" chance="20." />
+		<item id="6020" min="2" max="2" chance="20." />
+		<item id="6016" min="1" max="1" chance="35." />
+		<item id="6015" min="2" max="2" chance="25." />
+	</capsule>
+	<capsule itemId="6009">
+		<!-- Item Name -->
+		<item id="6012" min="2" max="2" chance="20." />
+		<item id="6018" min="2" max="2" chance="20." />
+		<item id="6019" min="1" max="1" chance="20." />
+		<item id="6013" min="1" max="1" chance="40." />
+	</capsule>
+	<capsule itemId="6008">
+		<!-- Item Name -->
+		<item id="6017" min="2" max="2" chance="10." />
+		<item id="6020" min="2" max="2" chance="20." />
+		<item id="6014" min="1" max="1" chance="35." />
+		<item id="6016" min="1" max="1" chance="35." />
+	</capsule>
+	<capsule itemId="5968">
+		<!-- Item Name -->
+		<item id="5973" min="1" max="1" chance="1.6" />
+		<item id="5974" min="1" max="1" chance="1.6" />
+		<item id="5981" min="1" max="1" chance="1.6" />
+		<item id="5984" min="1" max="1" chance="1.6" />
+		<item id="5989" min="1" max="1" chance="1.6" />
+		<item id="5990" min="1" max="1" chance="1.6" />
+		<item id="5991" min="1" max="1" chance="1.6" />
+		<item id="5992" min="1" max="1" chance="1.6" />
+		<item id="5996" min="1" max="1" chance="10.25" />
+		<item id="5998" min="1" max="1" chance="10.25" />
+		<item id="5999" min="1" max="1" chance="10.25" />
+		<item id="6000" min="1" max="1" chance="10.25" />
+		<item id="5988" min="1" max="1" chance="14.34" />
+		<item id="5983" min="1" max="1" chance="14.34" />
+		<item id="6001" min="1" max="1" chance="14.34" />
+	</capsule>
+	<capsule itemId="5967">
+		<!-- Item Name -->
+		<item id="5970" min="1" max="1" chance="5." />
+		<item id="5971" min="1" max="1" chance="5." />
+		<item id="5975" min="1" max="1" chance="5." />
+		<item id="5976" min="1" max="1" chance="5." />
+		<item id="5980" min="1" max="1" chance="5." />
+		<item id="5985" min="1" max="1" chance="5." />
+		<item id="5993" min="1" max="1" chance="5." />
+		<item id="5994" min="1" max="1" chance="5." />
+		<item id="5995" min="1" max="1" chance="5." />
+		<item id="5997" min="1" max="1" chance="5." />
+		<item id="5983" min="1" max="1" chance="25." />
+		<item id="6001" min="1" max="1" chance="25." />
+	</capsule>
+	<capsule itemId="5966">
+		<!-- Item Name -->
+		<item id="5970" min="1" max="1" chance="5." />
+		<item id="5971" min="1" max="1" chance="5." />
+		<item id="5977" min="1" max="1" chance="5." />
+		<item id="5978" min="1" max="1" chance="5." />
+		<item id="5979" min="1" max="1" chance="5." />
+		<item id="5986" min="1" max="1" chance="5." />
+		<item id="5993" min="1" max="1" chance="5." />
+		<item id="5994" min="1" max="1" chance="5." />
+		<item id="5995" min="1" max="1" chance="5." />
+		<item id="5997" min="1" max="1" chance="5." />
+		<item id="5983" min="1" max="1" chance="25." />
+		<item id="6001" min="1" max="1" chance="25." />
+	</capsule>
+	<capsule itemId="6007">
+		<!-- Item Name -->
+		<item id="6019" min="2" max="2" chance="30." />
+		<item id="6013" min="2" max="2" chance="30." />
+		<item id="6014" min="1" max="1" chance="20." />
+		<item id="6016" min="1" max="1" chance="20." />
+	</capsule>
+	<capsule itemId="5955">
+		<!-- Item Name -->
+		<item id="5942" min="1" max="1" chance="5." />
+		<item id="5943" min="1" max="1" chance="5." />
+		<item id="5945" min="1" max="1" chance="5." />
+		<item id="5946" min="1" max="1" chance="5." />
+		<item id="5947" min="1" max="1" chance="5." />
+		<item id="5948" min="1" max="1" chance="5." />
+		<item id="5949" min="1" max="1" chance="5." />
+		<item id="5950" min="1" max="1" chance="5." />
+		<item id="5951" min="1" max="1" chance="5." />
+		<item id="5952" min="1" max="1" chance="5." />
+		<item id="5953" min="1" max="1" chance="25." />
+		<item id="5954" min="1" max="1" chance="25." />
+	</capsule>
+	<capsule itemId="5944">
+		<!-- Item Name -->
+		<item id="5922" min="1" max="1" chance="2.5" />
+		<item id="5923" min="1" max="1" chance="2.5" />
+		<item id="5924" min="1" max="1" chance="2.5" />
+		<item id="5925" min="1" max="1" chance="2.5" />
+		<item id="5926" min="1" max="1" chance="2.5" />
+		<item id="5927" min="1" max="1" chance="2.5" />
+		<item id="5928" min="1" max="1" chance="2.5" />
+		<item id="5929" min="1" max="1" chance="2.5" />
+		<item id="5930" min="1" max="1" chance="2.5" />
+		<item id="5931" min="1" max="1" chance="2.5" />
+		<item id="5932" min="1" max="1" chance="2.5" />
+		<item id="5933" min="1" max="1" chance="2.5" />
+		<item id="5934" min="1" max="1" chance="2.5" />
+		<item id="5935" min="1" max="1" chance="2.5" />
+		<item id="5936" min="1" max="1" chance="2.5" />
+		<item id="5937" min="1" max="1" chance="2.5" />
+		<item id="5938" min="1" max="1" chance="2.5" />
+		<item id="5939" min="1" max="1" chance="2.5" />
+		<item id="5940" min="1" max="1" chance="2.5" />
+		<item id="5941" min="1" max="1" chance="2.5" />
+		<item id="5942" min="1" max="1" chance="25." />
+		<item id="5943" min="1" max="1" chance="25." />
+	</capsule>
+	<capsule itemId="8547">
+		<!-- Old Box -->
+		<item id="8034" min="3" max="3" chance="80." />
+		<item id="2134" min="3" max="3" chance="4." />
+		<item id="2133" min="7" max="7" chance="11." />
+	</capsule>
+	
+	 <!-- Руна опыта\сп  -->
+<capsule itemId="9215">
+  <item id="9500" min="1" max="1" chance="100." />
+</capsule>
+
+  <!-- Руна опыта\сп 100% 3ч -->
+<capsule itemId="9216">
+  <item id="9501" min="1" max="1" chance="100." />
+</capsule>
+
+  <!-- Руна опыта\сп 50% 24ч -->
+<capsule itemId="9217">
+  <item id="9502" min="1" max="1" chance="100." />
+</capsule>
+
+  <!-- Руна опыта\сп 100% 24ч -->
+<capsule itemId="9218">
+  <item id="9503" min="1" max="1" chance="100." />
+</capsule>
+
+  <!-- Руна опыта\сп 50% 72ч -->
+<capsule itemId="9219">
+  <item id="9504" min="1" max="1" chance="100." />
+</capsule>
+
+  <!-- Руна опыта\сп 50% 3ч -->
+<capsule itemId="9221">
+  <item id="9500" min="1" max="1" chance="100." />
+</capsule>
+
+  <!-- Руна опыта\сп 100% 72ч -->
+<capsule itemId="9220">
+  <item id="9505" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Руна богатства 50% 3ч -->
+<capsule itemId="9222">
+  <item id="9506" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Руна богатства 100% 3ч -->
+<capsule itemId="9223">
+  <item id="9507" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Руна богатства 50% 24ч -->
+<capsule itemId="9224">
+  <item id="9508" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Руна богатства 100% 24ч -->
+<capsule itemId="9225">
+  <item id="9509" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Руна богатства 50% 72ч -->
+<capsule itemId="9226">
+  <item id="9510" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Руна богатства 100% 72ч -->
+<capsule itemId="9227">
+  <item id="9511" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Сундук на лицензию торговли эффектами -->
+<capsule itemId="9513">
+  <item id="9512" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Бирюзовая подарочная коробка -->
+<capsule itemId="9228">
+  <item id="9512" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Синяя подарочная коробка -->
+<capsule itemId="9229">
+  <item id="9512" min="1" max="1" chance="100." />
+</capsule>
+
+<!-- Золотая подарочная коробка -->
+<capsule itemId="9230">
+  <item id="9512" min="1" max="1" chance="100." />
+</capsule>
+
+
+  <!-- Дешевые головные уборы -->
+<capsule itemId="25101">
+  <item id="6846" min="1" max="1" chance="4." />
+  <item id="8911" min="1" max="1" chance="8." />
+  <item id="8662" min="1" max="1" chance="8." />
+  <item id="8566" min="1" max="1" chance="8." />
+  <item id="8558" min="1" max="1" chance="8." />
+  <item id="8184" min="1" max="1" chance="8." />
+  <item id="8923" min="1" max="1" chance="8." />
+  <item id="8918" min="1" max="1" chance="8." />
+  <item id="8661" min="1" max="1" chance="8." />
+  <item id="5808" min="1" max="1" chance="8." />
+  <item id="7696" min="1" max="1" chance="8." />
+  <item id="7682" min="1" max="1" chance="8." />
+  <item id="8916" min="1" max="1" chance="8." />
+</capsule>
+
+<!-- Хорошие головные уборы -->
+<capsule itemId="25102">
+  <item id="8910" min="1" max="1" chance="6." />
+  <item id="8568" min="1" max="1" chance="6." />
+  <item id="8567" min="1" max="1" chance="6." />
+  <item id="8564" min="1" max="1" chance="6." />
+  <item id="8561" min="1" max="1" chance="6." />
+  <item id="8560" min="1" max="1" chance="6." />
+  <item id="8557" min="1" max="1" chance="6." />
+  <item id="8188" min="1" max="1" chance="6." />
+  <item id="8186" min="1" max="1" chance="6." />
+  <item id="8185" min="1" max="1" chance="6." />
+  <item id="8180" min="1" max="1" chance="6." />
+  <item id="8921" min="1" max="1" chance="6." />
+  <item id="8915" min="1" max="1" chance="6." />
+  <item id="7836" min="1" max="1" chance="6." />
+  <item id="7681" min="1" max="1" chance="6." />
+  <item id="7680" min="1" max="1" chance="6." />
+  <item id="7060" min="1" max="1" chance="4." />
+</capsule>
+
+<!-- Отличные головные уборы -->
+<capsule itemId="25103">
+  <item id="8660" min="1" max="1" chance="8." />
+  <item id="8565" min="1" max="1" chance="8." />
+  <item id="8563" min="1" max="1" chance="8." />
+  <item id="8562" min="1" max="1" chance="8." />
+  <item id="7683" min="1" max="1" chance="8." />
+  <item id="8922" min="1" max="1" chance="8." />
+  <item id="8919" min="1" max="1" chance="8." />
+  <item id="8914" min="1" max="1" chance="8." />
+  <item id="7839" min="1" max="1" chance="8." />
+  <item id="7837" min="1" max="1" chance="8." />
+  <item id="8559" min="1" max="1" chance="8." />
+  <item id="8569" min="1" max="1" chance="8." />
+  <item id="8936" min="1" max="1" chance="4." />
+</capsule>
+
+<!-- Богатые головные уборы 64-->
+<capsule itemId="25104">
+  <item id="8920" min="1" max="1" chance="2." />
+  <item id="6842" min="1" max="1" chance="2." />
+  <item id="6841" min="1" max="1" chance="2." />
+  <item id="22183" min="1" max="1" chance="2." />
+  <item id="21758" min="1" max="1" chance="2." />
+  <item id="21757" min="1" max="1" chance="2." />
+  <item id="21756" min="1" max="1" chance="2." />
+  <item id="21755" min="1" max="1" chance="2." />
+  <item id="21594" min="1" max="1" chance="2." />
+  <item id="21985" min="1" max="1" chance="2." />
+  <item id="21984" min="1" max="1" chance="2." />
+  <item id="21983" min="1" max="1" chance="2." />
+  <item id="21981" min="1" max="1" chance="2." />
+  <item id="21892" min="1" max="1" chance="2." />
+  <item id="21894" min="1" max="1" chance="2." />
+  <item id="21893" min="1" max="1" chance="2." />
+  <item id="21577" min="1" max="1" chance="2." />
+  <item id="21565" min="1" max="1" chance="2." />
+  <item id="21553" min="1" max="1" chance="2." />
+  <item id="20944" min="1" max="1" chance="2." />
+  <item id="20937" min="1" max="1" chance="2." />
+  <item id="20936" min="1" max="1" chance="2." />
+  <item id="20935" min="1" max="1" chance="2." />
+  <item id="20922" min="1" max="1" chance="2." />
+  <item id="20789" min="1" max="1" chance="2." />
+  <item id="20670" min="1" max="1" chance="2." />
+  <item id="20324" min="1" max="1" chance="2." />
+  <item id="20322" min="1" max="1" chance="2." />
+  <item id="20321" min="1" max="1" chance="2." />
+  <item id="20032" min="1" max="1" chance="2." />
+  <item id="20024" min="1" max="1" chance="2." />
+  <item id="20022" min="1" max="1" chance="2." />
+  <item id="20021" min="1" max="1" chance="2." />
+  <item id="20020" min="1" max="1" chance="2." />
+  <item id="17155" min="1" max="1" chance="2." />
+  <item id="17154" min="1" max="1" chance="2." />
+  <item id="17147" min="1" max="1" chance="1." />
+  <item id="17148" min="1" max="1" chance="1." />
+  <item id="17149" min="1" max="1" chance="1." />
+  <item id="17150" min="1" max="1" chance="1." />
+  <item id="17151" min="1" max="1" chance="1." />
+  <item id="17152" min="1" max="1" chance="1." />
+  <item id="16103" min="1" max="1" chance="1." />
+  <item id="16104" min="1" max="1" chance="1." />
+  <item id="15484" min="1" max="1" chance="1." />
+  <item id="14962" min="1" max="1" chance="1." />
+  <item id="14963" min="1" max="1" chance="1." />
+  <item id="14964" min="1" max="1" chance="1." />
+  <item id="14965" min="1" max="1" chance="1." />
+  <item id="13507" min="1" max="1" chance="1." />
+  <item id="13508" min="1" max="1" chance="1." />
+  <item id="13509" min="1" max="1" chance="1." />
+  <item id="13510" min="1" max="1" chance="1." />
+  <item id="13511" min="1" max="1" chance="1." />
+  <item id="13512" min="1" max="1" chance="1." />
+  <item id="13519" min="1" max="1" chance="1." />
+  <item id="13503" min="1" max="1" chance="1." />
+  <item id="13502" min="1" max="1" chance="1." />
+  <item id="13500" min="1" max="1" chance="1." />
+  <item id="13501" min="1" max="1" chance="1." />
+  <item id="13496" min="1" max="1" chance="1." />
+  <item id="13493" min="1" max="1" chance="1." />
+  <item id="13489" min="1" max="1" chance="1." />
+  <item id="14611" min="1" max="1" chance="1." />
+</capsule>
+
+<!-- Эпичные головные уборы 79-->
+<capsule itemId="25105">
+  <item id="21989" min="1" max="1" chance="2." />
+  <item id="21529" min="1" max="1" chance="2." />
+  <item id="21517" min="1" max="1" chance="2." />
+  <item id="21505" min="1" max="1" chance="2." />
+  <item id="21493" min="1" max="1" chance="2." />
+  <item id="21481" min="1" max="1" chance="2." />
+  <item id="21469" min="1" max="1" chance="2." />
+  <item id="21445" min="1" max="1" chance="2." />
+  <item id="21433" min="1" max="1" chance="2." />
+  <item id="21124" min="1" max="1" chance="2." />
+  <item id="21120" min="1" max="1" chance="2." />
+  <item id="21116" min="1" max="1" chance="2." />
+  <item id="21114" min="1" max="1" chance="2." />
+  <item id="21112" min="1" max="1" chance="2." />
+  <item id="21044" min="1" max="1" chance="2." />
+  <item id="20676" min="1" max="1" chance="2." />
+  <item id="20674" min="1" max="1" chance="2." />
+  <item id="20672" min="1" max="1" chance="2." />
+  <item id="20668" min="1" max="1" chance="2." />
+  <item id="20634" min="1" max="1" chance="2." />
+  <item id="17153" min="1" max="1" chance="2." />
+  <item id="16102" min="1" max="1" chance="1." />
+  <item id="16105" min="1" max="1" chance="1." />
+  <item id="16108" min="1" max="1" chance="1." />
+  <item id="16109" min="1" max="1" chance="1." />
+  <item id="13517" min="1" max="1" chance="1." />
+  <item id="13521" min="1" max="1" chance="1." />
+  <item id="13520" min="1" max="1" chance="1." />
+  <item id="13327" min="1" max="1" chance="1." />
+  <item id="12784" min="1" max="1" chance="1." />
+  <item id="12781" min="1" max="1" chance="1." />
+  <item id="12372" min="1" max="1" chance="1." />
+  <item id="12373" min="1" max="1" chance="1." />
+  <item id="21982" min="1" max="1" chance="1." />
+  <item id="21541" min="1" max="1" chance="1." />
+  <item id="21043" min="1" max="1" chance="1." />
+  <item id="21011" min="1" max="1" chance="1." />
+  <item id="21010" min="1" max="1" chance="1." />
+  <item id="21009" min="1" max="1" chance="1." />
+  <item id="20276" min="1" max="1" chance="1." />
+  <item id="20275" min="1" max="1" chance="1." />
+  <item id="20017" min="1" max="1" chance="1." />
+  <item id="20678" min="1" max="1" chance="1." />
+  <item id="16100" min="1" max="1" chance="1." />
+  <item id="16101" min="1" max="1" chance="1." />
+  <item id="16098" min="1" max="1" chance="1." />
+  <item id="16099" min="1" max="1" chance="1." />
+  <item id="13513" min="1" max="1" chance="1." />
+  <item id="13514" min="1" max="1" chance="1." />
+  <item id="13515" min="1" max="1" chance="1." />
+  <item id="13516" min="1" max="1" chance="1." />
+  <item id="13518" min="1" max="1" chance="1." />
+  <item id="13522" min="1" max="1" chance="1." />
+  <item id="13495" min="1" max="1" chance="1." />
+  <item id="16106" min="1" max="1" chance="1." />
+  <item id="16107" min="1" max="1" chance="1." />
+  <item id="20723" min="1" max="1" chance="1." />
+  <item id="15442" min="1" max="1" chance="1." />
+  <item id="15443" min="1" max="1" chance="1." />
+  <item id="15444" min="1" max="1" chance="1." />
+  <item id="15445" min="1" max="1" chance="1." />
+  <item id="15446" min="1" max="1" chance="1." />
+  <item id="15447" min="1" max="1" chance="1." />
+  <item id="20401" min="1" max="1" chance="1." />
+  <item id="20569" min="1" max="1" chance="1." />
+  <item id="20725" min="1" max="1" chance="1." />
+  <item id="20981" min="1" max="1" chance="1." />
+  <item id="20975" min="1" max="1" chance="1." />
+  <item id="20974" min="1" max="1" chance="1." />
+  <item id="20973" min="1" max="1" chance="1." />
+  <item id="20942" min="1" max="1" chance="1." />
+  <item id="20793" min="1" max="1" chance="1." />
+  <item id="20792" min="1" max="1" chance="1." />
+  <item id="15448" min="1" max="1" chance="1." />
+  <item id="15449" min="1" max="1" chance="1." />
+  <item id="15450" min="1" max="1" chance="1." />
+  <item id="15451" min="1" max="1" chance="1." />
+  <item id="15452" min="1" max="1" chance="1." />
+  <item id="15453" min="1" max="1" chance="1." />
+</capsule>
+
+<!-- Обычные шапки модника -->
+<capsule itemId="25106">
+  <item id="25101" min="1" max="1" chance="60." />
+  <item id="25102" min="1" max="1" chance="30." />
+  <item id="25103" min="1" max="1" chance="10." />
+</capsule>
+
+<!-- Элитные шапки модника -->
+<capsule itemId="25107">
+  <item id="25104" min="1" max="1" chance="70." />
+  <item id="25105" min="1" max="1" chance="30." />
+</capsule>
+
+ <!-- Премиум аккаунт 1 день-->
+<capsule itemId="25110">
+  <item id="25113" min="1" max="1" chance="100." />
+</capsule>
+
+ <!-- Премиум аккаунт 7 дней-->
+<capsule itemId="25111">
+  <item id="25114" min="1" max="1" chance="100." />
+</capsule>
+
+ <!-- Премиум аккаунт 31 день-->
+<capsule itemId="25112">
+  <item id="25115" min="1" max="1" chance="100." />
+</capsule>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</list>
