@@ -385,7 +385,7 @@
 
 
   <!-- Дешевые головные уборы -->
-<capsule itemId="25101">
+<capsule itemId="25101" requiredItemId="6673" requiredItemAmount="1" gachaponCrate="true">
   <item id="6846" min="1" max="1" chance="4." />
   <item id="8911" min="1" max="1" chance="8." />
   <item id="8662" min="1" max="1" chance="8." />
@@ -402,7 +402,7 @@
 </capsule>
 
 <!-- Хорошие головные уборы -->
-<capsule itemId="25102">
+<capsule itemId="25102" requiredItemId="6673" requiredItemAmount="10" gachaponCrate="true">
   <item id="8910" min="1" max="1" chance="6." />
   <item id="8568" min="1" max="1" chance="6." />
   <item id="8567" min="1" max="1" chance="6." />
@@ -423,7 +423,7 @@
 </capsule>
 
 <!-- Отличные головные уборы -->
-<capsule itemId="25103">
+<capsule itemId="25103" requiredItemId="6673" requiredItemAmount="50" gachaponCrate="true">
   <item id="8660" min="1" max="1" chance="8." />
   <item id="8565" min="1" max="1" chance="8." />
   <item id="8563" min="1" max="1" chance="8." />
@@ -440,7 +440,7 @@
 </capsule>
 
 <!-- Богатые головные уборы 64-->
-<capsule itemId="25104">
+<capsule itemId="25104" requiredItemId="4473" requiredItemAmount="100" gachaponCrate="true">
   <item id="8920" min="1" max="1" chance="2." />
   <item id="6842" min="1" max="1" chance="2." />
   <item id="6841" min="1" max="1" chance="2." />
@@ -508,7 +508,7 @@
 </capsule>
 
 <!-- Эпичные головные уборы 79-->
-<capsule itemId="25105">
+<capsule itemId="25105" requiredItemId="4473" requiredItemAmount="1000" gachaponCrate="true">
   <item id="21989" min="1" max="1" chance="2." />
   <item id="21529" min="1" max="1" chance="2." />
   <item id="21517" min="1" max="1" chance="2." />
