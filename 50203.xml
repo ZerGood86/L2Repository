@@ -10,10 +10,16 @@
 <production id="57" count="10000000" enchant="0"/>
 </item>
 
-<!-- Элитные шапки модника -->
-<item id="10">
+<!-- Богатые головные уборы -->
+<item id="9">
 <ingredient id="4037" count="100" enchant="0"/>
-<production id="25107" count="1" enchant="0"/>
+<production id="25104" count="1" enchant="0"/>
+</item>
+
+<!-- Эпичные головные уборы -->
+<item id="10">
+<ingredient id="4037" count="1000" enchant="0"/>
+<production id="25105" count="1" enchant="0"/>
 </item>
 
 <!-- 100% Свиток: Модифицировать Оружие (S) -->
