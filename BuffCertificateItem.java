@@ -18,7 +18,16 @@ public class BuffCertificateItem extends ScriptItemHandler {
 
     private static final int[][] consumeItemTable = {
             { 57, 100 },    // +0 -> +1
-            { 57, 500 }     // +1 -> +2
+            { 57, 500 },     // +1 -> +2
+			{	57	,	1000	}	,	//	3
+			{	57	,	1100	}	,	//	4
+			{	57	,	1200	}	,	//	5
+			{	57	,	1300	}	,	//	6
+			{	57	,	1400	}	,	//	7
+			{	57	,	1500	}	,	//	8
+			{	57	,	1600	}	,	//	9
+			{	57	,	1700	}	,	//	10
+			{	57	,	1800	}		//	11
     };
 
     @Override

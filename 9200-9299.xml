@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+<armor id="9202" name="Shadow Item - Dapper Cap" add_name="Firework">
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="durability" value="360"/>
+		<set name="icon" value="icon.accessory_dandy_cap_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+		<skills>
+			<skill id="3266" level="1"/>
+		</skills>
+	</armor>
+<!-- [Ключ для ивента Trick or Transmutation] -->
+<etcitem id="9205" name="Alchemist's Chest Key">
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="icon" value="icon.etc_old_key_i02"/>
+    <set name="stackable" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="OTHER"/>
+    <set name="weight" value="10"/>
+  </etcitem>
+  
+	<etcitem id="9210" name="Enir">
+		<!-- [Enir] -->
+		<set name="price" value="20000"/>
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="Nostalgia.money_enir"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="MONEY"/>
+	</etcitem>
+
+	<etcitem id="9211" name="Premium Card - 30">
+		<!-- [клубная карта] -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="NostalgiaIcon.items_001"/>
+		<set name="durability" value="43200"/> <!-- [30 дней] 43200 -->
+		<set name="temporal" value="true"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="MONEY"/>
+	</etcitem>
+
+	<etcitem id="9212" name="Premium Card - 7">
+		<!-- [клубная карта] -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="NostalgiaIcon.items_001"/>
+		<set name="durability" value="10080"/> <!-- [7 дней] 10080 -->
+		<set name="temporal" value="true"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="MONEY"/>
+	</etcitem>
+
+	<etcitem id="9213" name="Premium Card - 1">
+		<!-- [клубная карта] -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="destroyable" value="false"/>
+		<set name="icon" value="NostalgiaIcon.items_001"/>
+		<set name="durability" value="4320"/> <!-- [1 дней] 1440 -->
+		<set name="temporal" value="true"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="MONEY"/>
+	</etcitem>
+	
+	<etcitem id="9215" name="Сундук Путешественника: Руна Exp\SP 50% 3ч">
+		<!-- Руна опыта\сп 50% 3ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_2_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9216" name="Сундук Путешественника: Руна Exp\SP 100% 3ч">
+		<!-- Руна опыта\сп 100% 3ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_2_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9217" name="Сундук Путешественника: Руна Exp\SP 50% 24ч">
+		<!-- Руна опыта\сп 50% 24ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_4_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9218" name="Сундук Путешественника: Руна Exp\SP 100% 24ч">
+		<!-- Руна опыта\сп 100% 24ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_4_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9219" name="Сундук Путешественника: Руна Exp\SP 50% 72ч">
+		<!-- Руна опыта\сп 50% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9220" name="Сундук Путешественника: Руна Exp\SP 100% 72ч">
+		<!-- Руна опыта\сп 100% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+    <etcitem id="9221" name="Сундук Путешественника: Руна Exp\SP 50% 3ч">
+		<!-- Руна опыта\сп 50% 3ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<!-- Коробки Богатства -->
+	
+	<etcitem id="9222" name="Сундук Богатства: Руна Adena\Drop\Spoil 50% 3ч">
+		<!-- Руна богатства 50% 3ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9223" name="Сундук Богатства: Руна Adena\Drop\Spoil 100% 3ч">
+		<!-- Руна опыта\сп 100% 3ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9224" name="Сундук Богатства: Руна Adena\Drop\Spoil 50% 24ч">
+		<!-- Руна опыта\сп 50% 24ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9225" name="Сундук Богатства: Руна Adena\Drop\Spoil 100% 24ч">
+		<!-- Руна опыта\сп 100% 24ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9226" name="Сундук Богатства: Руна Adena\Drop\Spoil 50% 72ч">
+		<!-- Руна опыта\сп 50% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="9227" name="Сундук Богатства: Руна Exp\SP 100% 72ч">
+		<!-- Руна опыта\сп 100% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	
+	<etcitem id="9228" name="Бирюзовая подарочная коробка">
+		<!-- Руна опыта\сп 100% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys.icon.br_gold_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="5"/>
+	</etcitem>
+	
+	
+	<etcitem id="9229" name="Синяя подарочная коробка">
+		<!-- Руна опыта\сп 100% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys.icon.br_silver_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="5"/>
+	</etcitem>
+	
+	
+	<etcitem id="9230" name="Золотая подарочная коробка">
+		<!-- Руна опыта\сп 100% 72ч -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys.icon.br_bright_gold_box_i00"/>
+		<set name="stackable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="5"/>
+	</etcitem>
+	
+</list>
