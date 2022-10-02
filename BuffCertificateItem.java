@@ -1,10 +1,13 @@
 package handler.items;
 
 import ru.j2dev.gameserver.Config;
+import ru.j2dev.gameserver.data.xml.holder.ItemTemplateHolder;
 import ru.j2dev.gameserver.model.Playable;
 import ru.j2dev.gameserver.model.Player;
 import ru.j2dev.gameserver.model.items.ItemInstance;
+import ru.j2dev.gameserver.network.lineage2.serverpackets.InventoryUpdate;
 import ru.j2dev.gameserver.network.lineage2.serverpackets.MagicSkillUse;
+import ru.j2dev.gameserver.network.lineage2.serverpackets.SystemMessage;
 import ru.j2dev.gameserver.utils.ItemFunctions;
 import ru.j2dev.gameserver.utils.Merchant;
 
@@ -18,16 +21,7 @@ public class BuffCertificateItem extends ScriptItemHandler {
 
     private static final int[][] consumeItemTable = {
             { 57, 100 },    // +0 -> +1
-            { 57, 500 },     // +1 -> +2
-			{	57	,	1000	}	,	//	3
-			{	57	,	1100	}	,	//	4
-			{	57	,	1200	}	,	//	5
-			{	57	,	1300	}	,	//	6
-			{	57	,	1400	}	,	//	7
-			{	57	,	1500	}	,	//	8
-			{	57	,	1600	}	,	//	9
-			{	57	,	1700	}	,	//	10
-			{	57	,	1800	}		//	11
+            { 57, 500 }     // +1 -> +2
     };
 
     @Override
@@ -45,16 +39,9 @@ public class BuffCertificateItem extends ScriptItemHandler {
             return false;
         }
 
-        if (!Merchant.tradeItem(player,
-                consumeItemTable[enchantLevel][0], consumeItemTable[enchantLevel][1],
-                Config.BUFF_TICKET_ID, 1L)) {
-            player.sendActionFailed();
-            return false;
-        }
-
-        item.setEnchantLevel(enchantLevel + 1);
-        player.broadcastPacket(new MagicSkillUse(player, player, 2003, 1, 1, 0L));
-        player.broadcastCharInfo();
+        String val = consumeItemTable[enchantLevel][1] + " " + ItemTemplateHolder.getInstance().getTemplate(consumeItemTable[enchantLevel][0]).getName();
+        String text = player.isLangRus() ? "Для улучшения сертификата Вам понадобится " + val : "Upgrade of this buff certificate will costs you " + val;
+        player.certificateUpgradeRequest(text, item.getObjectId(), consumeItemTable[enchantLevel][0], consumeItemTable[enchantLevel][1]);
         return true;
     }
 

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
-		<!-- [Buff Money] -->
+		<!-- [Old Buff Money] -->
 	<armor id="25000" name="Buff Money">
-		<set name="price" value="1000"/>
+				<!-- [coin_of_luck] -->
+		<set name="price" value="1"/>
+		<set name="class" value="OTHER"/>
 		<set name="crystal_type" value="NONE"/>
 		<set name="destroyable" value="false"/>
 		<set name="icon" value="icon.etc_hs_agit_war_joining_certificate_i00"/>
 		<set name="stackable" value="true"/>
-		<set name="tradeable" value="false"/>
+		<set name="tradeable" value="true"/>
 		<set name="dropable" value="false"/>
-		<set name="type" value="PET"/>
-		<set name="weight" value="160"/>
-		<equip>
-			<slot id="WOLF"/>
-		</equip>
+		<set name="type" value="MONEY"/>
 	</armor>
 	
 	<armor id="25001" name="Entries. Purchased tokens.">
@@ -25,15 +23,6 @@
 		<set name="stackable" value="true"/>
 		<set name="type" value="PET"/>
 		<set name="weight" value="160"/>
-		<equip>
-			<slot id="WOLF"/>
-		</equip>
-		
-			
-			
-			
-			
-		
 	</armor>	
 	<armor id="25002" name="Entries. Purchased tokens.">
 		<!-- [Записи. Куплено жетонов.] -->
