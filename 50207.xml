@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Shadow Armor -->
+<list>
+	<config showall="true" notax="true" ignoreprice="true" keepenchanted="false" />
+	<!-- NG -->
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9035" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9037" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9034" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9033" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9032" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9031" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9030" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9038" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9039" count="1"/>
+	</item>
+	
+	<!-- Щит -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="9036" count="1"/>
+	</item>
+	
+		<!-- D -->
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9049" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9050" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9051" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9052" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9047" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9053" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9046" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9045" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9048" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9040" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9041" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9042" count="1"/>
+	</item>
+	
+	<!-- 0000 -->
+	<item>
+		<ingredient id="57" count="20000"/>
+		<production id="9043" count="1"/>
+	</item>
+
+	<!-- Щит -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="9044" count="1"/>
+	</item>
+</list>
