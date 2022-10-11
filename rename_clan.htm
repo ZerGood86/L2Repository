@@ -1,0 +1,55 @@
+
+<html imgsrc="WarEffectsTextures.Particles.jm-chip"><!-- фон -->
+<title>Священный источник | Переименование клана</title><!-- титул в нпц  -->
+<body>
+<br>
+<br>
+<br>
+
+<table width=295>
+<tr>
+<td align="center"><font color="ff9218">Переименование клана за</font>
+<br>
+<font color="LEVEL">%item_count% &#%item_id%;.</font></td>
+</tr>
+</table>
+
+<br>
+<br>
+<br>
+<table width=300>
+
+<tr>
+<td align="center"><font color="ff9218">Новое название:<edit var="new_name" width=80></font></td>
+</tr>
+
+<tr>
+<td align=center><img src="icon.mticket_sword_fix_i00" width=32 height=35></td>
+</tr>
+<tr>
+<td align=center><button value="Переименовать " action="scripts_services.ClanRename:rename_clan $new_name" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+</tr>
+</table>
+
+<br>
+<br>
+<table width=300>
+<tr>
+<td align=center><img src="L2UI_CT1.Icon.ICON_DF_CHARACTERTURN_RIGHT" width=50 height=53></td>
+</tr>
+<tr>
+<td align=center><button value="Назад " action="bypass -h npc_%objectId%_Link mods/services/50202.htm" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+</tr>
+</table>
+
+</body>
+</html>
+
+<html><head><body>Rename clan:<br>
+Rename clan for %item_count% &#%item_id%;
+<table width=270>
+<tr><td>New name:<edit var="new_name" width=80></td></tr>
+<tr><td></td></tr>
+<tr><td>[scripts_services.ClanRename:rename_clan $new_name|Rename Clan]</td></tr>
+</table>
+</body></html>
