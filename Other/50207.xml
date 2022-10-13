@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list>
+<!-- вкладка расходники -->
+
+<!-- Soulshot-->
+<item id="1">
+<ingredient id="57" count="10"/>
+<production id="1835" count="1"/>
+</item>
+
+<item id="2">
+<ingredient id="57" count="200"/>
+<production id="1463" count="1"/>
+</item>
+
+<!-- Blessed Spiritshot -->
+<item id="3">
+<ingredient id="57" count="40"/>
+<production id="3947" count="1"/>
+</item>
+
+<item id="4">
+<ingredient id="57" count="800"/>
+<production id="3948" count="1"/>
+</item>
+
+<!-- стрелы -->
+<item id="5">
+<ingredient id="57" count="2"/>
+<production id="17" count="1"/>
+</item>
+
+<item id="6">
+<ingredient id="57" count="10"/>
+<production id="1341" count="1"/>
+</item>
+
+<!-- соски на петов -->
+<item id="7">
+<ingredient id="57" count="1000"/>
+<production id="6645" count="1"/>
+</item>
+
+<item id="8">
+<ingredient id="57" count="3000"/>
+<production id="6647" count="1"/>
+</item>
+	
+  <!-- Lesser Healing Potion   -->
+<item id="9">
+<ingredient id="57" count="50" enchant="0"/>
+<production id="1060" count="1" enchant="0"/>
+</item>
+
+  <!-- Healing Potion   -->
+<item id="10">
+<ingredient id="57" count="350" enchant="0"/>
+<production id="1061" count="1" enchant="0"/>
+</item>
+
+  <!-- COE   -->
+<item id="14">
+<ingredient id="57" count="1500" enchant="0"/>
+<production id="736" count="1" enchant="0"/>
+</item>
+
+  <!-- COR   -->
+<item id="15">
+<ingredient id="57" count="15000" enchant="0"/>
+<production id="737" count="1" enchant="0"/>
+</item>
+
+<!-- recovery scrolls -->
+<item id="48">
+<ingredient id="57" count="10000" enchant="0"/>
+<production id="8594" count="1" enchant="0"/>
+</item>
+
+<item id="49">
+<ingredient id="57" count="70000" enchant="0"/>
+<production id="8595" count="1" enchant="0"/>
+</item>
+
+  <!-- Elixir of Life (No Grade) -->
+  <item id="77">
+    <ingredient id="57" count="1000"/>
+    <production id="8622" count="1"/>
+  </item>
+  
+  <!-- Elixir of Life (D)-->
+  <item id="78">
+    <ingredient id="57" count="10000"/>
+    <production id="8623" count="1"/>
+  </item>
+
+    <!-- Antidote -->
+  <item id="89">
+    <ingredient id="57" count="1000"/>
+    <production id="1831" count="1"/>
+  </item>
+
+  <!-- Greater Antidote -->
+  <item id="90">
+    <ingredient id="57" count="10000"/>
+    <production id="1832" count="1"/>
+  </item> 
+  
+  <!-- Haste Potion -->
+  <item id="91">
+    <ingredient id="57" count="25000"/>
+    <production id="734" count="1"/>
+  </item>
+  
+    <!-- Potion of Alacrity -->
+  <item id="92">
+<ingredient id="57" count="25000"/>
+<production id="735" count="1"/>
+</item>
+
+<!-- Magic Haste Potion -->
+<item id="93">
+<ingredient id="57" count="25000"/>
+<production id="6035" count="1"/>
+</item>
+
+  <!-- Waking Scroll -->
+  <item id="99">
+    <ingredient id="57" count="1000"/>
+    <production id="6037" count="1"/>
+  </item>
+
+</list>
