@@ -1,0 +1,1959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 15736,142872,-2704,16383-->
+    <npc id="50010" count="1" respawn="60" pos="15736 142872 -2704 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 16231,142887,-2704,14903-->
+    <npc id="50011" count="1" respawn="60" pos="16231 142887 -2704 14903" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 15496,142744,-2696,16383-->
+    <npc id="31860" count="1" respawn="60" pos="15496 142744 -2696 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 16792,145032,-2992,60699-->
+    <npc id="50010" count="1" respawn="60" pos="16792 145032 -2992 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 16760,144888,-2992,0-->
+    <npc id="50011" count="1" respawn="60" pos="16760 144888 -2992 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 18648,145880,-3088,49151-->
+    <npc id="50010" count="1" respawn="60" pos="18648 145880 -3088 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 18440,145944,-3088,40959-->
+    <npc id="50011" count="1" respawn="60" pos="18440 145944 -3088 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 18232,145176,-3088,7037-->
+    <npc id="31860" count="1" respawn="60" pos="18232 145176 -3088 7037" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 148072,-55784,-2752,32767-->
+    <npc id="50011" count="1" respawn="60" pos="148072 -55784 -2752 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 147352,-55784,-2752,0-->
+    <npc id="31860" count="1" respawn="60" pos="147352 -55784 -2752 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -13208,122168,-2984,16383-->
+    <npc id="50010" count="1" respawn="60" pos="-13208 122168 -2984 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -12984,122168,-2984,16383-->
+    <npc id="50011" count="1" respawn="60" pos="-12984 122168 -2984 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -12840,122808,-3120,47093-->
+    <npc id="50010" count="1" respawn="60" pos="-12840 122808 -3120 47093" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -12632,122824,-3120,49151-->
+    <npc id="50011" count="1" respawn="60" pos="-12632 122824 -3120 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -13112,122536,-3112,0-->
+    <npc id="31860" count="1" respawn="60" pos="-13112 122536 -3112 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Bella]">
+    <!--Миксер spawned : Bella on Loc : -14552,124024,-3120,53988-->
+    <npc id="30256" count="1" respawn="60" pos="-14552 124024 -3120 53988" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -14632,123992,-3120,53988-->
+    <npc id="50010" count="1" respawn="60" pos="-14632 123992 -3120 53988" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -14472,124200,-3112,0-->
+    <npc id="50011" count="1" respawn="60" pos="-14472 124200 -3112 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -14072,123192,-3112,32767-->
+    <npc id="31860" count="1" respawn="60" pos="-14072 123192 -3112 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 86952,-143144,-1296,3355-->
+    <npc id="50010" count="1" respawn="60" pos="86952 -143144 -1296 3355" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 87016,-142920,-1312,0-->
+    <npc id="50011" count="1" respawn="60" pos="87016 -142920 -1312 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 87704,-143224,-1288,29412-->
+    <npc id="31860" count="1" respawn="60" pos="87704 -143224 -1288 29412" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 117096,77032,-2704,37604-->
+    <npc id="50010" count="1" respawn="60" pos="117096 77032 -2704 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 117304,76712,-2688,40959-->
+    <npc id="50011" count="1" respawn="60" pos="117304 76712 -2688 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 116936,77256,-2688,44928-->
+    <npc id="31860" count="1" respawn="60" pos="116936 77256 -2688 44928" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 116120,76648,-2736,59899-->
+    <npc id="50010" count="1" respawn="60" pos="116120 76648 -2736 59899" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 116280,76936,-2736,0-->
+    <npc id="50011" count="1" respawn="60" pos="116280 76936 -2736 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 147816,26600,-2200,16383-->
+    <npc id="50010" count="1" respawn="60" pos="147816 26600 -2200 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 148040,26616,-2200,16383-->
+    <npc id="50011" count="1" respawn="60" pos="148040 26616 -2200 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 147832,25592,-2008,19739-->
+    <npc id="31860" count="1" respawn="60" pos="147832 25592 -2008 19739" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 146888,25912,-2008,49151-->
+    <npc id="50011" count="1" respawn="60" pos="146888 25912 -2008 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 147048,25912,-2008,49151-->
+    <npc id="50010" count="1" respawn="60" pos="147048 25912 -2008 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 44296,-47672,-792,49151-->
+    <npc id="50010" count="1" respawn="60" pos="44296 -47672 -792 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 44104,-47688,-792,51210-->
+    <npc id="50011" count="1" respawn="60" pos="44104 -47688 -792 51210" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 44312,-48376,-792,16383-->
+    <npc id="31860" count="1" respawn="60" pos="44312 -48376 -792 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ilyana]">
+    <!--Миксер spawned : Ilyana on Loc : 11432,-24776,-3648,22020-->
+    <npc id="31320" count="1" respawn="60" pos="11432 -24776 -3648 22020" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 11512,-24728,-3648,23095-->
+    <npc id="50010" count="1" respawn="60" pos="11512 -24728 -3648 23095" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 11255,-24873,-3648,14661-->
+    <npc id="50011" count="1" respawn="60" pos="11255 -24873 -3648 14661" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 11960,-24376,-3640,32767-->
+    <npc id="31860" count="1" respawn="60" pos="11960 -24376 -3640 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 82984,53320,-1488,32767-->
+    <npc id="50010" count="1" respawn="60" pos="82984 53320 -1488 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 83000,53576,-1488,32767-->
+    <npc id="50011" count="1" respawn="60" pos="83000 53576 -1488 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 83176,53464,-1448,32767-->
+    <npc id="31860" count="1" respawn="60" pos="83176 53464 -1448 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -82184,150168,-3120,16383-->
+    <npc id="50010" count="1" respawn="60" pos="-82184 150168 -3120 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -81864,150168,-3120,16383-->
+    <npc id="50011" count="1" respawn="60" pos="-81864 150168 -3120 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -80328,149816,-3040,26634-->
+    <npc id="50010" count="1" respawn="60" pos="-80328 149816 -3040 26634" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -80392,149592,-3040,32767-->
+    <npc id="50011" count="1" respawn="60" pos="-80392 149592 -3040 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -81000,150040,-3040,0-->
+    <npc id="31860" count="1" respawn="60" pos="-81000 150040 -3040 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 111080,218904,-3536,11547-->
+    <npc id="50010" count="1" respawn="60" pos="111080 218904 -3536 11547" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 111688,218904,-3536,16383-->
+    <npc id="50011" count="1" respawn="60" pos="111688 218904 -3536 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 111528,218616,-3464,19739-->
+    <npc id="31860" count="1" respawn="60" pos="111528 218616 -3464 19739" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 111480,219592,-3664,16383-->
+    <npc id="50011" count="1" respawn="60" pos="111480 219592 -3664 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 111304,219592,-3664,16383-->
+    <npc id="50010" count="1" respawn="60" pos="111304 219592 -3664 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -84488,243192,-3728,24575-->
+    <npc id="31860" count="1" respawn="60" pos="-84488 243192 -3728 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -84552,244696,-3728,57343-->
+    <npc id="50010" count="1" respawn="60" pos="-84552 244696 -3728 57343" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -84696,244536,-3728,60699-->
+    <npc id="50011" count="1" respawn="60" pos="-84696 244536 -3728 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -45256,-112776,-240,0-->
+    <npc id="50011" count="1" respawn="60" pos="-45256 -112776 -240 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -45256,-112648,-240,0-->
+    <npc id="50010" count="1" respawn="60" pos="-45256 -112648 -240 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -45096,-112952,-240,0-->
+    <npc id="31860" count="1" respawn="60" pos="-45096 -112952 -240 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 45896,47240,-2992,37604-->
+    <npc id="50010" count="1" respawn="60" pos="45896 47240 -2992 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 45976,46984,-2992,35323-->
+    <npc id="50011" count="1" respawn="60" pos="45976 46984 -2992 35323" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 46520,51752,-2992,0-->
+    <npc id="50010" count="1" respawn="60" pos="46520 51752 -2992 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 46520,51384,-2992,60699-->
+    <npc id="50011" count="1" respawn="60" pos="46520 51384 -2992 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 46760,51016,-2992,8191-->
+    <npc id="31860" count="1" respawn="60" pos="46760 51016 -2992 8191" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 115080,-178280,-912,4836-->
+    <npc id="50011" count="1" respawn="60" pos="115080 -178280 -912 4836" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 115079,-177976,-912,64055-->
+    <npc id="50010" count="1" respawn="60" pos="115079 -177976 -912 64055" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 115704,-178296,-944,27931-->
+    <npc id="31860" count="1" respawn="60" pos="115704 -178296 -944 27931" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 9704,15384,-4568,13028-->
+    <npc id="50010" count="1" respawn="60" pos="9704 15384 -4568 13028" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 9896,15368,-4568,16383-->
+    <npc id="50011" count="1" respawn="60" pos="9896 15368 -4568 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 9784,16184,-4568,55285-->
+    <npc id="31860" count="1" respawn="60" pos="9784 16184 -4568 55285" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 83064,148392,-3472,40959-->
+    <npc id="50010" count="1" respawn="60" pos="83064 148392 -3472 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 83048,148840,-3472,32767-->
+    <npc id="50011" count="1" respawn="60" pos="83048 148840 -3472 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 81768,147512,-3464,16383-->
+    <npc id="50011" count="1" respawn="60" pos="81768 147512 -3464 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 81912,147528,-3464,16383-->
+    <npc id="50010" count="1" respawn="60" pos="81912 147528 -3464 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : 83048,147912,-3472,32767-->
+    <npc id="31860" count="1" respawn="60" pos="83048 147912 -3472 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 148104,-55576,-2736,36123-->
+    <npc id="50010" count="1" respawn="60" pos="148104 -55576 -2736 36123" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -115960,-251176,-2992,51707-->
+    <npc id="50010" count="1" respawn="60" pos="-115960 -251176 -2992 51707" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -116072,-251224,-2992,21220-->
+    <npc id="31860" count="1" respawn="60" pos="-116072 -251224 -2992 21220" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -115913,-251080,-2992,63813-->
+    <npc id="50011" count="1" respawn="60" pos="-115913 -251080 -2992 63813" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 37896,-38648,-3600,16383-->
+    <npc id="50010" count="1" respawn="60" pos="37896 -38648 -3600 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 38152,-38632,-3600,17423-->
+    <npc id="50011" count="1" respawn="60" pos="38152 -38632 -3600 17423" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Purgatory Liviona]">
+    <!--Миксер spawned : Purgatory Liviona on Loc : 147688,88552,-5424,23775-->
+    <npc id="21160" count="1" respawn="60" pos="147688 88552 -5424 23775" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Purgatory Liviona]">
+    <!--Миксер spawned : Purgatory Liviona on Loc : 146872,88408,-5424,17423-->
+    <npc id="21160" count="1" respawn="60" pos="146872 88408 -5424 17423" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lilim Knight Commander]">
+    <!--Миксер spawned : Lilim Knight Commander on Loc : 147495,88536,-5424,64841-->
+    <npc id="21183" count="1" respawn="60" pos="147495 88536 -5424 64841" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lilim Knight Commander]">
+    <!--Миксер spawned : Lilim Knight Commander on Loc : 146744,88680,-5424,25873-->
+    <npc id="21183" count="1" respawn="60" pos="146744 88680 -5424 25873" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lilim Knight Commander]">
+    <!--Миксер spawned : Lilim Knight Commander on Loc : 147849,88322,-5424,612-->
+    <npc id="21183" count="1" respawn="60" pos="147849 88322 -5424 612" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Crypt Guard ]">
+    <!--Миксер spawned : Crypt Guard  on Loc : 147224,88408,-5424,44315-->
+    <npc id="21252" count="1" respawn="60" pos="147224 88408 -5424 44315" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--Миксер spawned : Buzz the Cat on Loc : -113256,-244440,-15536,12160-->
+    <npc id="31860" count="1" respawn="60" pos="-113256 -244440 -15536 12160" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -113160,-244456,-15536,49151-->
+    <npc id="50011" count="1" respawn="60" pos="-113160 -244456 -15536 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 83288,148392,-3400,0-->
+    <npc id="50010" count="1" respawn="60" pos="83288 148392 -3400 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : 83672,148376,-3400,32767-->
+    <npc id="50011" count="1" respawn="60" pos="83672 148376 -3400 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 83656,147992,-3400,32767-->
+    <npc id="31076" count="1" respawn="60" pos="83656 147992 -3400 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 147864,-55224,-2728,47093-->
+    <npc id="31076" count="1" respawn="60" pos="147864 -55224 -2728 47093" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 17144,144904,-3040,24575-->
+    <npc id="31076" count="1" respawn="60" pos="17144 144904 -3040 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : -14504,124104,-3112,57343-->
+    <npc id="31076" count="1" respawn="60" pos="-14504 124104 -3112 57343" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : -13064,122840,-3112,59402-->
+    <npc id="31076" count="1" respawn="60" pos="-13064 122840 -3112 59402" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 87160,-143464,-1288,16383-->
+    <npc id="31076" count="1" respawn="60" pos="87160 -143464 -1288 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 117192,76808,-2688,37604-->
+    <npc id="31076" count="1" respawn="60" pos="117192 76808 -2688 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 146808,25592,-1984,16383-->
+    <npc id="31076" count="1" respawn="60" pos="146808 25592 -1984 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 43720,-47688,-792,49151-->
+    <npc id="31076" count="1" respawn="60" pos="43720 -47688 -792 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 82840,53096,-1488,8191-->
+    <npc id="31076" count="1" respawn="60" pos="82840 53096 -1488 8191" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : -80840,149736,-3040,18442-->
+    <npc id="31076" count="1" respawn="60" pos="-80840 149736 -3040 18442" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 111464,219416,-3544,49151-->
+    <npc id="31076" count="1" respawn="60" pos="111464 219416 -3544 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : -84152,244696,-3728,40959-->
+    <npc id="31076" count="1" respawn="60" pos="-84152 244696 -3728 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : -45272,-112392,-240,0-->
+    <npc id="31076" count="1" respawn="60" pos="-45272 -112392 -240 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 46520,51592,-2992,60699-->
+    <npc id="31076" count="1" respawn="60" pos="46520 51592 -2992 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 115080,-178072,-912,2058-->
+    <npc id="31076" count="1" respawn="60" pos="115080 -178072 -912 2058" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : 9672,15752,-4568,0-->
+    <npc id="31076" count="1" respawn="60" pos="9672 15752 -4568 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -113512,-244216,-4992,55285-->
+    <npc id="50011" count="1" respawn="60" pos="-113512 -244216 -4992 55285" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
+    <!--Миксер spawned : Nostalgia on Loc : -113448,-244152,-4992,52507-->
+    <npc id="50010" count="1" respawn="60" pos="-113448 -244152 -4992 52507" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--Миксер spawned : Newbie Guide on Loc : -113784,-244008,-4992,13828-->
+    <npc id="31076" count="1" respawn="60" pos="-113784 -244008 -4992 13828" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Succubus Queen]">
+    <!--Миксер spawned : Succubus Queen on Loc : 150792,-174232,-1776,58498-->
+    <npc id="27114" count="1" respawn="60" pos="150792 -174232 -1776 58498" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Кто-то]">
+    <!--Миксер spawned : Кто-то on Loc : -113368,-244872,-4992,57343-->
+    <npc id="3500" count="1" respawn="60" pos="-113368 -244872 -4992 57343" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Кто-то]">
+    <!--Миксер spawned : Кто-то on Loc : 178856,-184360,-352,37604-->
+    <npc id="3500" count="1" respawn="60" pos="178856 -184360 -352 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lost Gargoyle]">
+    <!--Миксер spawned : Lost Gargoyle on Loc : 121384,-113656,-2320,10250-->
+    <npc id="22085" count="1" respawn="60" pos="121384 -113656 -2320 10250" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lost Gargoyle]">
+    <!--Миксер spawned : Lost Gargoyle on Loc : 121496,-112792,-2312,14661-->
+    <npc id="22085" count="1" respawn="60" pos="121496 -112792 -2312 14661" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lost Gargoyle Youngling]">
+    <!--Миксер spawned : Lost Gargoyle Youngling on Loc : 121239,-112505,-2312,2201-->
+    <npc id="22086" count="1" respawn="60" pos="121239 -112505 -2312 2201" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lost Gargoyle]">
+    <!--Миксер spawned : Lost Gargoyle on Loc : 120376,-112920,-2312,35323-->
+    <npc id="22085" count="1" respawn="60" pos="120376 -112920 -2312 35323" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Lost Gargoyle Youngling]">
+    <!--Миксер spawned : Lost Gargoyle Youngling on Loc : 120696,-113912,-2312,52290-->
+    <npc id="22086" count="1" respawn="60" pos="120696 -113912 -2312 52290" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrannosaurus]">
+    <!--Миксер spawned : Tyrannosaurus on Loc : 18376,-18152,-3208,3968-->
+    <npc id="22217" count="1" respawn="60" pos="18376 -18152 -3208 3968" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrannosaurus]">
+    <!--Миксер spawned : Tyrannosaurus on Loc : 19864,-9512,-2816,62376-->
+    <npc id="22217" count="1" respawn="60" pos="19864 -9512 -2816 62376" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrannosaurus]">
+    <!--Миксер spawned : Tyrannosaurus on Loc : 24728,-12408,-2520,13828-->
+    <npc id="22217" count="1" respawn="60" pos="24728 -12408 -2520 13828" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrannosaurus]">
+    <!--Миксер spawned : Tyrannosaurus on Loc : 27656,-16952,-2624,30212-->
+    <npc id="22217" count="1" respawn="60" pos="27656 -16952 -2624 30212" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Donal]">
+    <!--Миксер spawned : Donal on Loc : 11896,-23800,-3640,37604-->
+    <npc id="31314" count="1" respawn="60" pos="11896 -23800 -3640 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Daisy]">
+    <!--Миксер spawned : Daisy on Loc : 11832,-23688,-3640,37604-->
+    <npc id="31315" count="1" respawn="60" pos="11832 -23688 -3640 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 79016,209240,-3696,0-->
+    <npc id="31110" count="1" respawn="60" pos="79016 209240 -3696 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 168872,-18184,-3184,14903-->
+    <npc id="31109" count="1" respawn="60" pos="168872 -18184 -3184 14903" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 114888,133448,-3120,47276-->
+    <npc id="31108" count="1" respawn="60" pos="114888 133448 -3120 47276" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : -55112,79112,-3016,32767-->
+    <npc id="31107" count="1" respawn="60" pos="-55112 79112 -3016 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : -25240,77928,-3440,25730-->
+    <npc id="31106" count="1" respawn="60" pos="-25240 77928 -3440 25730" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 108472,173976,-3704,32767-->
+    <npc id="31105" count="1" respawn="60" pos="108472 173976 -3704 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 45848,127304,-3696,32767-->
+    <npc id="31104" count="1" respawn="60" pos="45848 127304 -3696 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : -41016,206344,-3360,37604-->
+    <npc id="31103" count="1" respawn="60" pos="-41016 206344 -3360 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : -22296,13688,-3168,42440-->
+    <npc id="31124" count="1" respawn="60" pos="-22296 13688 -3168 42440" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 111064,84552,-4816,32767-->
+    <npc id="31125" count="1" respawn="60" pos="111064 84552 -4816 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 137560,79688,-3704,21220-->
+    <npc id="31123" count="1" respawn="60" pos="137560 79688 -3704 21220" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 74312,78952,-3408,51432-->
+    <npc id="31122" count="1" respawn="60" pos="74312 78952 -3408 51432" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 43400,170296,-3256,0-->
+    <npc id="31121" count="1" respawn="60" pos="43400 170296 -3256 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper Ziggurat]">
+    <!--Миксер spawned : Gatekeeper Ziggurat on Loc : 39128,144344,-3648,21220-->
+    <npc id="31120" count="1" respawn="60" pos="39128 144344 -3648 21220" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Silent Statue]">
+    <!--ZerGood spawned : Silent Statue on Loc : 83656,148024,-3400,32767-->
+    <npc id="50200" count="1" respawn="60" pos="83656 148024 -3400 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Altar of Good]">
+    <!--ZerGood spawned : Altar of Good on Loc : 83672,148424,-3400,37604-->
+    <npc id="50201" count="1" respawn="60" pos="83672 148424 -3400 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Denkus]">
+    <!--ZerGood spawned : Denkus on Loc : 83656,148488,-3408,37604-->
+    <npc id="30082" count="1" respawn="60" pos="83656 148488 -3408 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Jurek]">
+    <!--fm spawned : Jurek on Loc : 82344,148376,-3472,63813-->
+    <npc id="30115" count="1" respawn="60" pos="82344 148376 -3472 63813" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Sacred Source]">
+    <!--ZerGood spawned : Sacred Source on Loc : 83656,148232,-3400,27931-->
+    <npc id="50202" count="1" respawn="60" pos="83656 148232 -3400 27931" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fun Altar]">
+    <!--ZerGood spawned : Fun Altar on Loc : 83640,148136,-3400,29412-->
+    <npc id="50203" count="1" respawn="60" pos="83640 148136 -3400 29412" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Grad]">
+    <!--ZerGood spawned : Grad on Loc : 83576,148536,-3408,37604-->
+    <npc id="35101" count="1" respawn="60" pos="83576 148536 -3408 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Jurek]">
+    <!--fm spawned : Jurek on Loc : 44088,-48824,-800,36123-->
+    <npc id="30115" count="1" respawn="60" pos="44088 -48824 -800 36123" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--ZerGood spawned : Newbie Guide on Loc : 83656,147944,-3400,32767-->
+    <npc id="50204" count="1" respawn="60" pos="83656 147944 -3400 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181048,-174904,-3568,20352-->
+    <npc id="20001" count="1" respawn="60" pos="181048 -174904 -3568 20352" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180984,-175224,-3568,47093-->
+    <npc id="20001" count="1" respawn="60" pos="180984 -175224 -3568 47093" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181256,-175304,-3568,62345-->
+    <npc id="20001" count="1" respawn="60" pos="181256 -175304 -3568 62345" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181576,-175400,-3568,62709-->
+    <npc id="20001" count="1" respawn="60" pos="181576 -175400 -3568 62709" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181768,-175544,-3568,58824-->
+    <npc id="20001" count="1" respawn="60" pos="181768 -175544 -3568 58824" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181608,-175784,-3568,43018-->
+    <npc id="20001" count="1" respawn="60" pos="181608 -175784 -3568 43018" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181416,-175592,-3568,24575-->
+    <npc id="20001" count="1" respawn="60" pos="181416 -175592 -3568 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181256,-175704,-3568,39138-->
+    <npc id="20001" count="1" respawn="60" pos="181256 -175704 -3568 39138" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180856,-175704,-3568,32767-->
+    <npc id="20001" count="1" respawn="60" pos="180856 -175704 -3568 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180728,-175416,-3568,20607-->
+    <npc id="20001" count="1" respawn="60" pos="180728 -175416 -3568 20607" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180456,-175192,-3568,26485-->
+    <npc id="20001" count="1" respawn="60" pos="180456 -175192 -3568 26485" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180248,-174952,-3568,23832-->
+    <npc id="20001" count="1" respawn="60" pos="180248 -174952 -3568 23832" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180424,-174968,-3568,5826-->
+    <npc id="20001" count="1" respawn="60" pos="180424 -174968 -3568 5826" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180760,-174952,-3568,0-->
+    <npc id="20001" count="1" respawn="60" pos="180760 -174952 -3568 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180792,-174600,-3568,15438-->
+    <npc id="20001" count="1" respawn="60" pos="180792 -174600 -3568 15438" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180680,-174296,-3568,20065-->
+    <npc id="20001" count="1" respawn="60" pos="180680 -174296 -3568 20065" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181160,-174152,-3568,3040-->
+    <npc id="20001" count="1" respawn="60" pos="181160 -174152 -3568 3040" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181432,-174376,-3568,58350-->
+    <npc id="20001" count="1" respawn="60" pos="181432 -174376 -3568 58350" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181688,-174664,-3568,56890-->
+    <npc id="20001" count="1" respawn="60" pos="181688 -174664 -3568 56890" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181976,-175016,-3568,55863-->
+    <npc id="20001" count="1" respawn="60" pos="181976 -175016 -3568 55863" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181960,-175352,-3568,48655-->
+    <npc id="20001" count="1" respawn="60" pos="181960 -175352 -3568 48655" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181752,-175304,-3568,30402-->
+    <npc id="20001" count="1" respawn="60" pos="181752 -175304 -3568 30402" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181416,-175128,-3568,27735-->
+    <npc id="20001" count="1" respawn="60" pos="181416 -175128 -3568 27735" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181448,-174744,-3568,15516-->
+    <npc id="20001" count="1" respawn="60" pos="181448 -174744 -3568 15516" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181128,-174504,-3568,26056-->
+    <npc id="20001" count="1" respawn="60" pos="181128 -174504 -3568 26056" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--ZerGood spawned : Newbie Guide on Loc : 181496,-176104,-3568,11547-->
+    <npc id="50204" count="1" respawn="60" pos="181496 -176104 -3568 11547" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181256,-175176,-3568,55285-->
+    <npc id="20001" count="1" respawn="60" pos="181256 -175176 -3568 55285" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181016,-174648,-3568,32767-->
+    <npc id="20001" count="1" respawn="60" pos="181016 -174648 -3568 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180808,-174424,-3568,23997-->
+    <npc id="20001" count="1" respawn="60" pos="180808 -174424 -3568 23997" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180456,-174344,-3568,32767-->
+    <npc id="20001" count="1" respawn="60" pos="180456 -174344 -3568 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180968,-174088,-3568,3796-->
+    <npc id="20001" count="1" respawn="60" pos="180968 -174088 -3568 3796" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181736,-174872,-3568,54978-->
+    <npc id="20001" count="1" respawn="60" pos="181736 -174872 -3568 54978" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181912,-175048,-3568,57343-->
+    <npc id="20001" count="1" respawn="60" pos="181912 -175048 -3568 57343" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181576,-175064,-3568,33154-->
+    <npc id="20001" count="1" respawn="60" pos="181576 -175064 -3568 33154" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181240,-174824,-3568,24575-->
+    <npc id="20001" count="1" respawn="60" pos="181240 -174824 -3568 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 180216,-175992,-3152,40959-->
+    <npc id="20177" count="1" respawn="60" pos="180216 -175992 -3152 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 180440,-176184,-3152,58144-->
+    <npc id="20177" count="1" respawn="60" pos="180440 -176184 -3152 58144" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 179880,-175544,-3152,24141-->
+    <npc id="20177" count="1" respawn="60" pos="179880 -175544 -3152 24141" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 179768,-175048,-3152,20746-->
+    <npc id="20177" count="1" respawn="60" pos="179768 -175048 -3152 20746" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 179848,-174744,-3152,13700-->
+    <npc id="20177" count="1" respawn="60" pos="179848 -174744 -3152 13700" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 179960,-174440,-3152,12702-->
+    <npc id="20177" count="1" respawn="60" pos="179960 -174440 -3152 12702" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 180216,-173992,-3152,10557-->
+    <npc id="20177" count="1" respawn="60" pos="180216 -173992 -3152 10557" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 180488,-173752,-3152,7540-->
+    <npc id="20177" count="1" respawn="60" pos="180488 -173752 -3152 7540" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 180888,-173656,-3152,2456-->
+    <npc id="20177" count="1" respawn="60" pos="180888 -173656 -3152 2456" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 181384,-173672,-3152,65199-->
+    <npc id="20177" count="1" respawn="60" pos="181384 -173672 -3152 65199" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 181896,-173848,-3152,62082-->
+    <npc id="20177" count="1" respawn="60" pos="181896 -173848 -3152 62082" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 182280,-174152,-3152,58551-->
+    <npc id="20177" count="1" respawn="60" pos="182280 -174152 -3152 58551" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 182520,-174584,-3152,54441-->
+    <npc id="20177" count="1" respawn="60" pos="182520 -174584 -3152 54441" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 182568,-175096,-3152,50019-->
+    <npc id="20177" count="1" respawn="60" pos="182568 -175096 -3152 50019" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 182440,-175496,-3152,44315-->
+    <npc id="20177" count="1" respawn="60" pos="182440 -175496 -3152 44315" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 182088,-176024,-3152,42569-->
+    <npc id="20177" count="1" respawn="60" pos="182088 -176024 -3152 42569" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 181512,-176392,-3152,38216-->
+    <npc id="20177" count="1" respawn="60" pos="181512 -176392 -3152 38216" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Zombie]">
+    <!--ZerGood spawned : Zombie on Loc : 181048,-176328,-3152,31338-->
+    <npc id="20177" count="1" respawn="60" pos="181048 -176328 -3152 31338" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179960,-173848,-2800,18106-->
+    <npc id="20312" count="1" respawn="60" pos="179960 -173848 -2800 18106" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179944,-173560,-2800,23095-->
+    <npc id="20312" count="1" respawn="60" pos="179944 -173560 -2800 23095" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179624,-174056,-2800,43585-->
+    <npc id="20312" count="1" respawn="60" pos="179624 -174056 -2800 43585" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179432,-174728,-2800,47429-->
+    <npc id="20312" count="1" respawn="60" pos="179432 -174728 -2800 47429" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179416,-175304,-2800,48717-->
+    <npc id="20312" count="1" respawn="60" pos="179416 -175304 -2800 48717" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179512,-175704,-2800,53020-->
+    <npc id="20312" count="1" respawn="60" pos="179512 -175704 -2800 53020" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179800,-176056,-2800,56765-->
+    <npc id="20312" count="1" respawn="60" pos="179800 -176056 -2800 56765" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180088,-176408,-2800,56304-->
+    <npc id="20312" count="1" respawn="60" pos="180088 -176408 -2800 56304" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180424,-176664,-2800,58745-->
+    <npc id="20312" count="1" respawn="60" pos="180424 -176664 -2800 58745" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180712,-176824,-2800,60246-->
+    <npc id="20312" count="1" respawn="60" pos="180712 -176824 -2800 60246" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181208,-176888,-2800,64197-->
+    <npc id="20312" count="1" respawn="60" pos="181208 -176888 -2800 64197" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181528,-176808,-2800,1039-->
+    <npc id="20312" count="1" respawn="60" pos="181528 -176808 -2800 1039" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182072,-176632,-2800,3511-->
+    <npc id="20312" count="1" respawn="60" pos="182072 -176632 -2800 3511" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182616,-176104,-2800,8843-->
+    <npc id="20312" count="1" respawn="60" pos="182616 -176104 -2800 8843" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182872,-175448,-2800,13161-->
+    <npc id="20312" count="1" respawn="60" pos="182872 -175448 -2800 13161" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182968,-174984,-2800,14325-->
+    <npc id="20312" count="1" respawn="60" pos="182968 -174984 -2800 14325" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182872,-174568,-2800,19597-->
+    <npc id="20312" count="1" respawn="60" pos="182872 -174568 -2800 19597" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182600,-173960,-2800,20671-->
+    <npc id="20312" count="1" respawn="60" pos="182600 -173960 -2800 20671" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182296,-173656,-2800,24788-->
+    <npc id="20312" count="1" respawn="60" pos="182296 -173656 -2800 24788" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181832,-173384,-2800,28100-->
+    <npc id="20312" count="1" respawn="60" pos="181832 -173384 -2800 28100" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181256,-173320,-2800,31581-->
+    <npc id="20312" count="1" respawn="60" pos="181256 -173320 -2800 31581" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
+    <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180728,-173336,-2800,33083-->
+    <npc id="20312" count="1" respawn="60" pos="180728 -173336 -2800 33083" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Skeleton Hunter]">
+    <!--ZerGood spawned : Skeleton Hunter on Loc : 179320,-176088,-2424,29025-->
+    <npc id="20517" count="1" respawn="60" pos="179320 -176088 -2424 29025" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 179096,-176024,-2424,27353-->
+    <npc id="20015" count="1" respawn="60" pos="179096 -176024 -2424 27353" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 179320,-176168,-2424,59576-->
+    <npc id="20015" count="1" respawn="60" pos="179320 -176168 -2424 59576" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 179560,-176648,-2424,54496-->
+    <npc id="20015" count="1" respawn="60" pos="179560 -176648 -2424 54496" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 180024,-176936,-2424,59741-->
+    <npc id="20015" count="1" respawn="60" pos="180024 -176936 -2424 59741" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 180424,-177032,-2424,63079-->
+    <npc id="20015" count="1" respawn="60" pos="180424 -177032 -2424 63079" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 180824,-177096,-2424,63983-->
+    <npc id="20015" count="1" respawn="60" pos="180824 -177096 -2424 63983" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 181352,-177224,-2416,62575-->
+    <npc id="20015" count="1" respawn="60" pos="181352 -177224 -2416 62575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 181832,-177160,-2424,1429-->
+    <npc id="20015" count="1" respawn="60" pos="181832 -177160 -2424 1429" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 182264,-176952,-2424,4680-->
+    <npc id="20015" count="1" respawn="60" pos="182264 -176952 -2424 4680" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 182712,-176648,-2424,6218-->
+    <npc id="20015" count="1" respawn="60" pos="182712 -176648 -2424 6218" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 183032,-176200,-2424,9846-->
+    <npc id="20015" count="1" respawn="60" pos="183032 -176200 -2424 9846" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 183288,-175704,-2424,11683-->
+    <npc id="20015" count="1" respawn="60" pos="183288 -175704 -2424 11683" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 183304,-175080,-2424,16109-->
+    <npc id="20015" count="1" respawn="60" pos="183304 -175080 -2424 16109" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 183208,-174424,-2424,17926-->
+    <npc id="20015" count="1" respawn="60" pos="183208 -174424 -2424 17926" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 183064,-173912,-2424,19322-->
+    <npc id="20015" count="1" respawn="60" pos="183064 -173912 -2424 19322" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 182792,-173464,-2424,23881-->
+    <npc id="20015" count="1" respawn="60" pos="182792 -173464 -2424 23881" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 182184,-173016,-2424,26135-->
+    <npc id="20015" count="1" respawn="60" pos="182184 -173016 -2424 26135" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 181576,-172808,-2424,29865-->
+    <npc id="20015" count="1" respawn="60" pos="181576 -172808 -2424 29865" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 181096,-172792,-2424,32342-->
+    <npc id="20015" count="1" respawn="60" pos="181096 -172792 -2424 32342" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 180648,-172760,-2424,32189-->
+    <npc id="20015" count="1" respawn="60" pos="180648 -172760 -2424 32189" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 180136,-172968,-2408,38334-->
+    <npc id="20015" count="1" respawn="60" pos="180136 -172968 -2408 38334" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 179608,-173416,-2424,41332-->
+    <npc id="20015" count="1" respawn="60" pos="179608 -173416 -2424 41332" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 179208,-173896,-2424,41905-->
+    <npc id="20015" count="1" respawn="60" pos="179208 -173896 -2424 41905" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 178984,-174440,-2424,46786-->
+    <npc id="20015" count="1" respawn="60" pos="178984 -174440 -2424 46786" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
+    <!--ZerGood spawned : Marsh Zombie on Loc : 178888,-175112,-2424,48076-->
+    <npc id="20015" count="1" respawn="60" pos="178888 -175112 -2424 48076" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 178344,-175096,-2424,32073-->
+    <npc id="20423" count="1" respawn="60" pos="178344 -175096 -2424 32073" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 178248,-174904,-2424,21220-->
+    <npc id="20423" count="1" respawn="60" pos="178248 -174904 -2424 21220" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177896,-174840,-2424,30892-->
+    <npc id="20423" count="1" respawn="60" pos="177896 -174840 -2424 30892" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177704,-175016,-2424,40506-->
+    <npc id="20423" count="1" respawn="60" pos="177704 -175016 -2424 40506" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177672,-175448,-2408,50874-->
+    <npc id="20423" count="1" respawn="60" pos="177672 -175448 -2408 50874" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177464,-175752,-2368,41346-->
+    <npc id="20423" count="1" respawn="60" pos="177464 -175752 -2368 41346" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177512,-176056,-2336,56847-->
+    <npc id="20423" count="1" respawn="60" pos="177512 -176056 -2336 56847" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177560,-176296,-2304,51210-->
+    <npc id="20423" count="1" respawn="60" pos="177560 -176296 -2304 51210" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177288,-176536,-2272,40308-->
+    <npc id="20423" count="1" respawn="60" pos="177288 -176536 -2272 40308" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177272,-176792,-2240,48500-->
+    <npc id="20423" count="1" respawn="60" pos="177272 -176792 -2240 48500" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177512,-176872,-2232,6133-->
+    <npc id="20423" count="1" respawn="60" pos="177512 -176872 -2232 6133" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177560,-177160,-2200,50874-->
+    <npc id="20423" count="1" respawn="60" pos="177560 -177160 -2200 50874" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177304,-177512,-2152,42205-->
+    <npc id="20423" count="1" respawn="60" pos="177304 -177512 -2152 42205" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177176,-177848,-2112,46168-->
+    <npc id="20423" count="1" respawn="60" pos="177176 -177848 -2112 46168" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177400,-177992,-2096,2902-->
+    <npc id="20423" count="1" respawn="60" pos="177400 -177992 -2096 2902" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177496,-178232,-2064,53120-->
+    <npc id="20423" count="1" respawn="60" pos="177496 -178232 -2064 53120" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177224,-178552,-2024,41803-->
+    <npc id="20423" count="1" respawn="60" pos="177224 -178552 -2024 41803" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177400,-178856,-1992,58824-->
+    <npc id="20423" count="1" respawn="60" pos="177400 -178856 -1992 58824" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177592,-179064,-1960,56927-->
+    <npc id="20423" count="1" respawn="60" pos="177592 -179064 -1960 56927" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177736,-179304,-1936,54788-->
+    <npc id="20423" count="1" respawn="60" pos="177736 -179304 -1936 54788" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Akaste Bone Archer]">
+    <!--ZerGood spawned : Akaste Bone Archer on Loc : 177480,-179480,-1912,39050-->
+    <npc id="20423" count="1" respawn="60" pos="177480 -179480 -1912 39050" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177480,-179656,-1896,49151-->
+    <npc id="20371" count="1" respawn="60" pos="177480 -179656 -1896 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177656,-179688,-1896,63660-->
+    <npc id="20371" count="1" respawn="60" pos="177656 -179688 -1896 63660" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177864,-179800,-1896,60384-->
+    <npc id="20371" count="1" respawn="60" pos="177864 -179800 -1896 60384" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177672,-180152,-1896,43943-->
+    <npc id="20371" count="1" respawn="60" pos="177672 -180152 -1896 43943" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177672,-180152,-1896,43943-->
+    <npc id="20371" count="1" respawn="60" pos="177672 -180152 -1896 43943" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177672,-180152,-1896,43943-->
+    <npc id="20371" count="1" respawn="60" pos="177672 -180152 -1896 43943" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 178280,-180376,-1896,2058-->
+    <npc id="20371" count="1" respawn="60" pos="178280 -180376 -1896 2058" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 178440,-180568,-1896,56398-->
+    <npc id="20371" count="1" respawn="60" pos="178440 -180568 -1896 56398" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 178408,-180824,-1896,47854-->
+    <npc id="20371" count="1" respawn="60" pos="178408 -180824 -1896 47854" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 178088,-180696,-1896,28799-->
+    <npc id="20371" count="1" respawn="60" pos="178088 -180696 -1896 28799" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177816,-181016,-1896,41803-->
+    <npc id="20371" count="1" respawn="60" pos="177816 -181016 -1896 41803" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177784,-180680,-1896,17184-->
+    <npc id="20371" count="1" respawn="60" pos="177784 -180680 -1896 17184" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Mist Terror]">
+    <!--ZerGood spawned : Mist Terror on Loc : 177880,-180328,-1896,12845-->
+    <npc id="20371" count="1" respawn="60" pos="177880 -180328 -1896 12845" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 177976,-182232,-1896,48234-->
+    <npc id="20345" count="1" respawn="60" pos="177976 -182232 -1896 48234" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178264,-182376,-1896,60699-->
+    <npc id="20345" count="1" respawn="60" pos="178264 -182376 -1896 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178712,-182456,-1896,63765-->
+    <npc id="20345" count="1" respawn="60" pos="178712 -182456 -1896 63765" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178952,-182968,-1896,51786-->
+    <npc id="20345" count="1" respawn="60" pos="178952 -182968 -1896 51786" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178936,-183400,-1896,48765-->
+    <npc id="20345" count="1" respawn="60" pos="178936 -183400 -1896 48765" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178920,-183896,-1896,47093-->
+    <npc id="20345" count="1" respawn="60" pos="178920 -183896 -1896 47093" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178712,-183560,-1896,22137-->
+    <npc id="20345" count="1" respawn="60" pos="178712 -183560 -1896 22137" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178552,-183176,-1896,19847-->
+    <npc id="20345" count="1" respawn="60" pos="178552 -183176 -1896 19847" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178104,-182776,-1896,27131-->
+    <npc id="20345" count="1" respawn="60" pos="178104 -182776 -1896 27131" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 177864,-182840,-1896,35486-->
+    <npc id="20345" count="1" respawn="60" pos="177864 -182840 -1896 35486" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 177560,-183064,-1896,39391-->
+    <npc id="20345" count="1" respawn="60" pos="177560 -183064 -1896 39391" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 177640,-183384,-1896,51707-->
+    <npc id="20345" count="1" respawn="60" pos="177640 -183384 -1896 51707" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 177480,-183688,-1896,44098-->
+    <npc id="20345" count="1" respawn="60" pos="177480 -183688 -1896 44098" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 177704,-183896,-1896,57730-->
+    <npc id="20345" count="1" respawn="60" pos="177704 -183896 -1896 57730" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Dark Terror]">
+    <!--ZerGood spawned : Dark Terror on Loc : 178200,-183880,-1896,1480-->
+    <npc id="20345" count="1" respawn="60" pos="178200 -183880 -1896 1480" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 177368,-184952,-1896,33264-->
+    <npc id="21117" count="1" respawn="60" pos="177368 -184952 -1896 33264" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 177320,-184824,-1896,20126-->
+    <npc id="21117" count="1" respawn="60" pos="177320 -184824 -1896 20126" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 177496,-185192,-1896,53805-->
+    <npc id="21117" count="1" respawn="60" pos="177496 -185192 -1896 53805" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 177144,-185144,-1896,30106-->
+    <npc id="21117" count="1" respawn="60" pos="177144 -185144 -1896 30106" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 176888,-184888,-1896,21798-->
+    <npc id="21117" count="1" respawn="60" pos="176888 -184888 -1896 21798" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 176664,-185128,-1896,44789-->
+    <npc id="21117" count="1" respawn="60" pos="176664 -185128 -1896 44789" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 176520,-185272,-1896,39237-->
+    <npc id="21117" count="1" respawn="60" pos="176520 -185272 -1896 39237" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 176136,-185208,-1896,31045-->
+    <npc id="21117" count="1" respawn="60" pos="176136 -185208 -1896 31045" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 176136,-184920,-1896,16383-->
+    <npc id="21117" count="1" respawn="60" pos="176136 -184920 -1896 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 175784,-184856,-1896,30987-->
+    <npc id="21117" count="1" respawn="60" pos="175784 -184856 -1896 30987" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 175320,-184824,-1896,32500-->
+    <npc id="21117" count="1" respawn="60" pos="175320 -184824 -1896 32500" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 174744,-184840,-1896,33028-->
+    <npc id="21117" count="1" respawn="60" pos="174744 -184840 -1896 33028" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 174200,-184840,-1896,32767-->
+    <npc id="21117" count="1" respawn="60" pos="174200 -184840 -1896 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173816,-184760,-1896,30709-->
+    <npc id="21117" count="1" respawn="60" pos="173816 -184760 -1896 30709" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173656,-184312,-1896,15185-->
+    <npc id="21117" count="1" respawn="60" pos="173656 -184312 -1896 15185" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173720,-183816,-1896,14903-->
+    <npc id="21117" count="1" respawn="60" pos="173720 -183816 -1896 14903" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173752,-183448,-1896,15997-->
+    <npc id="21117" count="1" respawn="60" pos="173752 -183448 -1896 15997" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173624,-182920,-1896,19388-->
+    <npc id="21117" count="1" respawn="60" pos="173624 -182920 -1896 19388" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173416,-182984,-1896,35881-->
+    <npc id="21117" count="1" respawn="60" pos="173416 -182984 -1896 35881" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173432,-183240,-1896,49552-->
+    <npc id="21117" count="1" respawn="60" pos="173432 -183240 -1896 49552" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173432,-183656,-1896,49151-->
+    <npc id="21117" count="1" respawn="60" pos="173432 -183656 -1896 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173416,-184136,-1896,48433-->
+    <npc id="21117" count="1" respawn="60" pos="173416 -184136 -1896 48433" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173400,-184584,-1896,49151-->
+    <npc id="21117" count="1" respawn="60" pos="173400 -184584 -1896 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173576,-184920,-1896,55063-->
+    <npc id="21117" count="1" respawn="60" pos="173576 -184920 -1896 55063" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173880,-185144,-1896,59524-->
+    <npc id="21117" count="1" respawn="60" pos="173880 -185144 -1896 59524" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 174248,-185176,-1896,800-->
+    <npc id="21117" count="1" respawn="60" pos="174248 -185176 -1896 800" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 174664,-185144,-1896,315-->
+    <npc id="21117" count="1" respawn="60" pos="174664 -185144 -1896 315" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 175224,-185112,-1896,631-->
+    <npc id="21117" count="1" respawn="60" pos="175224 -185112 -1896 631" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 175720,-185128,-1896,64703-->
+    <npc id="21117" count="1" respawn="60" pos="175720 -185128 -1896 64703" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173608,-184104,-1896,20180-->
+    <npc id="21117" count="1" respawn="60" pos="173608 -184104 -1896 20180" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Kasha Imp]">
+    <!--ZerGood spawned : Kasha Imp on Loc : 173576,-183640,-1896,16383-->
+    <npc id="21117" count="1" respawn="60" pos="173576 -183640 -1896 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--ZerGood spawned : Newbie Guide on Loc : 173640,-181704,-1896,49151-->
+    <npc id="50204" count="1" respawn="60" pos="173640 -181704 -1896 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
+    <!--ZerGood spawned : Buzz the Cat on Loc : 173560,-181704,-1896,49151-->
+    <npc id="31860" count="1" respawn="60" pos="173560 -181704 -1896 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176648,-179848,136,53988-->
+    <npc id="20451" count="1" respawn="60" pos="176648 -179848 136 53988" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176472,-179704,136,1722-->
+    <npc id="20451" count="1" respawn="60" pos="176472 -179704 136 1722" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176472,-179560,136,16383-->
+    <npc id="20451" count="1" respawn="60" pos="176472 -179560 136 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176728,-179464,136,3968-->
+    <npc id="20451" count="1" respawn="60" pos="176728 -179464 136 3968" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176904,-179592,136,59402-->
+    <npc id="20451" count="1" respawn="60" pos="176904 -179592 136 59402" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176888,-179864,136,45796-->
+    <npc id="20451" count="1" respawn="60" pos="176888 -179864 136 45796" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177112,-180104,136,57343-->
+    <npc id="20451" count="1" respawn="60" pos="177112 -180104 136 57343" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177240,-180040,136,4836-->
+    <npc id="20451" count="1" respawn="60" pos="177240 -180040 136 4836" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177144,-179896,136,21798-->
+    <npc id="20451" count="1" respawn="60" pos="177144 -179896 136 21798" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177128,-179752,136,19739-->
+    <npc id="20451" count="1" respawn="60" pos="177128 -179752 136 19739" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177304,-179608,136,7037-->
+    <npc id="20451" count="1" respawn="60" pos="177304 -179608 136 7037" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177480,-179848,136,55751-->
+    <npc id="20451" count="1" respawn="60" pos="177480 -179848 136 55751" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177464,-179208,136,14661-->
+    <npc id="20451" count="1" respawn="60" pos="177464 -179208 136 14661" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177160,-179192,136,28799-->
+    <npc id="20451" count="1" respawn="60" pos="177160 -179192 136 28799" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177016,-179016,136,17976-->
+    <npc id="20451" count="1" respawn="60" pos="177016 -179016 136 17976" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176936,-178680,144,18664-->
+    <npc id="20451" count="1" respawn="60" pos="176936 -178680 144 18664" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 176984,-178408,136,8886-->
+    <npc id="20451" count="1" respawn="60" pos="176984 -178408 136 8886" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177272,-178312,136,0-->
+    <npc id="20451" count="1" respawn="60" pos="177272 -178312 136 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Relic Spartoi]">
+    <!--ZerGood spawned : Relic Spartoi on Loc : 177400,-178456,136,44315-->
+    <npc id="20451" count="1" respawn="60" pos="177400 -178456 136 44315" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177224,-176200,440,15640-->
+    <npc id="20026" count="1" respawn="60" pos="177224 -176200 440 15640" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177064,-176440,440,43018-->
+    <npc id="20026" count="1" respawn="60" pos="177064 -176440 440 43018" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177224,-176520,440,1154-->
+    <npc id="20026" count="1" respawn="60" pos="177224 -176520 440 1154" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177480,-176232,440,19367-->
+    <npc id="20026" count="1" respawn="60" pos="177480 -176232 440 19367" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177368,-175976,440,22020-->
+    <npc id="20026" count="1" respawn="60" pos="177368 -175976 440 22020" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177256,-175800,440,23421-->
+    <npc id="20026" count="1" respawn="60" pos="177256 -175800 440 23421" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 177032,-175688,440,31728-->
+    <npc id="20026" count="1" respawn="60" pos="177032 -175688 440 31728" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 176584,-175944,440,40959-->
+    <npc id="20026" count="1" respawn="60" pos="176584 -175944 440 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 176376,-176024,440,49151-->
+    <npc id="20026" count="1" respawn="60" pos="176376 -176024 440 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 176392,-176200,440,52507-->
+    <npc id="20026" count="1" respawn="60" pos="176392 -176200 440 52507" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 176584,-176312,448,61567-->
+    <npc id="20026" count="1" respawn="60" pos="176584 -176312 448 61567" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 176872,-176200,448,8191-->
+    <npc id="20026" count="1" respawn="60" pos="176872 -176200 448 8191" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Ruin Zombie]">
+    <!--ZerGood spawned : Ruin Zombie on Loc : 176936,-176008,440,0-->
+    <npc id="20026" count="1" respawn="60" pos="176936 -176008 440 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174168,-176136,744,34320-->
+    <npc id="20035" count="1" respawn="60" pos="174168 -176136 744 34320" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174248,-176136,744,0-->
+    <npc id="20035" count="1" respawn="60" pos="174248 -176136 744 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174680,-175928,744,3742-->
+    <npc id="20035" count="1" respawn="60" pos="174680 -175928 744 3742" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174744,-176152,744,49151-->
+    <npc id="20035" count="1" respawn="60" pos="174744 -176152 744 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174600,-176392,744,32767-->
+    <npc id="20035" count="1" respawn="60" pos="174600 -176392 744 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174216,-176568,744,44315-->
+    <npc id="20035" count="1" respawn="60" pos="174216 -176568 744 44315" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174264,-176920,744,53375-->
+    <npc id="20035" count="1" respawn="60" pos="174264 -176920 744 53375" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 173976,-176776,744,27931-->
+    <npc id="20035" count="1" respawn="60" pos="173976 -176776 744 27931" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 173832,-176312,744,27353-->
+    <npc id="20035" count="1" respawn="60" pos="173832 -176312 744 27353" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 173656,-176440,744,38901-->
+    <npc id="20035" count="1" respawn="60" pos="173656 -176440 744 38901" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 173816,-176072,744,8191-->
+    <npc id="20035" count="1" respawn="60" pos="173816 -176072 744 8191" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 173896,-175896,744,37604-->
+    <npc id="20035" count="1" respawn="60" pos="173896 -175896 744 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 174136,-175688,744,25821-->
+    <npc id="20035" count="1" respawn="60" pos="174136 -175688 744 25821" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tracker Skeleton]">
+    <!--ZerGood spawned : Tracker Skeleton on Loc : 173800,-176616,744,37604-->
+    <npc id="20035" count="1" respawn="60" pos="173800 -176616 744 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174008,-178840,1048,48112-->
+    <npc id="20160" count="1" respawn="60" pos="174008 -178840 1048 48112" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 173800,-178728,1048,27931-->
+    <npc id="20160" count="1" respawn="60" pos="173800 -178728 1048 27931" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174168,-178552,1048,6711-->
+    <npc id="20160" count="1" respawn="60" pos="174168 -178552 1048 6711" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174600,-178632,1064,63334-->
+    <npc id="20160" count="1" respawn="60" pos="174600 -178632 1064 63334" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174920,-178712,1048,63739-->
+    <npc id="20160" count="1" respawn="60" pos="174920 -178712 1048 63739" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175464,-178808,1048,63739-->
+    <npc id="20160" count="1" respawn="60" pos="175464 -178808 1048 63739" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175864,-178968,1048,56847-->
+    <npc id="20160" count="1" respawn="60" pos="175864 -178968 1048 56847" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 176056,-179192,1048,47559-->
+    <npc id="20160" count="1" respawn="60" pos="176056 -179192 1048 47559" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175496,-179752,1048,31900-->
+    <npc id="20160" count="1" respawn="60" pos="175496 -179752 1048 31900" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175032,-179704,1048,32172-->
+    <npc id="20160" count="1" respawn="60" pos="175032 -179704 1048 32172" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174472,-179688,1048,34120-->
+    <npc id="20160" count="1" respawn="60" pos="174472 -179688 1048 34120" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174072,-179768,1048,34589-->
+    <npc id="20160" count="1" respawn="60" pos="174072 -179768 1048 34589" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 173576,-179528,1048,13343-->
+    <npc id="20160" count="1" respawn="60" pos="173576 -179528 1048 13343" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 173544,-179064,1048,6711-->
+    <npc id="20160" count="1" respawn="60" pos="173544 -179064 1048 6711" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 173832,-179096,1048,61793-->
+    <npc id="20160" count="1" respawn="60" pos="173832 -179096 1048 61793" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174296,-179192,1048,0-->
+    <npc id="20160" count="1" respawn="60" pos="174296 -179192 1048 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 174680,-179160,1048,0-->
+    <npc id="20160" count="1" respawn="60" pos="174680 -179160 1048 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175096,-179224,1048,61379-->
+    <npc id="20160" count="1" respawn="60" pos="175096 -179224 1048 61379" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175448,-179384,1048,60121-->
+    <npc id="20160" count="1" respawn="60" pos="175448 -179384 1048 60121" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 175784,-179560,1048,60699-->
+    <npc id="20160" count="1" respawn="60" pos="175784 -179560 1048 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Neer Crawler]">
+    <!--ZerGood spawned : Neer Crawler on Loc : 176184,-179672,1048,30212-->
+    <npc id="20160" count="1" respawn="60" pos="176184 -179672 1048 30212" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177640,-177016,1352,48351-->
+    <npc id="21141" count="1" respawn="60" pos="177640 -177016 1352 48351" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177768,-176920,1352,6711-->
+    <npc id="21141" count="1" respawn="60" pos="177768 -176920 1352 6711" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177992,-176824,1352,6133-->
+    <npc id="21141" count="1" respawn="60" pos="177992 -176824 1352 6133" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177880,-176632,1360,21220-->
+    <npc id="21141" count="1" respawn="60" pos="177880 -176632 1360 21220" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177464,-176728,1352,21220-->
+    <npc id="21141" count="1" respawn="60" pos="177464 -176728 1352 21220" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177544,-176360,1352,11547-->
+    <npc id="21141" count="1" respawn="60" pos="177544 -176360 1352 11547" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177672,-176200,1352,8191-->
+    <npc id="21141" count="1" respawn="60" pos="177672 -176200 1352 8191" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177960,-176024,1352,4836-->
+    <npc id="21141" count="1" respawn="60" pos="177960 -176024 1352 4836" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 178088,-175784,1352,14508-->
+    <npc id="21141" count="1" respawn="60" pos="178088 -175784 1352 14508" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 178008,-175224,1352,20607-->
+    <npc id="21141" count="1" respawn="60" pos="178008 -175224 1352 20607" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177848,-174792,1352,13028-->
+    <npc id="21141" count="1" respawn="60" pos="177848 -174792 1352 13028" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177880,-174408,1352,17423-->
+    <npc id="21141" count="1" respawn="60" pos="177880 -174408 1352 17423" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177480,-174120,1352,32767-->
+    <npc id="21141" count="1" respawn="60" pos="177480 -174120 1352 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 177128,-174248,1352,38182-->
+    <npc id="21141" count="1" respawn="60" pos="177128 -174248 1352 38182" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 176792,-174680,1352,44789-->
+    <npc id="21141" count="1" respawn="60" pos="176792 -174680 1352 44789" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 176744,-175128,1352,49730-->
+    <npc id="21141" count="1" respawn="60" pos="176744 -175128 1352 49730" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Catacomb Serpent]">
+    <!--ZerGood spawned : Catacomb Serpent on Loc : 176920,-175560,1352,59709-->
+    <npc id="21141" count="1" respawn="60" pos="176920 -175560 1352 59709" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 176888,-178680,2024,48630-->
+    <npc id="20199" count="1" respawn="60" pos="176888 -178680 2024 48630" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 176520,-178936,2024,39107-->
+    <npc id="20199" count="1" respawn="60" pos="176520 -178936 2024 39107" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177128,-179080,2024,63115-->
+    <npc id="20199" count="1" respawn="60" pos="177128 -179080 2024 63115" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177816,-179080,2024,1039-->
+    <npc id="20199" count="1" respawn="60" pos="177816 -179080 2024 1039" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177960,-179304,2024,55111-->
+    <npc id="20199" count="1" respawn="60" pos="177960 -179304 2024 55111" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177768,-179768,2024,46168-->
+    <npc id="20199" count="1" respawn="60" pos="177768 -179768 2024 46168" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177608,-180024,2024,43325-->
+    <npc id="20199" count="1" respawn="60" pos="177608 -180024 2024 43325" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177320,-179848,2024,27046-->
+    <npc id="20199" count="1" respawn="60" pos="177320 -179848 2024 27046" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 177304,-179448,2024,16383-->
+    <npc id="20199" count="1" respawn="60" pos="177304 -179448 2024 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 176696,-179704,2024,36736-->
+    <npc id="20199" count="1" respawn="60" pos="176696 -179704 2024 36736" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 176152,-179720,2024,30804-->
+    <npc id="20199" count="1" respawn="60" pos="176152 -179720 2024 30804" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 176008,-179352,2024,20274-->
+    <npc id="20199" count="1" respawn="60" pos="176008 -179352 2024 20274" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 176024,-178776,2024,14791-->
+    <npc id="20199" count="1" respawn="60" pos="176024 -178776 2024 14791" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Amber Basilisk]">
+    <!--ZerGood spawned : Amber Basilisk on Loc : 175832,-179816,2024,58977-->
+    <npc id="20199" count="1" respawn="60" pos="175832 -179816 2024 58977" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 174008,-176872,2328,34150-->
+    <npc id="20145" count="1" respawn="60" pos="174008 -176872 2328 34150" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173640,-177080,2328,38133-->
+    <npc id="20145" count="1" respawn="60" pos="173640 -177080 2328 38133" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173544,-176872,2328,20894-->
+    <npc id="20145" count="1" respawn="60" pos="173544 -176872 2328 20894" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173128,-176456,2328,24575-->
+    <npc id="20145" count="1" respawn="60" pos="173128 -176456 2328 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173160,-176040,2328,16837-->
+    <npc id="20145" count="1" respawn="60" pos="173160 -176040 2328 16837" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173256,-175768,2328,2902-->
+    <npc id="20145" count="1" respawn="60" pos="173256 -175768 2328 2902" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173752,-175800,2328,64122-->
+    <npc id="20145" count="1" respawn="60" pos="173752 -175800 2328 64122" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 173864,-176296,2328,50490-->
+    <npc id="20145" count="1" respawn="60" pos="173864 -176296 2328 50490" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 174520,-177064,2328,56943-->
+    <npc id="20145" count="1" respawn="60" pos="174520 -177064 2328 56943" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 174872,-177096,2328,64735-->
+    <npc id="20145" count="1" respawn="60" pos="174872 -177096 2328 64735" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 175192,-176904,2328,7246-->
+    <npc id="20145" count="1" respawn="60" pos="175192 -176904 2328 7246" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 175080,-176616,2328,20065-->
+    <npc id="20145" count="1" respawn="60" pos="175080 -176616 2328 20065" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 175128,-175944,2328,15516-->
+    <npc id="20145" count="1" respawn="60" pos="175128 -175944 2328 15516" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 174888,-175928,2328,31822-->
+    <npc id="20145" count="1" respawn="60" pos="174888 -175928 2328 31822" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Harpy]">
+    <!--ZerGood spawned : Harpy on Loc : 174648,-176600,2328,45247-->
+    <npc id="20145" count="1" respawn="60" pos="174648 -176600 2328 45247" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
+    <!--ZerGood spawned : Newbie Guide on Loc : 175624,-176712,2880,15229-->
+    <npc id="50204" count="1" respawn="60" pos="175624 -176712 2880 15229" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176584,-176152,2880,23963-->
+    <npc id="20158" count="1" respawn="60" pos="176584 -176152 2880 23963" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176520,-176264,2880,43737-->
+    <npc id="20158" count="1" respawn="60" pos="176520 -176264 2880 43737" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176584,-176376,2880,54566-->
+    <npc id="20158" count="1" respawn="60" pos="176584 -176376 2880 54566" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176712,-176552,2880,55285-->
+    <npc id="20158" count="1" respawn="60" pos="176712 -176552 2880 55285" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176936,-176440,2880,4836-->
+    <npc id="20158" count="1" respawn="60" pos="176936 -176440 2880 4836" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 177272,-176408,2888,1875-->
+    <npc id="20158" count="1" respawn="60" pos="177272 -176408 2888 1875" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 177176,-176216,2880,23630-->
+    <npc id="20158" count="1" respawn="60" pos="177176 -176216 2880 23630" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176920,-176248,2880,34065-->
+    <npc id="20158" count="1" respawn="60" pos="176920 -176248 2880 34065" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176792,-176088,2880,23421-->
+    <npc id="20158" count="1" respawn="60" pos="176792 -176088 2880 23421" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 177240,-175976,2880,2555-->
+    <npc id="20158" count="1" respawn="60" pos="177240 -175976 2880 2555" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176952,-174632,3144,37604-->
+    <npc id="20158" count="1" respawn="60" pos="176952 -174632 3144 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 177224,-174680,3144,63714-->
+    <npc id="20158" count="1" respawn="60" pos="177224 -174680 3144 63714" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 176936,-175176,3016,43664-->
+    <npc id="20158" count="1" respawn="60" pos="176936 -175176 3016 43664" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 177304,-175160,3024,453-->
+    <npc id="20158" count="1" respawn="60" pos="177304 -175160 3024 453" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Medusa]">
+    <!--ZerGood spawned : Medusa on Loc : 177032,-175736,2880,44550-->
+    <npc id="20158" count="1" respawn="60" pos="177032 -175736 2880 44550" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 177000,-173816,3184,38901-->
+    <npc id="20550" count="1" respawn="60" pos="177000 -173816 3184 38901" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 177176,-173720,3184,5208-->
+    <npc id="20550" count="1" respawn="60" pos="177176 -173720 3184 5208" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 177448,-173400,3184,14053-->
+    <npc id="20550" count="1" respawn="60" pos="177448 -173400 3184 14053" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 177272,-173144,3184,22983-->
+    <npc id="20550" count="1" respawn="60" pos="177272 -173144 3184 22983" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 177288,-172504,3184,16383-->
+    <npc id="20550" count="1" respawn="60" pos="177288 -172504 3184 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176984,-172536,3184,33511-->
+    <npc id="20550" count="1" respawn="60" pos="176984 -172536 3184 33511" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176536,-172360,3184,28863-->
+    <npc id="20550" count="1" respawn="60" pos="176536 -172360 3184 28863" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176104,-172600,3184,35545-->
+    <npc id="20550" count="1" respawn="60" pos="176104 -172600 3184 35545" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 175944,-172824,3184,43192-->
+    <npc id="20550" count="1" respawn="60" pos="175944 -172824 3184 43192" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176312,-173160,3184,57744-->
+    <npc id="20550" count="1" respawn="60" pos="176312 -173160 3184 57744" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176488,-173432,3184,15229-->
+    <npc id="20550" count="1" respawn="60" pos="176488 -173432 3184 15229" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176568,-172840,3184,18106-->
+    <npc id="20550" count="1" respawn="60" pos="176568 -172840 3184 18106" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 176776,-172712,3184,17538-->
+    <npc id="20550" count="1" respawn="60" pos="176776 -172712 3184 17538" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 175208,-173000,3320,63170-->
+    <npc id="20550" count="1" respawn="60" pos="175208 -173000 3320 63170" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 175480,-172984,3256,0-->
+    <npc id="20550" count="1" respawn="60" pos="175480 -172984 3256 0" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 175288,-172792,3304,24575-->
+    <npc id="20550" count="1" respawn="60" pos="175288 -172792 3304 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian Basilisk]">
+    <!--ZerGood spawned : Guardian Basilisk on Loc : 175192,-172568,3320,29412-->
+    <npc id="20550" count="1" respawn="60" pos="175192 -172568 3320 29412" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrant]">
+    <!--ZerGood spawned : Tyrant on Loc : 174712,-172856,3440,40959-->
+    <npc id="20192" count="1" respawn="60" pos="174712 -172856 3440 40959" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrant]">
+    <!--ZerGood spawned : Tyrant on Loc : 174552,-173080,3472,42682-->
+    <npc id="20192" count="1" respawn="60" pos="174552 -173080 3472 42682" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Tyrant]">
+    <!--ZerGood spawned : Tyrant on Loc : 174264,-172776,3488,24122-->
+    <npc id="20192" count="1" respawn="60" pos="174264 -172776 3488 24122" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 174104,-172904,3488,32767-->
+    <npc id="20552" count="1" respawn="60" pos="174104 -172904 3488 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 174168,-173160,3488,51707-->
+    <npc id="20552" count="1" respawn="60" pos="174168 -173160 3488 51707" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 173784,-173240,3488,34910-->
+    <npc id="20552" count="1" respawn="60" pos="173784 -173240 3488 34910" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 174072,-173752,3488,54496-->
+    <npc id="20552" count="1" respawn="60" pos="174072 -173752 3488 54496" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 173816,-174248,3496,44182-->
+    <npc id="20552" count="1" respawn="60" pos="173816 -174248 3496 44182" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 173640,-173752,3488,26056-->
+    <npc id="20552" count="1" respawn="60" pos="173640 -173752 3488 26056" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 174904,-173032,3392,59124-->
+    <npc id="20552" count="1" respawn="60" pos="174904 -173032 3392 59124" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 175624,-172600,3216,29025-->
+    <npc id="20552" count="1" respawn="60" pos="175624 -172600 3216 29025" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
+    <!--ZerGood spawned : Fettered Soul on Loc : 173656,-174584,3488,51707-->
+    <npc id="20552" count="1" respawn="60" pos="173656 -174584 3488 51707" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper]">
+    <!--ZerGood spawned : Gatekeeper on Loc : 173064,-173928,3488,60699-->
+    <npc id="50205" count="1" respawn="60" pos="173064 -173928 3488 60699" />
+  </spawn>
+</list>
