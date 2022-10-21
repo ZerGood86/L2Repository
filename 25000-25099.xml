@@ -18,12 +18,14 @@
 		<!-- [Записи. Куплено жетонов.] -->
 		<set name="tradeable" value="false"/>
 		<set name="dropable" value="false"/>
+        <set name="crystallizable" value="false"/>
 		<set name="crystal_type" value="NONE"/>		
-		<set name="icon" value="icon.etc_paper_black_i00"/>
+		<set name="icon" value="Nostalgia.money_enir"/>
 		<set name="stackable" value="true"/>
-		<set name="type" value="PET"/>
-		<set name="weight" value="160"/>
-	</armor>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="100"/>
+	</armor>
+	
 	<armor id="25002" name="Entries. Purchased tokens.">
 		<!-- [Записи. Куплено жетонов.] -->
 		<set name="tradeable" value="false"/>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<armor id="50000" name="Костюм Акаманах">
+
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CostumeZaricheAkamanaf.icons.aka_armor_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50001" name="Костюм Зарич">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="CostumeZaricheAkamanaf.icons.zar_armor_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50002" name="Костюм военного">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_undwrwear"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50003" name="Beach Underwear	Normal">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_swimsuit_event_03"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50004" name="Beach Underwear	Casual">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_swimsuit_event_01"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50005" name="Beach Underwear	Blue">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_swimsuit_event_02"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50006" name="Shorts with Cat">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_sexy_underwear"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50007" name="Underwear	Blue">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_maid_underwear_f01"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50008" name="Santa Claus Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Branchsys3.icon1.armor_ev_santas_clothes"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50009" name="Dragon's Tuxedo 1">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_u_i00"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50010" name="Dragon's Tuxedo 2">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_a_b_i00"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50011" name="Dragon's Tuxedo 3">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_b_g_i00"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50012" name="Dragon's Tuxedo 4">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_c_g_i00"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50013" name="Halloween Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.ev_new_halloween"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50014" name="Iron Suit">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon.g_co_sf_u"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50015" name="Assassin Appearance 1">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom2.ico.Asm_ico"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50016" name="Guardian Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.uniqarmor_icon"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50017" name="Ninja Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_ninja_u"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50018" name="School Uniform">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom4.Br_schoollook"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50019" name="Gentleman's Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom4.Br_schoollook_b"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50020" name="Dark Lord's Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom4.Dark_Kninght"/>		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50021" name="Taiwanese Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.g_co_paiwan_u"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50022" name="Anakim's Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom2.anakim_ico"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50023" name="Vampire Hunter Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.iconArmar.g_co_vampiric_u_i00"/>	
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50024" name="Japanese Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.iconArmar.g_co_japan_general_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50025" name="Beleth's Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustomTexAll.g_co_beres_u"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50026" name="Sport Suit 1">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BaseballTex.Baseball_Armor_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50027" name="Sport Suit 2">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BaseballTex.Baseball_Armor_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50028" name="Sport Suit 3">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BaseballTex.Baseball_Armor_i00"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50029" name="Tattoos 1">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.g_co_tatu_i01"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50030" name="Tattoos 2">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.g_co_tatu_i02"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50031" name="Tattoos 3">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.g_co_tatu_i03"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50032" name="Zaken's Captain Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.g_co_captain_i00"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50033" name="Pirate Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.g_co_pirate_i00"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50034" name="Musketeer Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.inquisitor_blue"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50035" name="Wizard's Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.g_co_wzd_i00"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50036" name="Masquarade Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.ev_new_mag"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50037" name="Military Suit">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon.g_co_military_u"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50038" name="Maid Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon.g_co_cutie_maid"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50039" name="Parade Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Icon.navy_uniform"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50040" name="Elite Assassin Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.Asm2_ico"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50041" name="Royal Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom5.nobless_red"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50042" name="Noble Royal Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom5.nobless_white"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50043" name="Robin Hood Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom5.arc_ico"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50044" name="Cowboy Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom5.cby_ico"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50045" name="Admiral Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.pirate_blue_change"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50046" name="Crusader Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.custom_i.inquisitor_red"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50047" name="Dragon Hunter Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom5.arc_r_ico"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50048" name="Mongolia Native Appearance">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineagecustomTex18.icon.suit18"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50049" name="Mongolia Native Appearance	Dark">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineagecustomTex18.icon.suit19"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50050" name="Bear Costume">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="LineageCustom101.suit01"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50051" name="Underwear	White">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_premium_underwear"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+	
+	<armor id="50052" name="Underwear	Casual">
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_sexy_underwear"/>
+		
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="UNDERWEAR"/>
+		</equip>
+	</armor>
+			
+	
+</list>

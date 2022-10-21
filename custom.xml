@@ -1,60 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 15736,142872,-2704,16383-->
-    <npc id="50010" count="1" respawn="60" pos="15736 142872 -2704 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 16231,142887,-2704,14903-->
-    <npc id="50011" count="1" respawn="60" pos="16231 142887 -2704 14903" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 15496,142744,-2696,16383-->
     <npc id="31860" count="1" respawn="60" pos="15496 142744 -2696 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 16792,145032,-2992,60699-->
-    <npc id="50010" count="1" respawn="60" pos="16792 145032 -2992 60699" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 16760,144888,-2992,0-->
-    <npc id="50011" count="1" respawn="60" pos="16760 144888 -2992 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 18648,145880,-3088,49151-->
-    <npc id="50010" count="1" respawn="60" pos="18648 145880 -3088 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 18440,145944,-3088,40959-->
-    <npc id="50011" count="1" respawn="60" pos="18440 145944 -3088 40959" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 18232,145176,-3088,7037-->
     <npc id="31860" count="1" respawn="60" pos="18232 145176 -3088 7037" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 148072,-55784,-2752,32767-->
-    <npc id="50011" count="1" respawn="60" pos="148072 -55784 -2752 32767" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 147352,-55784,-2752,0-->
     <npc id="31860" count="1" respawn="60" pos="147352 -55784 -2752 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -13208,122168,-2984,16383-->
-    <npc id="50010" count="1" respawn="60" pos="-13208 122168 -2984 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -12984,122168,-2984,16383-->
-    <npc id="50011" count="1" respawn="60" pos="-12984 122168 -2984 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -12840,122808,-3120,47093-->
-    <npc id="50010" count="1" respawn="60" pos="-12840 122808 -3120 47093" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -12632,122824,-3120,49151-->
-    <npc id="50011" count="1" respawn="60" pos="-12632 122824 -3120 49151" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -13112,122536,-3112,0-->
@@ -64,77 +20,21 @@
     <!--Миксер spawned : Bella on Loc : -14552,124024,-3120,53988-->
     <npc id="30256" count="1" respawn="60" pos="-14552 124024 -3120 53988" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -14632,123992,-3120,53988-->
-    <npc id="50010" count="1" respawn="60" pos="-14632 123992 -3120 53988" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -14472,124200,-3112,0-->
-    <npc id="50011" count="1" respawn="60" pos="-14472 124200 -3112 0" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -14072,123192,-3112,32767-->
     <npc id="31860" count="1" respawn="60" pos="-14072 123192 -3112 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 86952,-143144,-1296,3355-->
-    <npc id="50010" count="1" respawn="60" pos="86952 -143144 -1296 3355" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 87016,-142920,-1312,0-->
-    <npc id="50011" count="1" respawn="60" pos="87016 -142920 -1312 0" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 87704,-143224,-1288,29412-->
     <npc id="31860" count="1" respawn="60" pos="87704 -143224 -1288 29412" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 117096,77032,-2704,37604-->
-    <npc id="50010" count="1" respawn="60" pos="117096 77032 -2704 37604" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 117304,76712,-2688,40959-->
-    <npc id="50011" count="1" respawn="60" pos="117304 76712 -2688 40959" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 116936,77256,-2688,44928-->
     <npc id="31860" count="1" respawn="60" pos="116936 77256 -2688 44928" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 116120,76648,-2736,59899-->
-    <npc id="50010" count="1" respawn="60" pos="116120 76648 -2736 59899" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 116280,76936,-2736,0-->
-    <npc id="50011" count="1" respawn="60" pos="116280 76936 -2736 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 147816,26600,-2200,16383-->
-    <npc id="50010" count="1" respawn="60" pos="147816 26600 -2200 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 148040,26616,-2200,16383-->
-    <npc id="50011" count="1" respawn="60" pos="148040 26616 -2200 16383" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 147832,25592,-2008,19739-->
     <npc id="31860" count="1" respawn="60" pos="147832 25592 -2008 19739" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 146888,25912,-2008,49151-->
-    <npc id="50011" count="1" respawn="60" pos="146888 25912 -2008 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 147048,25912,-2008,49151-->
-    <npc id="50010" count="1" respawn="60" pos="147048 25912 -2008 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 44296,-47672,-792,49151-->
-    <npc id="50010" count="1" respawn="60" pos="44296 -47672 -792 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 44104,-47688,-792,51210-->
-    <npc id="50011" count="1" respawn="60" pos="44104 -47688 -792 51210" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 44312,-48376,-792,16383-->
@@ -144,181 +44,49 @@
     <!--Миксер spawned : Ilyana on Loc : 11432,-24776,-3648,22020-->
     <npc id="31320" count="1" respawn="60" pos="11432 -24776 -3648 22020" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 11512,-24728,-3648,23095-->
-    <npc id="50010" count="1" respawn="60" pos="11512 -24728 -3648 23095" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 11255,-24873,-3648,14661-->
-    <npc id="50011" count="1" respawn="60" pos="11255 -24873 -3648 14661" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 11960,-24376,-3640,32767-->
     <npc id="31860" count="1" respawn="60" pos="11960 -24376 -3640 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 82984,53320,-1488,32767-->
-    <npc id="50010" count="1" respawn="60" pos="82984 53320 -1488 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 83000,53576,-1488,32767-->
-    <npc id="50011" count="1" respawn="60" pos="83000 53576 -1488 32767" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 83176,53464,-1448,32767-->
     <npc id="31860" count="1" respawn="60" pos="83176 53464 -1448 32767" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -82184,150168,-3120,16383-->
-    <npc id="50010" count="1" respawn="60" pos="-82184 150168 -3120 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -81864,150168,-3120,16383-->
-    <npc id="50011" count="1" respawn="60" pos="-81864 150168 -3120 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -80328,149816,-3040,26634-->
-    <npc id="50010" count="1" respawn="60" pos="-80328 149816 -3040 26634" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -80392,149592,-3040,32767-->
-    <npc id="50011" count="1" respawn="60" pos="-80392 149592 -3040 32767" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -81000,150040,-3040,0-->
     <npc id="31860" count="1" respawn="60" pos="-81000 150040 -3040 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 111080,218904,-3536,11547-->
-    <npc id="50010" count="1" respawn="60" pos="111080 218904 -3536 11547" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 111688,218904,-3536,16383-->
-    <npc id="50011" count="1" respawn="60" pos="111688 218904 -3536 16383" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 111528,218616,-3464,19739-->
     <npc id="31860" count="1" respawn="60" pos="111528 218616 -3464 19739" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 111480,219592,-3664,16383-->
-    <npc id="50011" count="1" respawn="60" pos="111480 219592 -3664 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 111304,219592,-3664,16383-->
-    <npc id="50010" count="1" respawn="60" pos="111304 219592 -3664 16383" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -84488,243192,-3728,24575-->
     <npc id="31860" count="1" respawn="60" pos="-84488 243192 -3728 24575" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -84552,244696,-3728,57343-->
-    <npc id="50010" count="1" respawn="60" pos="-84552 244696 -3728 57343" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -84696,244536,-3728,60699-->
-    <npc id="50011" count="1" respawn="60" pos="-84696 244536 -3728 60699" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -45256,-112776,-240,0-->
-    <npc id="50011" count="1" respawn="60" pos="-45256 -112776 -240 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -45256,-112648,-240,0-->
-    <npc id="50010" count="1" respawn="60" pos="-45256 -112648 -240 0" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -45096,-112952,-240,0-->
     <npc id="31860" count="1" respawn="60" pos="-45096 -112952 -240 0" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 45896,47240,-2992,37604-->
-    <npc id="50010" count="1" respawn="60" pos="45896 47240 -2992 37604" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 45976,46984,-2992,35323-->
-    <npc id="50011" count="1" respawn="60" pos="45976 46984 -2992 35323" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 46520,51752,-2992,0-->
-    <npc id="50010" count="1" respawn="60" pos="46520 51752 -2992 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 46520,51384,-2992,60699-->
-    <npc id="50011" count="1" respawn="60" pos="46520 51384 -2992 60699" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 46760,51016,-2992,8191-->
     <npc id="31860" count="1" respawn="60" pos="46760 51016 -2992 8191" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 115080,-178280,-912,4836-->
-    <npc id="50011" count="1" respawn="60" pos="115080 -178280 -912 4836" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 115079,-177976,-912,64055-->
-    <npc id="50010" count="1" respawn="60" pos="115079 -177976 -912 64055" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 115704,-178296,-944,27931-->
     <npc id="31860" count="1" respawn="60" pos="115704 -178296 -944 27931" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 9704,15384,-4568,13028-->
-    <npc id="50010" count="1" respawn="60" pos="9704 15384 -4568 13028" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 9896,15368,-4568,16383-->
-    <npc id="50011" count="1" respawn="60" pos="9896 15368 -4568 16383" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 9784,16184,-4568,55285-->
     <npc id="31860" count="1" respawn="60" pos="9784 16184 -4568 55285" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 83064,148392,-3472,40959-->
-    <npc id="50010" count="1" respawn="60" pos="83064 148392 -3472 40959" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 83048,148840,-3472,32767-->
-    <npc id="50011" count="1" respawn="60" pos="83048 148840 -3472 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 81768,147512,-3464,16383-->
-    <npc id="50011" count="1" respawn="60" pos="81768 147512 -3464 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 81912,147528,-3464,16383-->
-    <npc id="50010" count="1" respawn="60" pos="81912 147528 -3464 16383" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : 83048,147912,-3472,32767-->
     <npc id="31860" count="1" respawn="60" pos="83048 147912 -3472 32767" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 148104,-55576,-2736,36123-->
-    <npc id="50010" count="1" respawn="60" pos="148104 -55576 -2736 36123" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -115960,-251176,-2992,51707-->
-    <npc id="50010" count="1" respawn="60" pos="-115960 -251176 -2992 51707" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -116072,-251224,-2992,21220-->
     <npc id="31860" count="1" respawn="60" pos="-116072 -251224 -2992 21220" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -115913,-251080,-2992,63813-->
-    <npc id="50011" count="1" respawn="60" pos="-115913 -251080 -2992 63813" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 37896,-38648,-3600,16383-->
-    <npc id="50010" count="1" respawn="60" pos="37896 -38648 -3600 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 38152,-38632,-3600,17423-->
-    <npc id="50011" count="1" respawn="60" pos="38152 -38632 -3600 17423" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Purgatory Liviona]">
     <!--Миксер spawned : Purgatory Liviona on Loc : 147688,88552,-5424,23775-->
@@ -347,98 +115,6 @@
   <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
     <!--Миксер spawned : Buzz the Cat on Loc : -113256,-244440,-15536,12160-->
     <npc id="31860" count="1" respawn="60" pos="-113256 -244440 -15536 12160" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -113160,-244456,-15536,49151-->
-    <npc id="50011" count="1" respawn="60" pos="-113160 -244456 -15536 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 83288,148392,-3400,0-->
-    <npc id="50010" count="1" respawn="60" pos="83288 148392 -3400 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : 83672,148376,-3400,32767-->
-    <npc id="50011" count="1" respawn="60" pos="83672 148376 -3400 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 83656,147992,-3400,32767-->
-    <npc id="31076" count="1" respawn="60" pos="83656 147992 -3400 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 147864,-55224,-2728,47093-->
-    <npc id="31076" count="1" respawn="60" pos="147864 -55224 -2728 47093" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 17144,144904,-3040,24575-->
-    <npc id="31076" count="1" respawn="60" pos="17144 144904 -3040 24575" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : -14504,124104,-3112,57343-->
-    <npc id="31076" count="1" respawn="60" pos="-14504 124104 -3112 57343" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : -13064,122840,-3112,59402-->
-    <npc id="31076" count="1" respawn="60" pos="-13064 122840 -3112 59402" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 87160,-143464,-1288,16383-->
-    <npc id="31076" count="1" respawn="60" pos="87160 -143464 -1288 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 117192,76808,-2688,37604-->
-    <npc id="31076" count="1" respawn="60" pos="117192 76808 -2688 37604" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 146808,25592,-1984,16383-->
-    <npc id="31076" count="1" respawn="60" pos="146808 25592 -1984 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 43720,-47688,-792,49151-->
-    <npc id="31076" count="1" respawn="60" pos="43720 -47688 -792 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 82840,53096,-1488,8191-->
-    <npc id="31076" count="1" respawn="60" pos="82840 53096 -1488 8191" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : -80840,149736,-3040,18442-->
-    <npc id="31076" count="1" respawn="60" pos="-80840 149736 -3040 18442" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 111464,219416,-3544,49151-->
-    <npc id="31076" count="1" respawn="60" pos="111464 219416 -3544 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : -84152,244696,-3728,40959-->
-    <npc id="31076" count="1" respawn="60" pos="-84152 244696 -3728 40959" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : -45272,-112392,-240,0-->
-    <npc id="31076" count="1" respawn="60" pos="-45272 -112392 -240 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 46520,51592,-2992,60699-->
-    <npc id="31076" count="1" respawn="60" pos="46520 51592 -2992 60699" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 115080,-178072,-912,2058-->
-    <npc id="31076" count="1" respawn="60" pos="115080 -178072 -912 2058" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : 9672,15752,-4568,0-->
-    <npc id="31076" count="1" respawn="60" pos="9672 15752 -4568 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -113512,-244216,-4992,55285-->
-    <npc id="50011" count="1" respawn="60" pos="-113512 -244216 -4992 55285" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Nostalgia]">
-    <!--Миксер spawned : Nostalgia on Loc : -113448,-244152,-4992,52507-->
-    <npc id="50010" count="1" respawn="60" pos="-113448 -244152 -4992 52507" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--Миксер spawned : Newbie Guide on Loc : -113784,-244008,-4992,13828-->
-    <npc id="31076" count="1" respawn="60" pos="-113784 -244008 -4992 13828" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Succubus Queen]">
     <!--Миксер spawned : Succubus Queen on Loc : 150792,-174232,-1776,58498-->
@@ -560,14 +236,6 @@
     <!--ZerGood spawned : Altar of Good on Loc : 83672,148424,-3400,37604-->
     <npc id="50201" count="1" respawn="60" pos="83672 148424 -3400 37604" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Denkus]">
-    <!--ZerGood spawned : Denkus on Loc : 83656,148488,-3408,37604-->
-    <npc id="30082" count="1" respawn="60" pos="83656 148488 -3408 37604" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Jurek]">
-    <!--fm spawned : Jurek on Loc : 82344,148376,-3472,63813-->
-    <npc id="30115" count="1" respawn="60" pos="82344 148376 -3472 63813" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Sacred Source]">
     <!--ZerGood spawned : Sacred Source on Loc : 83656,148232,-3400,27931-->
     <npc id="50202" count="1" respawn="60" pos="83656 148232 -3400 27931" />
@@ -575,14 +243,6 @@
   <spawn event_name="[custom_spawn]" name="[Fun Altar]">
     <!--ZerGood spawned : Fun Altar on Loc : 83640,148136,-3400,29412-->
     <npc id="50203" count="1" respawn="60" pos="83640 148136 -3400 29412" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Grad]">
-    <!--ZerGood spawned : Grad on Loc : 83576,148536,-3408,37604-->
-    <npc id="35101" count="1" respawn="60" pos="83576 148536 -3408 37604" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Jurek]">
-    <!--fm spawned : Jurek on Loc : 44088,-48824,-800,36123-->
-    <npc id="30115" count="1" respawn="60" pos="44088 -48824 -800 36123" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
     <!--ZerGood spawned : Newbie Guide on Loc : 83656,147944,-3400,32767-->

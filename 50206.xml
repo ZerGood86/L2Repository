@@ -1,35 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!-- Coupon exchange for newbie traveler Shadow Items -->
+<!-- Shadow Weapons -->
 <list>
 	<config showall="true" notax="true" ignoreprice="true" keepenchanted="false" />
-	<!-- Shadow Item: Apprentice's Staff -->
+	<!-- NG -->
+	<!-- Копье -->
 	<item>
 		<ingredient id="57" count="1000"/>
-		<production id="7816" count="1"/>
+		<production id="8972" count="1"/>
 	</item>
-	<!-- Shadow Item: Bone Club -->
+	<!-- Меч -->
 	<item>
 		<ingredient id="57" count="1000"/>
-		<production id="7817" count="1"/>
+		<production id="8973" count="1"/>
 	</item>
-	<!-- Shadow Item: Shining Knife -->
+	<!-- Лук -->
 	<item>
 		<ingredient id="57" count="1000"/>
-		<production id="7818" count="1"/>
+		<production id="8980" count="1"/>
 	</item>
-	<!-- Shadow Item: Cestus -->
+	<!-- Дубина -->
 	<item>
 		<ingredient id="57" count="1000"/>
-		<production id="7819" count="1"/>
+		<production id="8976" count="1"/>
 	</item>
-	<!-- Shadow Item: Forest Bow -->
+	<!-- Посох -->
 	<item>
 		<ingredient id="57" count="1000"/>
-		<production id="7820" count="1"/>
+		<production id="8977" count="1"/>
 	</item>
-	<!-- Shadow Item: Long Sword -->
+	<!-- Стафф -->
 	<item>
 		<ingredient id="57" count="1000"/>
-		<production id="7821" count="1"/>
+		<production id="8981" count="1"/>
 	</item>
+	<!-- Кастеты -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="8979" count="1"/>
+	</item>
+	<!-- Дагер -->
+	<item>
+		<ingredient id="57" count="1000"/>
+		<production id="8978" count="1"/>
+	</item>
+	<!-- D -->
+	<!-- Лук -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8828" count="1"/>
+	</item>
+	<!-- Копье -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8829" count="1"/>
+	</item>
+	<!-- Меч двуруч -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8982" count="1"/>
+	</item>
+	<!-- Кастет -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8827" count="1"/>
+	</item>
+	<!-- Дагер -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8825" count="1"/>
+	</item>
+	<!-- Посох -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8824" count="1"/>
+	</item>
+	<!-- Меч -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8822" count="1"/>
+	</item>
+	<!-- Дубинка -->
+	<item>
+		<ingredient id="57" count="100000"/>
+		<production id="8823" count="1"/>
+	</item>
+	
+	
+	
 </list>
