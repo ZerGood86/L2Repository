@@ -250,103 +250,103 @@
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181048,-174904,-3568,20352-->
-    <npc id="20001" count="1" respawn="60" pos="181048 -174904 -3568 20352" />
+    <npc id="18342" count="1" respawn="60" pos="181048 -174904 -3568 20352" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180984,-175224,-3568,47093-->
-    <npc id="20001" count="1" respawn="60" pos="180984 -175224 -3568 47093" />
+    <npc id="18342" count="1" respawn="60" pos="180984 -175224 -3568 47093" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181256,-175304,-3568,62345-->
-    <npc id="20001" count="1" respawn="60" pos="181256 -175304 -3568 62345" />
+    <npc id="18342" count="1" respawn="60" pos="181256 -175304 -3568 62345" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181576,-175400,-3568,62709-->
-    <npc id="20001" count="1" respawn="60" pos="181576 -175400 -3568 62709" />
+    <npc id="18342" count="1" respawn="60" pos="181576 -175400 -3568 62709" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181768,-175544,-3568,58824-->
-    <npc id="20001" count="1" respawn="60" pos="181768 -175544 -3568 58824" />
+    <npc id="18342" count="1" respawn="60" pos="181768 -175544 -3568 58824" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181608,-175784,-3568,43018-->
-    <npc id="20001" count="1" respawn="60" pos="181608 -175784 -3568 43018" />
+    <npc id="18342" count="1" respawn="60" pos="181608 -175784 -3568 43018" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181416,-175592,-3568,24575-->
-    <npc id="20001" count="1" respawn="60" pos="181416 -175592 -3568 24575" />
+    <npc id="18342" count="1" respawn="60" pos="181416 -175592 -3568 24575" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181256,-175704,-3568,39138-->
-    <npc id="20001" count="1" respawn="60" pos="181256 -175704 -3568 39138" />
+    <npc id="18342" count="1" respawn="60" pos="181256 -175704 -3568 39138" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180856,-175704,-3568,32767-->
-    <npc id="20001" count="1" respawn="60" pos="180856 -175704 -3568 32767" />
+    <npc id="18342" count="1" respawn="60" pos="180856 -175704 -3568 32767" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180728,-175416,-3568,20607-->
-    <npc id="20001" count="1" respawn="60" pos="180728 -175416 -3568 20607" />
+    <npc id="18342" count="1" respawn="60" pos="180728 -175416 -3568 20607" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180456,-175192,-3568,26485-->
-    <npc id="20001" count="1" respawn="60" pos="180456 -175192 -3568 26485" />
+    <npc id="18342" count="1" respawn="60" pos="180456 -175192 -3568 26485" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180248,-174952,-3568,23832-->
-    <npc id="20001" count="1" respawn="60" pos="180248 -174952 -3568 23832" />
+    <npc id="18342" count="1" respawn="60" pos="180248 -174952 -3568 23832" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180424,-174968,-3568,5826-->
-    <npc id="20001" count="1" respawn="60" pos="180424 -174968 -3568 5826" />
+    <npc id="18342" count="1" respawn="60" pos="180424 -174968 -3568 5826" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180760,-174952,-3568,0-->
-    <npc id="20001" count="1" respawn="60" pos="180760 -174952 -3568 0" />
+    <npc id="18342" count="1" respawn="60" pos="180760 -174952 -3568 0" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180792,-174600,-3568,15438-->
-    <npc id="20001" count="1" respawn="60" pos="180792 -174600 -3568 15438" />
+    <npc id="18342" count="1" respawn="60" pos="180792 -174600 -3568 15438" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180680,-174296,-3568,20065-->
-    <npc id="20001" count="1" respawn="60" pos="180680 -174296 -3568 20065" />
+    <npc id="18342" count="1" respawn="60" pos="180680 -174296 -3568 20065" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181160,-174152,-3568,3040-->
-    <npc id="20001" count="1" respawn="60" pos="181160 -174152 -3568 3040" />
+    <npc id="18342" count="1" respawn="60" pos="181160 -174152 -3568 3040" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181432,-174376,-3568,58350-->
-    <npc id="20001" count="1" respawn="60" pos="181432 -174376 -3568 58350" />
+    <npc id="18342" count="1" respawn="60" pos="181432 -174376 -3568 58350" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181688,-174664,-3568,56890-->
-    <npc id="20001" count="1" respawn="60" pos="181688 -174664 -3568 56890" />
+    <npc id="18342" count="1" respawn="60" pos="181688 -174664 -3568 56890" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181976,-175016,-3568,55863-->
-    <npc id="20001" count="1" respawn="60" pos="181976 -175016 -3568 55863" />
+    <npc id="18342" count="1" respawn="60" pos="181976 -175016 -3568 55863" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181960,-175352,-3568,48655-->
-    <npc id="20001" count="1" respawn="60" pos="181960 -175352 -3568 48655" />
+    <npc id="18342" count="1" respawn="60" pos="181960 -175352 -3568 48655" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181752,-175304,-3568,30402-->
-    <npc id="20001" count="1" respawn="60" pos="181752 -175304 -3568 30402" />
+    <npc id="18342" count="1" respawn="60" pos="181752 -175304 -3568 30402" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181416,-175128,-3568,27735-->
-    <npc id="20001" count="1" respawn="60" pos="181416 -175128 -3568 27735" />
+    <npc id="18342" count="1" respawn="60" pos="181416 -175128 -3568 27735" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181448,-174744,-3568,15516-->
-    <npc id="20001" count="1" respawn="60" pos="181448 -174744 -3568 15516" />
+    <npc id="18342" count="1" respawn="60" pos="181448 -174744 -3568 15516" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181128,-174504,-3568,26056-->
-    <npc id="20001" count="1" respawn="60" pos="181128 -174504 -3568 26056" />
+    <npc id="18342" count="1" respawn="60" pos="181128 -174504 -3568 26056" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
     <!--ZerGood spawned : Newbie Guide on Loc : 181496,-176104,-3568,11547-->
@@ -354,39 +354,39 @@
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181256,-175176,-3568,55285-->
-    <npc id="20001" count="1" respawn="60" pos="181256 -175176 -3568 55285" />
+    <npc id="18342" count="1" respawn="60" pos="181256 -175176 -3568 55285" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181016,-174648,-3568,32767-->
-    <npc id="20001" count="1" respawn="60" pos="181016 -174648 -3568 32767" />
+    <npc id="18342" count="1" respawn="60" pos="181016 -174648 -3568 32767" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180808,-174424,-3568,23997-->
-    <npc id="20001" count="1" respawn="60" pos="180808 -174424 -3568 23997" />
+    <npc id="18342" count="1" respawn="60" pos="180808 -174424 -3568 23997" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180456,-174344,-3568,32767-->
-    <npc id="20001" count="1" respawn="60" pos="180456 -174344 -3568 32767" />
+    <npc id="18342" count="1" respawn="60" pos="180456 -174344 -3568 32767" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 180968,-174088,-3568,3796-->
-    <npc id="20001" count="1" respawn="60" pos="180968 -174088 -3568 3796" />
+    <npc id="18342" count="1" respawn="60" pos="180968 -174088 -3568 3796" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181736,-174872,-3568,54978-->
-    <npc id="20001" count="1" respawn="60" pos="181736 -174872 -3568 54978" />
+    <npc id="18342" count="1" respawn="60" pos="181736 -174872 -3568 54978" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181912,-175048,-3568,57343-->
-    <npc id="20001" count="1" respawn="60" pos="181912 -175048 -3568 57343" />
+    <npc id="18342" count="1" respawn="60" pos="181912 -175048 -3568 57343" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181576,-175064,-3568,33154-->
-    <npc id="20001" count="1" respawn="60" pos="181576 -175064 -3568 33154" />
+    <npc id="18342" count="1" respawn="60" pos="181576 -175064 -3568 33154" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Gremlin]">
     <!--ZerGood spawned : Gremlin on Loc : 181240,-174824,-3568,24575-->
-    <npc id="20001" count="1" respawn="60" pos="181240 -174824 -3568 24575" />
+    <npc id="18342" count="1" respawn="60" pos="181240 -174824 -3568 24575" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Zombie]">
     <!--ZerGood spawned : Zombie on Loc : 180216,-175992,-3152,40959-->
