@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<npc id="50010" name="Nostalgia" title="GM SHOP">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="40"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="680"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="0"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="11"/>
+		<set name="baseMAtkSpd" value="253"/>
+		<set name="baseMDef" value="375180"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2000"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="basePAtk" value="17"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="basePDef" value="101400"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="collision_height" value="25"/>
+		<set name="collision_radius" value="8"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Merchant"/>
+		<set name="displayId" value="35629"/>
+		<set name="htm_root" value="mods/gm_shop/"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+	
+	<npc id="50011" name="Nostalgia" title="SERVICE MANAGER">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="40"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="1"/>
+		<set name="baseHpRate" value="0"/>
+		<set name="baseHpReg" value="0"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="11"/>
+		<set name="baseMAtkSpd" value="253"/>
+		<set name="baseMDef" value="375180"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2000"/>
+		<set name="baseMpReg" value="0.9"/>
+		<set name="basePAtk" value="17"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="basePDef" value="101400"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="30"/>
+		<set name="collision_height" value="16"/>
+		<set name="collision_radius" value="9"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value="35630"/>
+		<set name="type" value="Merchant"/>
+		<set name="displayId" value="32033"/>
+		<set name="htm_root" value="mods/services/"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+	</npc>
+	
+	
+	<npc id="50012" name="Помощник Мамона" title="NOSTALGIA"> 
+		<set name="ai_type" value="BlacksmithMammonNotTeleportable"/>
+		<set name="type" value="Npc"/>		
+		<set name="htm_root" value="mods/mammon/"/>		
+		<set name="displayId" value="31113"/>
+		<set name="level" value="70"/>
+		<set name="exp" value="429634523"/>
+		<set name="race" value="dwarf"/>
+		<set name="sex" value="male"/>
+		<set name="collision_radius" value="22"/>
+		<set name="collision_height" value="18"/>
+		<set name="baseRunSpd" value="119"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseHpMax" value="2444"/>
+		<set name="baseHpReg" value="11.85"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseMpMax" value="1493"/>
+		<set name="baseMpReg" value="2.78"/>
+		<set name="baseAtkType" value="FIST"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<set name="baseRndDam" value="7"/>
+		<set name="basePAtk" value="683"/>
+		<set name="baseCritRate" value="80"/>
+		<set name="basePAtkSpd" value="247.42"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseMDef" value="206"/>
+		<set name="baseMAtk" value="468"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="basePDef" value="296"/>
+		<set name="HitTimeFactor" value="0.6"/>
+		<set name="physical_hit_modify" value="0"/>
+		<set name="physical_avoid_modify" value="0"/>
+		<set name="SafeHeight" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="soulshot_count" value="0"/>
+		<set name="spiritshot_count" value="0"/>
+		<set name="corpse_time" value="7"/>
+		<set name="noSleepMode" value="0"/>
+		<set name="aggroRange" value="0"/>
+		<set name="texture" value=""/>
+		<set name="isAgro" value="0"/>
+		<set name="unsowing" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="acquire_exp_rate" value="0"/>
+		<skills>
+			<skill id="4416" level="18"/>
+			<!--Dwarves-->
+		</skills>
+	</npc>  
+	
+</list>
