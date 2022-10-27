@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
-	<npc id="50200" name="Silent Statue" title="BUFF MANAGER">
+	<npc id="50200" name="La2SuperBuff" title="BUFF SHOP">
 		<set name="ai_type" value="BlacksmithMammonNotTeleportable"/>
+		<set name="SafeHeight" value="25"/>
+		<set name="displayId" value="30757"/>
 		<set name="type" value="Fisherman"/>
 		<set name="level" value="70"/>
 		<set name="exp" value="429634523"/>
 		<set name="race" value="etc"/>
 		<set name="sex" value="etc"/>
-		<set name="collision_radius" value="20"/>
-		<set name="collision_height" value="60"/>
+		<set name="collision_radius" value="15"/>
+		<set name="collision_height" value="75"/>
 		<set name="baseRunSpd" value="119"/>
 		<set name="baseWalkSpd" value="50"/>
 		<set name="baseSTR" value="40"/>
@@ -37,7 +39,6 @@
 		<set name="HitTimeFactor" value="0.6"/>
 		<set name="physical_hit_modify" value="0"/>
 		<set name="physical_avoid_modify" value="0"/>
-		<set name="SafeHeight" value="100"/>
 		<set name="baseShldDef" value="0"/>
 		<set name="baseShldRate" value="0"/>
 		<set name="shots" value="NONE"/>
@@ -391,6 +392,73 @@
 				<target loc="83463 148045 -3400" item_id="57" price="6800" name="1010007" StringName="The Town of Giran" StringNameLang="Гиран" castle_id="3"/>
 			</sublist>
 		</teleportlist>
+	</npc>  
+	<npc id="50206" name="Statue Of Buff" title="" pts_name="BUFF MANAGER"> 
+		<!--Done by JunkyFunky at : 2018-02-25T21:53:25.530-->
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<set name="castle_id" value="4"/>
+		<set name="level" value="70"/>
+		<set name="exp" value="429634523"/>
+		<set name="race" value="etc"/>
+		<set name="sex" value="etc"/>
+		<set name="collision_radius" value="25"/>
+		<set name="collision_height" value="98"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseHpMax" value="2444"/>
+		<set name="baseHpReg" value="11.85"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseMpMax" value="1493"/>
+		<set name="baseMpReg" value="2.78"/>
+		<set name="baseAtkType" value="FIST"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<set name="baseRndDam" value="7"/>
+		<set name="basePAtk" value="683"/>
+		<set name="baseCritRate" value="80"/>
+		<set name="basePAtkSpd" value="247.42"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseMDef" value="206"/>
+		<set name="baseMAtk" value="468"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="basePDef" value="296"/>
+		<set name="HitTimeFactor" value="0.6"/>
+		<set name="physical_hit_modify" value="0"/>
+		<set name="physical_avoid_modify" value="0"/>
+		<set name="SafeHeight" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="soulshot_count" value="0"/>
+		<set name="spiritshot_count" value="0"/>
+		<set name="corpse_time" value="7"/>
+		<set name="noSleepMode" value="0"/>
+		<set name="aggroRange" value="0"/>
+		<set name="texture" value=""/>
+		<set name="isAgro" value="0"/>
+		<set name="unsowing" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="acquire_exp_rate" value="0"/>
+		<ai_params>
+			<!--PTS AI Params-->
+			<set name="fnHi" value="statue_of_offering001.htm"/>
+			<set name="MoveAroundSocial" value="0"/>
+			<set name="MoveAroundSocial1" value="0"/>
+			<set name="MoveAroundSocial2" value="0"/>
+		</ai_params>
+		<skills>
+			<skill id="4416" level="19"/>
+			<!--Others-->
+		</skills>
 	</npc>  
 	
 </list>

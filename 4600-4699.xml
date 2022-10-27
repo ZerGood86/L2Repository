@@ -2068,7 +2068,7 @@
 		<set name="mpConsume1" val="#mpConsume1"/>
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="#effectPoint"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="900"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
