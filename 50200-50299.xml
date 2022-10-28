@@ -261,8 +261,8 @@
 	</npc>  
 	
 	
-	<npc id="50204" name="Newbie Guide" title="HELPER">
-		<set name="displayId" value="31076"/>
+	<npc id="50204" name="L2SuperBuff" title="HELPER">
+		<set name="displayId" value="35648"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Merchant"/>
 		<set name="castle_id" value="3"/>

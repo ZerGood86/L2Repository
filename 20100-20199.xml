@@ -3106,12 +3106,12 @@
 			<reward item_id="1874" min="1" max="1" chance="0.2574"/>
 		</rewardlist>
 	</npc>  
-	<npc id="20121" name="Giant Toad" title="" pts_name="giant_toad"> 
+	<npc id="20121" name="Money Toad" title="" serverSideName="1"  pts_name="giant_toad"> 
 		<!--Done by JunkyFunky at : 2018-02-25T21:53:24.884-->
 		<set name="ai_type" value="Fighter"/>
 		<set name="type" value="Monster"/>
 		<set name="level" value="5"/>
-		<set name="exp" value="2884"/>
+		<set name="exp" value="0"/>
 		<set name="race" value="beast"/>
 		<set name="sex" value="male"/>
 		<set name="collision_radius" value="20"/>
@@ -3124,7 +3124,7 @@
 		<set name="baseWIT" value="20"/>
 		<set name="baseCON" value="43"/>
 		<set name="baseMEN" value="10"/>
-		<set name="baseHpMax" value="80"/>
+		<set name="baseHpMax" value="200"/>
 		<set name="baseHpReg" value="3.16"/>
 		<set name="baseHpRate" value="1"/>
 		<set name="baseMpMax" value="77"/>
@@ -3132,13 +3132,13 @@
 		<set name="baseAtkType" value="FIST"/>
 		<set name="baseAtkRange" value="40"/>
 		<set name="baseDamageRange" value="0;0;80;120"/>
-		<set name="baseRndDam" value="7"/>
-		<set name="basePAtk" value="11"/>
+		<set name="baseRndDam" value="1"/>
+		<set name="basePAtk" value="1"/>
 		<set name="baseCritRate" value="80"/>
 		<set name="basePAtkSpd" value="247.42"/>
 		<set name="baseReuseDelay" value="0"/>
 		<set name="baseMDef" value="36"/>
-		<set name="baseMAtk" value="9"/>
+		<set name="baseMAtk" value="1"/>
 		<set name="baseMAtkSpd" value="333"/>
 		<set name="basePDef" value="48"/>
 		<set name="HitTimeFactor" value="0.35"/>
@@ -3156,11 +3156,10 @@
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="178"/>
-		<set name="rewardSp" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardSp" value="0"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="7.12"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>
@@ -3190,32 +3189,8 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="30" max="42" chance="100.0"/>
+				<reward item_id="57" min="100" max="100" chance="100.0"/>
 			</group>
-			<group chance="1.5244">
-				<!--Club-->
-				<reward item_id="4" min="1" max="1" chance="50.0"/>
-				<!--Apprentice's Rod-->
-				<reward item_id="7" min="1" max="1" chance="50.0"/>
-			</group>
-			<group chance="10.9263">
-				<!--Wooden Arrow-->
-				<reward item_id="17" min="10" max="30" chance="66.9634"/>
-				<!--Recipe: Broad Sword-->
-				<reward item_id="1786" min="1" max="1" chance="10.7144"/>
-				<!--Suede-->
-				<reward item_id="1866" min="1" max="1" chance="8.9289"/>
-				<!--Charcoal-->
-				<reward item_id="1871" min="1" max="1" chance="13.3933"/>
-			</group>
-		</rewardlist>
-		<rewardlist type="SWEEP">
-			<!--Recipe: Broad Sword-->
-			<reward item_id="1786" min="1" max="1" chance="4.5293"/>
-			<!--Recipe: Bow-->
-			<reward item_id="1788" min="1" max="1" chance="4.5293"/>
-			<!--Stem-->
-			<reward item_id="1864" min="1" max="1" chance="11.3233"/>
 		</rewardlist>
 	</npc>  
 	<npc id="20130" name="Orc" title="" pts_name="orc"> 
@@ -10152,7 +10127,6 @@
 		<set name="rewardSp" value="5"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="4.9444"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="120"/>
