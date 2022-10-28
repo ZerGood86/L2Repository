@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	 <etcitem id="9500" name="Rune of Exp/SP: 50%" add_name="3 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="180"/>
+    <set name="icon" value="icon.skill0000"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9500" level="1"/>
+    </skills>
+</etcitem>
+ <etcitem id="9501" name="Rune of Exp/SP: 100%" add_name="3 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="180"/>
+    <set name="icon" value="icon.skill0000"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9501" level="2"/>
+    </skills>
+</etcitem>
+<etcitem id="9502" name="Rune of Exp/SP: 50%" add_name="24 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="1440"/>
+    <set name="icon" value="icon.skill0000"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9500" level="1"/>
+    </skills>
+</etcitem>
+ <etcitem id="9503" name="Rune of Exp/SP: 100%" add_name="24 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="1440"/>
+    <set name="icon" value="icon.skill0000"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9501" level="2"/>
+    </skills>
+</etcitem>
+<etcitem id="9504" name="Rune of Exp/SP: 50%" add_name="72 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="4320"/>
+    <set name="icon" value="icon.skill0000"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9500" level="1"/>
+    </skills>
+</etcitem>
+ <etcitem id="9505" name="Rune of Exp/SP: 100%" add_name="72 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="4320"/>
+    <set name="icon" value="icon.skill0000"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9501" level="2"/>
+    </skills>
+</etcitem>
+
+<!-- Руны дропа адены\итем\споил -->
+
+<etcitem id="9506" name="Rune of Adena\Drop\Spoil 50%" add_name="3 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="180"/>
+    <set name="icon" value="icon.skill5041"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9502" level="1"/>
+    </skills>
+</etcitem>
+ <etcitem id="9507" name="Rune of Adena\Drop\Spoil 100%" add_name="3 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="180"/>
+    <set name="icon" value="icon.skill5041"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9503" level="2"/>
+    </skills>
+</etcitem>
+<etcitem id="9508" name="Rune of Adena\Drop\Spoil 50%" add_name="24 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="1440"/>
+    <set name="icon" value="icon.skill5041"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9502" level="1"/>
+    </skills>
+</etcitem>
+ <etcitem id="9509" name="Rune of Adena\Drop\Spoil 100%" add_name="24 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="1440"/>
+    <set name="icon" value="icon.skill5041"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9503" level="2"/>
+    </skills>
+</etcitem>
+<etcitem id="9510" name="Rune of Adena\Drop\Spoil 50%" add_name="72 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="4320"/>
+    <set name="icon" value="icon.skill5041"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9502" level="1"/>
+    </skills>
+</etcitem>
+ <etcitem id="9511" name="Rune of Adena\Drop\Spoil 100%" add_name="72 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="4320"/>
+    <set name="icon" value="icon.skill5041"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9503" level="2"/>
+    </skills>
+</etcitem>
+
+<etcitem id="9512" name="Лицензия на торговлю эффектами" add_name="72 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="4320"/>
+    <set name="icon" value="icon.event_energy_enchant_scroll_i00"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+</etcitem>
+
+<etcitem id="9513" name="Лицензионный договор на торговлю положительными эффектами">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_painting_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="25"/>
+	</etcitem>
+	
+	<etcitem id="9514" name="Знак Слияния">
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="stackable" value="false"/>
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.weapon_the_staff_of_hero_i01"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="QUEST"/>
+	</etcitem>
+
+</list>

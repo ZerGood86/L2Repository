@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+	<etcitem id="25100" name="Buff Money">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_hs_agit_war_joining_certificate_i00"/>
+		<set name="price" value="1000"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="QUEST"/>
+		<set name="destroyable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+	</etcitem>
+	
+	    <etcitem id="25101" name="Дешевые головные уборы">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_jewel_box_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	    <etcitem id="25102" name="Хорошие головные уборы">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_treasure_box_i03"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	    <etcitem id="25103" name="Отличные головные уборы">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_treasure_box_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	    <etcitem id="25104" name="Богатые головные уборы">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_treasure_box_i08"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	    <etcitem id="25105" name="Эпичные головные уборы">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_treasure_box_i04"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	    <etcitem id="25106" name="Обычные шапки модника">
+		<!-- Софт бокс -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_pi_box_belief_pack"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	    <etcitem id="25107" name="Элитные шапки модника">
+		<!-- Хард бокс -->
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_pi_box_wish_pack"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+
+	<etcitem id="25108" name="Exchange Crystal A">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_hs_agit_war_joining_certificate_i00"/>
+		<set name="price" value="1000"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="destroyable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+	</etcitem>
+
+		<!-- Сундук ПА 1-->
+	    <etcitem id="25110" name="Премиум аккаунт 1 день">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="br_cashtex.item.br_cash_wrapped_accessary_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+
+		<!-- Сундук ПА 7-->
+	    <etcitem id="25111" name="Премиум аккаунт 7 дней">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="br_cashtex.item.br_cash_wrapped_accessary_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+
+		<!-- Сундук ПА 31-->
+	    <etcitem id="25112" name="Премиум аккаунт 31 день">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="br_cashtex.item.br_cash_wrapped_accessary_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+		<!-- Premium Rune-->		
+	 <etcitem id="25113" name="Premium Exp/SP/Drop/Adena/Spoil +50%" add_name="24 часа">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="1440"/>
+    <set name="icon" value="br_cashtex.item.br_cash_rune_of_rp_i00"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9504" level="1"/>
+    </skills>
+</etcitem>
+		<!-- Premium Rune-->
+	 <etcitem id="25114" name="Premium Exp/SP/Drop/Adena/Spoil +50%" add_name="7 Дней">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="10080"/>
+    <set name="icon" value="br_cashtex.item.br_cash_rune_of_rp_i00"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9504" level="1"/>
+    </skills>
+</etcitem>
+		<!-- Premium Rune-->
+	 <etcitem id="25115" name="Premium Exp/SP/Drop/Adena/Spoil +50%" add_name="1 Месяц">
+    <set name="freightable" value="true"/>
+    <set name="class" value="OTHER"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="false"/>
+    <set name="durability" value="44640"/>
+    <set name="icon" value="br_cashtex.item.br_cash_rune_of_rp_i00"/>
+    <set name="temporal" value="true"/>
+    <set name="tradeable" value="false"/>
+    <set name="type" value="RUNE"/>
+    <set name="weight" value="120"/>
+	<set name="stackable" value="True"/>
+    <skills>
+      <skill id="9504" level="1"/>
+    </skills>
+</etcitem>
+	
+	<etcitem id="25116" name="Сундук с Хорошими костюмами">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_marguene_collection_box_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="destroyable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<etcitem id="25117" name="Сундук с Эпичными костюмами">
+		<set name="class" value="OTHER"/>
+		<set name="dropable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_elite_marguene_collection_box_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="destroyable" value="true"/>
+		<set name="type" value="OTHER"/>
+		<set name="weight" value="20"/>
+	</etcitem>
+	
+	<weapon id="25120" name="Vampire Warrior">
+		<!-- [Стартовое оружие для воинов] -->
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="durability" value="120"/>
+		<set name="icon" value="icon.weapon_monster_i00"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="2"/>
+		<set name="spiritshots" value="2"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="weight" value="3000"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="110"/>
+			<add stat="mAtk" order="0x10" value="21"/>
+			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+
+</list>

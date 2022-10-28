@@ -10,6 +10,8 @@
 		<buff skill_id="4338" skill_level="1" min_level="1" />
 		<buff skill_id="4349" skill_level="2" min_level="1" />
 		<buff skill_id="4358" skill_level="3" min_level="1" />
+		<buff skill_id="5182" skill_level="1" min_level="1" />
+		<buff skill_id="4345" skill_level="3" min_level="1" />
 	</warrior>
 	<mage max_level="40">
 		<buff skill_id="4322" skill_level="1" min_level="1" />
@@ -20,5 +22,6 @@
 		<buff skill_id="4331" skill_level="1" min_level="1" />
 		<buff skill_id="4338" skill_level="1" min_level="1" />
 		<buff skill_id="4349" skill_level="2" min_level="1" />
+		<buff skill_id="5182" skill_level="1" min_level="1" />
 	</mage>
 </list>

@@ -62,8 +62,10 @@
 		</ai_params>
 	</npc>  
 	
-	<npc id="50201" name="Altar of Good" title="GM SHOP">
-		<set name="displayId" value="31512"/>
+	<npc id="50201" name="La2SuperBuff" title="GM SHOP">
+		<set name="displayId" value="31519"/>
+		<set name="collision_radius" value="20"/>
+		<set name="collision_height" value="60"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Merchant"/>
 		<set name="castle_id" value="3"/>
@@ -71,8 +73,6 @@
 		<set name="exp" value="429634523"/>
 		<set name="race" value="etc"/>
 		<set name="sex" value="etc"/>
-		<set name="collision_radius" value="11"/>
-		<set name="collision_height" value="45"/>
 		<set name="baseRunSpd" value="119"/>
 		<set name="baseWalkSpd" value="50"/>
 		<set name="baseSTR" value="40"/>
@@ -126,7 +126,7 @@
 		</ai_params>
 	</npc>  
 
-	<npc id="50202" name="Sacred Source" title="DONAT SHOP"> 
+	<npc id="50202" name="La2SuperBuff" title="DONAT SHOP"> 
 		<set name="displayId" value="32027"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Merchant"/>
@@ -193,7 +193,7 @@
 			<!--Others-->
 		</skills>
 	</npc>   
-	<npc id="50203" name="Fun Altar" title="EVENT MANAGER"> 
+	<npc id="50203" name="La2SuperBuff" title="EVENT MANAGER"> 
 		<set name="displayId" value="31508"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Npc"/>
@@ -261,7 +261,7 @@
 	</npc>  
 	
 	
-	<npc id="50204" name="L2SuperBuff" title="HELPER">
+	<npc id="50204" name="L2SuperBuff" title="NEWBIE HELPER">
 		<set name="displayId" value="35648"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Merchant"/>
@@ -325,16 +325,16 @@
 		</ai_params>
 	</npc>  
 
-<npc id="50205" name="Gatekeeper" title="Newbie GK">
-		<set name="displayId" value="31519"/>
+<npc id="50205" name="La2SuperBuff" title="GATEKEEPER">
+		<set name="displayId" value="31512"/>
+		<set name="collision_radius" value="11"/>
+		<set name="collision_height" value="45"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Npc"/>
 		<set name="level" value="70"/>
 		<set name="exp" value="429634523"/>
 		<set name="race" value="etc"/>
 		<set name="sex" value="etc"/>
-		<set name="collision_radius" value="20"/>
-		<set name="collision_height" value="60"/>
 		<set name="baseRunSpd" value="119"/>
 		<set name="baseWalkSpd" value="50"/>
 		<set name="baseSTR" value="40"/>
@@ -389,22 +389,32 @@
 		
 		<teleportlist>
 			<sublist id="1">
-				<target loc="83463 148045 -3400" item_id="57" price="6800" name="1010007" StringName="The Town of Giran" StringNameLang="Гиран" castle_id="3"/>
+				<target loc="180984 -174504 320" item_id="57" price="0" name="1010596" StringName="5 Floor Hard (35+)" StringNameLang="5 Этаж Трудно (35+)"/>
+				<target loc="179256 -178168 -616" item_id="57" price="0" name="1010596" StringName="5 Floor Hard (30+)" StringNameLang="5 Этаж Трудно (30+)"/>
+				<target loc="181256 -183096 -1664" item_id="57" price="0" name="1010596" StringName="5 Floor Hard (20+)" StringNameLang="5 Этаж Трудно (20+)"/>
+				<target loc="178712 -175784 -1896" item_id="57" price="0" name="1010596" StringName="5 Floor (16+)" StringNameLang="5 Этаж (16+)"/>
+				<target loc="176952 -173080 3184" item_id="57" price="0" name="1010596" StringName="4 Floor Light (36+)" StringNameLang="4 Этаж Легко (36+)"/>
+				<target loc="176904 -177640 1824" item_id="57" price="0" name="1010596" StringName="4 Floor Light (30+)" StringNameLang="4 Этаж Легко (30+)"/>
+				<target loc="175736 -179720 32" item_id="57" price="0" name="1010596" StringName="4 Floor Light (20+)" StringNameLang="4 Этаж Легко (20+)"/>
+				<target loc="177944 -184792 -1896" item_id="57" price="0" name="1010596" StringName="4 Floor Light (16+)" StringNameLang="4 Этаж Легко (16+)"/>
+				<target loc="182040 -176888 -2424" item_id="57" price="0" name="1010596" StringName="4 Floor (13+)" StringNameLang="4 Этаж (13+)"/>
+				<target loc="182904 -175688 -2800" item_id="57" price="0" name="1010596" StringName="3 Floor (10+)" StringNameLang="3 Этаж (10+)"/>
+				<target loc="180120 -175544 -3160" item_id="57" price="0" name="1010596" StringName="2 Floor (6+)" StringNameLang="2 Этаж (6+)"/>
+				<target loc="181784 -175752 -3568" item_id="57" price="0" name="1010596" StringName="Starting Area (1+)" StringNameLang="Стартовая локация (1+)"/>
 			</sublist>
 		</teleportlist>
 	</npc>  
-	<npc id="50206" name="Statue Of Buff" title="" pts_name="BUFF MANAGER"> 
-		<!--Done by JunkyFunky at : 2018-02-25T21:53:25.530-->
+	<npc id="50206" name="La2SuperBuff" title="GATEKEEPER">
+		<set name="displayId" value="31512"/>
+		<set name="collision_radius" value="11"/>
+		<set name="collision_height" value="45"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="type" value="Npc"/>
-		<set name="castle_id" value="4"/>
 		<set name="level" value="70"/>
 		<set name="exp" value="429634523"/>
 		<set name="race" value="etc"/>
 		<set name="sex" value="etc"/>
-		<set name="collision_radius" value="25"/>
-		<set name="collision_height" value="98"/>
-		<set name="baseRunSpd" value="1"/>
+		<set name="baseRunSpd" value="119"/>
 		<set name="baseWalkSpd" value="50"/>
 		<set name="baseSTR" value="40"/>
 		<set name="baseINT" value="21"/>
@@ -448,9 +458,78 @@
 		<set name="rewardSp" value="0"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="0"/>
+		<set name="htm_root" value="mods/globalgk/"/>
 		<ai_params>
 			<!--PTS AI Params-->
-			<set name="fnHi" value="statue_of_offering001.htm"/>
+			<set name="MoveAroundSocial" value="0"/>
+			<set name="MoveAroundSocial1" value="0"/>
+			<set name="MoveAroundSocial2" value="0"/>
+		</ai_params>
+		
+		<teleportlist>
+			<sublist id="1">
+				<target loc="83463 148045 -3400" item_id="57" price="0" name="1010007" StringName="The Town of Giran" StringNameLang="Гиран" castle_id="3"/>
+			</sublist>
+		</teleportlist>
+	</npc>  
+	<npc id="50207" name="La2SuperBuff" title="URN"> 
+		<!--Done by JunkyFunky at : 2018-02-25T21:53:25.695-->
+		<set name="displayId" value="31149"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Merchant"/>
+		<set name="level" value="70"/>
+		<set name="exp" value="429634523"/>
+		<set name="race" value="etc"/>
+		<set name="sex" value="etc"/>
+		<set name="collision_radius" value="10"/>
+		<set name="collision_height" value="15"/>
+		<set name="baseRunSpd" value="119"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseHpMax" value="2444"/>
+		<set name="baseHpReg" value="11.85"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseMpMax" value="1493"/>
+		<set name="baseMpReg" value="2.78"/>
+		<set name="baseAtkType" value="FIST"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<set name="baseRndDam" value="7"/>
+		<set name="basePAtk" value="683"/>
+		<set name="baseCritRate" value="80"/>
+		<set name="basePAtkSpd" value="247.42"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseMDef" value="206"/>
+		<set name="baseMAtk" value="468"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="basePDef" value="296"/>
+		<set name="HitTimeFactor" value="0.6"/>
+		<set name="physical_hit_modify" value="0"/>
+		<set name="physical_avoid_modify" value="0"/>
+		<set name="SafeHeight" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="soulshot_count" value="0"/>
+		<set name="spiritshot_count" value="0"/>
+		<set name="corpse_time" value="7"/>
+		<set name="noSleepMode" value="0"/>
+		<set name="aggroRange" value="0"/>
+		<set name="texture" value=""/>
+		<set name="isAgro" value="0"/>
+		<set name="unsowing" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="acquire_exp_rate" value="0"/>
+		<set name="htm_root" value="mods/urn/"/>
+		<ai_params>
+			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>
 			<set name="MoveAroundSocial1" value="0"/>
 			<set name="MoveAroundSocial2" value="0"/>

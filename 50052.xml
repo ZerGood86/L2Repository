@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <list>
-<!--Hatbox-->
+<!--Дешевые головные уборы-->
+<item id="1">
+    <ingredient id="6673" count="1" enchant="0"/>
+    <production id="25101" count="1" enchant="0"/>
+ </item>
+<!--Хорошие головные уборы-->
 <item id="1">
     <ingredient id="6673" count="10" enchant="0"/>
-    <production id="25106" count="1" enchant="0"/>
+    <production id="25102" count="1" enchant="0"/>
+ </item>
+<!--Отличные головные уборы-->
+<item id="1">
+    <ingredient id="6673" count="100" enchant="0"/>
+    <production id="25103" count="1" enchant="0"/>
  </item>
  <!-- Декор щиты -->
 <item id="81">
