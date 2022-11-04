@@ -30,13 +30,13 @@
 
   <!-- COE   -->
 <item id="14">
-<ingredient id="57" count="15000" enchant="0"/>
+<ingredient id="57" count="10000" enchant="0"/>
 <production id="736" count="1" enchant="0"/>
 </item>
 
   <!-- COR   -->
 <item id="15">
-<ingredient id="5575" count="400000" enchant="0"/>
+<ingredient id="57" count="100000" enchant="0"/>
 <production id="737" count="1" enchant="0"/>
 </item>
 
@@ -75,22 +75,6 @@
   <!-- Банки на бег, каст, аткспд   -->
 
   <!-- Банки на бег, каст, аткспд за АА  -->
-
-  <!-- Феникс блуд, Холи ватер, Суммон кри   -->
-<item id="33">
-<ingredient id="57" count="50000"/>
-<production id="8873" count="1"/>
-</item>
-
-<item id="34">
-<ingredient id="57" count="150000"/>
-<production id="8874" count="1"/>
-</item>
-
-<item id="35">
-<ingredient id="57" count="50000000"/>
-<production id="8615" count="1"/>
-</item>
 
   <!-- Гемстоуны   -->
 <item id="42">
@@ -265,5 +249,20 @@
 <production id="6036" count="1"/>
 </item>
 
+  <!-- Феникс блуд, Холи ватер, Суммон кри   -->
+<item id="100">
+<ingredient id="57" count="50000"/>
+<production id="8873" count="1"/>
+</item>
+
+<item id="101">
+<ingredient id="57" count="150000"/>
+<production id="8874" count="1"/>
+</item>
+
+<item id="102">
+<ingredient id="57" count="50000000"/>
+<production id="8615" count="1"/>
+</item>
 
 </list>

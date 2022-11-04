@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+<!--Дешевые головные уборы-->
+<item id="1">
+    <ingredient id="6673" count="1" enchant="0"/>
+    <production id="25101" count="1" enchant="0"/>
+ </item>
+<!--Хорошие головные уборы-->
+<item id="1">
+    <ingredient id="6673" count="10" enchant="0"/>
+    <production id="25102" count="1" enchant="0"/>
+ </item>
+<!--Отличные головные уборы-->
+<item id="1">
+    <ingredient id="6673" count="100" enchant="0"/>
+    <production id="25103" count="1" enchant="0"/>
+ </item>
+ <!-- Декор щиты -->
+<item id="81">
+    <ingredient id="6673" count="100" enchant="0"/>
+    <production id="5799" count="1" enchant="0"/>
+ </item>
+ <item id="82">
+    <ingredient id="6673" count="100" enchant="0"/>
+    <production id="6721" count="1" enchant="0"/>
+ </item>
+
+  <!-- свадебное платье -->
+    <item id="93">
+    <ingredient id="6673" count="50" enchant="0"/>
+    <production id="6408" count="1" enchant="0"/>
+  </item>
+  <!-- страйдер винд -->
+      <item id="94">
+    <ingredient id="6673" count="100" enchant="0"/>
+    <production id="4422" count="1" enchant="0"/>
+  </item>
+  <!-- страйдер маленький -->
+      <item id="95">
+    <ingredient id="6673" count="5" enchant="0"/>
+    <production id="3500" count="1" enchant="0"/>
+  </item>
+    <!-- Wolf Collar -->
+      <item id="96">
+    <ingredient id="6673" count="2" enchant="0"/>
+    <production id="2375" count="1" enchant="0"/>
+  </item>
+          <!-- мини буфало -->
+      <item id="97">
+    <ingredient id="6673" count="1" enchant="0"/>
+    <production id="6648" count="1" enchant="0"/>
+  </item>
+        <!-- Baby Cougar Chime -->
+      <item id="98">
+    <ingredient id="6673" count="1" enchant="0"/>
+    <production id="6649" count="1" enchant="0"/>
+  </item>
+        <!-- Baby Kookaburra Ocarina -->
+      <item id="99">
+    <ingredient id="6673" count="1" enchant="0"/>
+    <production id="6650" count="1" enchant="0"/>
+  </item>
+		<!--Дуалкрафт штамп, Ключ-->
+<item id="100">
+<ingredient id="6673" count="100" enchant="0"/>
+<production id="5126" count="1" enchant="0"/>
+</item>
+  
+
+</list>

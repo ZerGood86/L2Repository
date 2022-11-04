@@ -995,7 +995,7 @@
 		<set name="hitCancelTime" val="500"/>
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="523"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1026,7 +1026,7 @@
 		<set name="hitCancelTime" val="500"/>
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="495"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1086,7 +1086,7 @@
 		<set name="hitCancelTime" val="500"/>
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="379"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1116,7 +1116,7 @@
 		<set name="hitCancelTime" val="500"/>
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="438"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1146,7 +1146,7 @@
 		<set name="hitCancelTime" val="500"/>
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="467"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1207,7 +1207,7 @@
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="523"/>
 		<set name="weaponsAllowed" val="512"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1301,7 +1301,7 @@
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="379"/>
 		<set name="weaponsAllowed" val="512"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
@@ -1332,7 +1332,7 @@
 		<set name="mpConsume2" val="#mpConsume2"/>
 		<set name="effectPoint" val="549"/>
 		<set name="weaponsAllowed" val="512"/>
-		<set name="target" val="TARGET_PARTY"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillRadius" val="1000"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>

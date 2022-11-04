@@ -248,146 +248,6 @@
     <!--ZerGood spawned : Newbie Guide on Loc : 83656,147944,-3400,32767-->
     <npc id="50204" count="1" respawn="60" pos="83656 147944 -3400 32767" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181048,-174904,-3568,20352-->
-    <npc id="18342" count="1" respawn="60" pos="181048 -174904 -3568 20352" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180984,-175224,-3568,47093-->
-    <npc id="18342" count="1" respawn="60" pos="180984 -175224 -3568 47093" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181256,-175304,-3568,62345-->
-    <npc id="18342" count="1" respawn="60" pos="181256 -175304 -3568 62345" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181576,-175400,-3568,62709-->
-    <npc id="18342" count="1" respawn="60" pos="181576 -175400 -3568 62709" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181768,-175544,-3568,58824-->
-    <npc id="18342" count="1" respawn="60" pos="181768 -175544 -3568 58824" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181608,-175784,-3568,43018-->
-    <npc id="18342" count="1" respawn="60" pos="181608 -175784 -3568 43018" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181416,-175592,-3568,24575-->
-    <npc id="18342" count="1" respawn="60" pos="181416 -175592 -3568 24575" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181256,-175704,-3568,39138-->
-    <npc id="18342" count="1" respawn="60" pos="181256 -175704 -3568 39138" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180856,-175704,-3568,32767-->
-    <npc id="18342" count="1" respawn="60" pos="180856 -175704 -3568 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180728,-175416,-3568,20607-->
-    <npc id="18342" count="1" respawn="60" pos="180728 -175416 -3568 20607" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180456,-175192,-3568,26485-->
-    <npc id="18342" count="1" respawn="60" pos="180456 -175192 -3568 26485" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180248,-174952,-3568,23832-->
-    <npc id="18342" count="1" respawn="60" pos="180248 -174952 -3568 23832" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180424,-174968,-3568,5826-->
-    <npc id="18342" count="1" respawn="60" pos="180424 -174968 -3568 5826" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180760,-174952,-3568,0-->
-    <npc id="18342" count="1" respawn="60" pos="180760 -174952 -3568 0" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180792,-174600,-3568,15438-->
-    <npc id="18342" count="1" respawn="60" pos="180792 -174600 -3568 15438" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180680,-174296,-3568,20065-->
-    <npc id="18342" count="1" respawn="60" pos="180680 -174296 -3568 20065" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181160,-174152,-3568,3040-->
-    <npc id="18342" count="1" respawn="60" pos="181160 -174152 -3568 3040" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181432,-174376,-3568,58350-->
-    <npc id="18342" count="1" respawn="60" pos="181432 -174376 -3568 58350" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181688,-174664,-3568,56890-->
-    <npc id="18342" count="1" respawn="60" pos="181688 -174664 -3568 56890" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181976,-175016,-3568,55863-->
-    <npc id="18342" count="1" respawn="60" pos="181976 -175016 -3568 55863" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181960,-175352,-3568,48655-->
-    <npc id="18342" count="1" respawn="60" pos="181960 -175352 -3568 48655" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181752,-175304,-3568,30402-->
-    <npc id="18342" count="1" respawn="60" pos="181752 -175304 -3568 30402" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181416,-175128,-3568,27735-->
-    <npc id="18342" count="1" respawn="60" pos="181416 -175128 -3568 27735" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181448,-174744,-3568,15516-->
-    <npc id="18342" count="1" respawn="60" pos="181448 -174744 -3568 15516" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181128,-174504,-3568,26056-->
-    <npc id="18342" count="1" respawn="60" pos="181128 -174504 -3568 26056" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--ZerGood spawned : Newbie Guide on Loc : 181496,-176104,-3568,11547-->
-    <npc id="50204" count="1" respawn="60" pos="181496 -176104 -3568 11547" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181256,-175176,-3568,55285-->
-    <npc id="18342" count="1" respawn="60" pos="181256 -175176 -3568 55285" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181016,-174648,-3568,32767-->
-    <npc id="18342" count="1" respawn="60" pos="181016 -174648 -3568 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180808,-174424,-3568,23997-->
-    <npc id="18342" count="1" respawn="60" pos="180808 -174424 -3568 23997" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180456,-174344,-3568,32767-->
-    <npc id="18342" count="1" respawn="60" pos="180456 -174344 -3568 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 180968,-174088,-3568,3796-->
-    <npc id="18342" count="1" respawn="60" pos="180968 -174088 -3568 3796" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181736,-174872,-3568,54978-->
-    <npc id="18342" count="1" respawn="60" pos="181736 -174872 -3568 54978" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181912,-175048,-3568,57343-->
-    <npc id="18342" count="1" respawn="60" pos="181912 -175048 -3568 57343" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181576,-175064,-3568,33154-->
-    <npc id="18342" count="1" respawn="60" pos="181576 -175064 -3568 33154" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gremlin]">
-    <!--ZerGood spawned : Gremlin on Loc : 181240,-174824,-3568,24575-->
-    <npc id="18342" count="1" respawn="60" pos="181240 -174824 -3568 24575" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Zombie]">
     <!--ZerGood spawned : Zombie on Loc : 180216,-175992,-3152,40959-->
     <npc id="20177" count="1" respawn="60" pos="180216 -175992 -3152 40959" />
@@ -462,95 +322,91 @@
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179960,-173848,-2800,18106-->
-    <npc id="20312" count="1" respawn="60" pos="179960 -173848 -2800 18106" />
+    <npc id="20095" count="1" respawn="60" pos="179960 -173848 -2800 18106" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179944,-173560,-2800,23095-->
-    <npc id="20312" count="1" respawn="60" pos="179944 -173560 -2800 23095" />
+    <npc id="20095" count="1" respawn="60" pos="179944 -173560 -2800 23095" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179624,-174056,-2800,43585-->
-    <npc id="20312" count="1" respawn="60" pos="179624 -174056 -2800 43585" />
+    <npc id="20095" count="1" respawn="60" pos="179624 -174056 -2800 43585" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179432,-174728,-2800,47429-->
-    <npc id="20312" count="1" respawn="60" pos="179432 -174728 -2800 47429" />
+    <npc id="20095" count="1" respawn="60" pos="179432 -174728 -2800 47429" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179416,-175304,-2800,48717-->
-    <npc id="20312" count="1" respawn="60" pos="179416 -175304 -2800 48717" />
+    <npc id="20095" count="1" respawn="60" pos="179416 -175304 -2800 48717" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179512,-175704,-2800,53020-->
-    <npc id="20312" count="1" respawn="60" pos="179512 -175704 -2800 53020" />
+    <npc id="20095" count="1" respawn="60" pos="179512 -175704 -2800 53020" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 179800,-176056,-2800,56765-->
-    <npc id="20312" count="1" respawn="60" pos="179800 -176056 -2800 56765" />
+    <npc id="20095" count="1" respawn="60" pos="179800 -176056 -2800 56765" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180088,-176408,-2800,56304-->
-    <npc id="20312" count="1" respawn="60" pos="180088 -176408 -2800 56304" />
+    <npc id="20095" count="1" respawn="60" pos="180088 -176408 -2800 56304" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180424,-176664,-2800,58745-->
-    <npc id="20312" count="1" respawn="60" pos="180424 -176664 -2800 58745" />
+    <npc id="20095" count="1" respawn="60" pos="180424 -176664 -2800 58745" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180712,-176824,-2800,60246-->
-    <npc id="20312" count="1" respawn="60" pos="180712 -176824 -2800 60246" />
+    <npc id="20095" count="1" respawn="60" pos="180712 -176824 -2800 60246" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181208,-176888,-2800,64197-->
-    <npc id="20312" count="1" respawn="60" pos="181208 -176888 -2800 64197" />
+    <npc id="20095" count="1" respawn="60" pos="181208 -176888 -2800 64197" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181528,-176808,-2800,1039-->
-    <npc id="20312" count="1" respawn="60" pos="181528 -176808 -2800 1039" />
+    <npc id="20095" count="1" respawn="60" pos="181528 -176808 -2800 1039" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182072,-176632,-2800,3511-->
-    <npc id="20312" count="1" respawn="60" pos="182072 -176632 -2800 3511" />
+    <npc id="20095" count="1" respawn="60" pos="182072 -176632 -2800 3511" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182616,-176104,-2800,8843-->
-    <npc id="20312" count="1" respawn="60" pos="182616 -176104 -2800 8843" />
+    <npc id="20095" count="1" respawn="60" pos="182616 -176104 -2800 8843" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182872,-175448,-2800,13161-->
-    <npc id="20312" count="1" respawn="60" pos="182872 -175448 -2800 13161" />
+    <npc id="20095" count="1" respawn="60" pos="182872 -175448 -2800 13161" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182968,-174984,-2800,14325-->
-    <npc id="20312" count="1" respawn="60" pos="182968 -174984 -2800 14325" />
+    <npc id="20095" count="1" respawn="60" pos="182968 -174984 -2800 14325" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182872,-174568,-2800,19597-->
-    <npc id="20312" count="1" respawn="60" pos="182872 -174568 -2800 19597" />
+    <npc id="20095" count="1" respawn="60" pos="182872 -174568 -2800 19597" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182600,-173960,-2800,20671-->
-    <npc id="20312" count="1" respawn="60" pos="182600 -173960 -2800 20671" />
+    <npc id="20095" count="1" respawn="60" pos="182600 -173960 -2800 20671" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 182296,-173656,-2800,24788-->
-    <npc id="20312" count="1" respawn="60" pos="182296 -173656 -2800 24788" />
+    <npc id="20095" count="1" respawn="60" pos="182296 -173656 -2800 24788" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181832,-173384,-2800,28100-->
-    <npc id="20312" count="1" respawn="60" pos="181832 -173384 -2800 28100" />
+    <npc id="20095" count="1" respawn="60" pos="181832 -173384 -2800 28100" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 181256,-173320,-2800,31581-->
-    <npc id="20312" count="1" respawn="60" pos="181256 -173320 -2800 31581" />
+    <npc id="20095" count="1" respawn="60" pos="181256 -173320 -2800 31581" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Rakeclaw Imp Hunter]">
     <!--ZerGood spawned : Rakeclaw Imp Hunter on Loc : 180728,-173336,-2800,33083-->
-    <npc id="20312" count="1" respawn="60" pos="180728 -173336 -2800 33083" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Skeleton Hunter]">
-    <!--ZerGood spawned : Skeleton Hunter on Loc : 179320,-176088,-2424,29025-->
-    <npc id="20517" count="1" respawn="60" pos="179320 -176088 -2424 29025" />
+    <npc id="20095" count="1" respawn="60" pos="180728 -173336 -2800 33083" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Marsh Zombie]">
     <!--ZerGood spawned : Marsh Zombie on Loc : 179096,-176024,-2424,27353-->
@@ -1612,10 +1468,6 @@
     <!--ZerGood spawned : Fettered Soul on Loc : 173656,-174584,3488,51707-->
     <npc id="20552" count="1" respawn="60" pos="173656 -174584 3488 51707" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gatekeeper]">
-    <!--ZerGood spawned : Gatekeeper on Loc : 173064,-173928,3488,60699-->
-    <npc id="50205" count="1" respawn="60" pos="173064 -173928 3488 60699" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Fettered Soul]">
     <!--ZerGood spawned : Fettered Soul on Loc : 173256,-174104,3488,41654-->
     <npc id="20552" count="1" respawn="60" pos="173256 -174104 3488 41654" />
@@ -1879,14 +1731,6 @@
   <spawn event_name="[custom_spawn]" name="[Ratman Spy]">
     <!--ZerGood spawned : Ratman Spy on Loc : 180408,-177464,-1896,13028-->
     <npc id="20360" count="1" respawn="60" pos="180408 -177464 -1896 13028" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
-    <!--ZerGood spawned : Newbie Guide on Loc : 181000,-182632,-1896,31822-->
-    <npc id="50204" count="1" respawn="60" pos="181000 -182632 -1896 31822" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Buzz the Cat]">
-    <!--ZerGood spawned : Buzz the Cat on Loc : 181000,-182568,-1896,32767-->
-    <npc id="31860" count="1" respawn="60" pos="181000 -182568 -1896 32767" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Langk Lizardman Lieutenant]">
     <!--ZerGood spawned : Langk Lizardman Lieutenant on Loc : 180424,-183112,-1896,34490-->
@@ -2460,10 +2304,6 @@
     <!--ZerGood spawned : Turek War Hound on Loc : 177080,-173672,-240,65229-->
     <npc id="20549" count="1" respawn="60" pos="177080 -173672 -240 65229" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Turek Orc Skirmisher]">
-    <!--ZerGood spawned : Turek Orc Skirmisher on Loc : 178856,-173736,-240,248-->
-    <npc id="20497" count="1" respawn="60" pos="178856 -173736 -240 248" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Road Scavenger]">
     <!--ZerGood spawned : Road Scavenger on Loc : 179112,-173512,-240,5078-->
     <npc id="20551" count="1" respawn="60" pos="179112 -173512 -240 5078" />
@@ -2720,198 +2560,6 @@
     <!--ZerGood spawned : Leto Lizardman Shaman on Loc : 179656,-178680,256,60699-->
     <npc id="20581" count="1" respawn="60" pos="179656 -178680 256 60699" />
   </spawn>
-  <spawn event_name="[custom_spawn]" name="[Gatekeeper]">
-    <!--ZerGood spawned : Gatekeeper on Loc : 179272,-182808,-224,17184-->
-    <npc id="50205" count="1" respawn="60" pos="179272 -182808 -224 17184" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181160,-175016,-3568,22020-->
-    <npc id="20121" count="1" respawn="60" pos="181160 -175016 -3568 22020" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181016,-175128,-3568,34826-->
-    <npc id="20121" count="1" respawn="60" pos="181016 -175128 -3568 34826" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180728,-175176,-3568,34490-->
-    <npc id="20121" count="1" respawn="60" pos="180728 -175176 -3568 34490" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180616,-175080,-3568,25376-->
-    <npc id="20121" count="1" respawn="60" pos="180616 -175080 -3568 25376" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180536,-175272,-3568,45034-->
-    <npc id="20121" count="1" respawn="60" pos="180536 -175272 -3568 45034" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180664,-175432,-3568,56189-->
-    <npc id="20121" count="1" respawn="60" pos="180664 -175432 -3568 56189" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180696,-175608,-3568,51027-->
-    <npc id="20121" count="1" respawn="60" pos="180696 -175608 -3568 51027" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180472,-175608,-3568,32767-->
-    <npc id="20121" count="1" respawn="60" pos="180472 -175608 -3568 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180264,-175608,-3568,32767-->
-    <npc id="20121" count="1" respawn="60" pos="180264 -175608 -3568 32767" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180248,-175448,-3568,17423-->
-    <npc id="20121" count="1" respawn="60" pos="180248 -175448 -3568 17423" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180152,-175272,-3568,21592-->
-    <npc id="20121" count="1" respawn="60" pos="180152 -175272 -3568 21592" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180152,-175128,-3568,16383-->
-    <npc id="20121" count="1" respawn="60" pos="180152 -175128 -3568 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180408,-175160,-3568,64238-->
-    <npc id="20121" count="1" respawn="60" pos="180408 -175160 -3568 64238" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180136,-174952,-3568,25958-->
-    <npc id="20121" count="1" respawn="60" pos="180136 -174952 -3568 25958" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180280,-174856,-3568,6133-->
-    <npc id="20121" count="1" respawn="60" pos="180280 -174856 -3568 6133" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180440,-174936,-3568,60699-->
-    <npc id="20121" count="1" respawn="60" pos="180440 -174936 -3568 60699" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180680,-174920,-3568,694-->
-    <npc id="20121" count="1" respawn="60" pos="180680 -174920 -3568 694" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180888,-174744,-3568,53988-->
-    <npc id="20121" count="1" respawn="60" pos="180888 -174744 -3568 53988" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180664,-174600,-3568,26808-->
-    <npc id="20121" count="1" respawn="60" pos="180664 -174600 -3568 26808" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180536,-174424,-3568,22942-->
-    <npc id="20121" count="1" respawn="60" pos="180536 -174424 -3568 22942" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180552,-174152,-3568,15771-->
-    <npc id="20121" count="1" respawn="60" pos="180552 -174152 -3568 15771" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180776,-174136,-3568,743-->
-    <npc id="20121" count="1" respawn="60" pos="180776 -174136 -3568 743" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181000,-174168,-3568,64055-->
-    <npc id="20121" count="1" respawn="60" pos="181000 -174168 -3568 64055" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181096,-174008,-3568,10747-->
-    <npc id="20121" count="1" respawn="60" pos="181096 -174008 -3568 10747" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181352,-174152,-3568,60191-->
-    <npc id="20121" count="1" respawn="60" pos="181352 -174152 -3568 60191" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181352,-174152,-3568,60191-->
-    <npc id="20121" count="1" respawn="60" pos="181352 -174152 -3568 60191" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181336,-174408,-3568,49151-->
-    <npc id="20121" count="1" respawn="60" pos="181336 -174408 -3568 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181352,-174536,-3568,50449-->
-    <npc id="20121" count="1" respawn="60" pos="181352 -174536 -3568 50449" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181608,-174520,-3568,12415-->
-    <npc id="20121" count="1" respawn="60" pos="181608 -174520 -3568 12415" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181704,-174760,-3568,53375-->
-    <npc id="20121" count="1" respawn="60" pos="181704 -174760 -3568 53375" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181928,-174632,-3568,5414-->
-    <npc id="20121" count="1" respawn="60" pos="181928 -174632 -3568 5414" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 182024,-174840,-3568,53662-->
-    <npc id="20121" count="1" respawn="60" pos="182024 -174840 -3568 53662" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181736,-174952,-3568,34248-->
-    <npc id="20121" count="1" respawn="60" pos="181736 -174952 -3568 34248" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181736,-175096,-3568,49151-->
-    <npc id="20121" count="1" respawn="60" pos="181736 -175096 -3568 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181992,-175208,-3568,61234-->
-    <npc id="20121" count="1" respawn="60" pos="181992 -175208 -3568 61234" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181864,-175336,-3568,40959-->
-    <npc id="20121" count="1" respawn="60" pos="181864 -175336 -3568 40959" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181528,-175288,-3568,31287-->
-    <npc id="20121" count="1" respawn="60" pos="181528 -175288 -3568 31287" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181528,-175464,-3568,49151-->
-    <npc id="20121" count="1" respawn="60" pos="181528 -175464 -3568 49151" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181704,-175672,-3568,56731-->
-    <npc id="20121" count="1" respawn="60" pos="181704 -175672 -3568 56731" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181816,-175816,-3568,56046-->
-    <npc id="20121" count="1" respawn="60" pos="181816 -175816 -3568 56046" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181592,-175784,-3568,31613-->
-    <npc id="20121" count="1" respawn="60" pos="181592 -175784 -3568 31613" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181336,-175816,-3568,28799-->
-    <npc id="20121" count="1" respawn="60" pos="181336 -175816 -3568 28799" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181048,-175864,-3568,34360-->
-    <npc id="20121" count="1" respawn="60" pos="181048 -175864 -3568 34360" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181096,-175720,-3568,28799-->
-    <npc id="20121" count="1" respawn="60" pos="181096 -175720 -3568 28799" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 180952,-175576,-3568,24575-->
-    <npc id="20121" count="1" respawn="60" pos="180952 -175576 -3568 24575" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Giant Toad]">
-    <!--ZerGood spawned : Giant Toad on Loc : 181224,-175496,-3568,2983-->
-    <npc id="20121" count="1" respawn="60" pos="181224 -175496 -3568 2983" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Silent Statue]">
-    <!--ZerGood spawned : Silent Statue on Loc : 181560,-176088,-3568,16383-->
-    <npc id="50200" count="1" respawn="60" pos="181560 -176088 -3568 16383" />
-  </spawn>
   <spawn event_name="[custom_spawn]" name="[Silent Statue]">
     <!--ZerGood spawned : Silent Statue on Loc : 181448,-183096,-1648,32767-->
     <npc id="50200" count="1" respawn="60" pos="181448 -183096 -1648 32767" />
@@ -2941,15 +2589,147 @@
     <npc id="30540" count="1" respawn="60" pos="116152 -182312 -1488 62980" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Silent Statue]">
-    <!--ZerGood spawned : Silent Statue on Loc : 181560,-176088,-3568,16383-->
-    <npc id="50200" count="1" respawn="60" pos="181560 -176088 -3568 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[Silent Statue]">
     <!--ZerGood spawned : Silent Statue on Loc : 181880,-175864,-3568,24575-->
     <npc id="50200" count="1" respawn="60" pos="181880 -175864 -3568 24575" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[Newbie Guide]">
     <!--ZerGood spawned : Newbie Guide on Loc : 181800,-175928,-3568,24575-->
     <npc id="50204" count="1" respawn="60" pos="181800 -175928 -3568 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gatekeeper]">
+    <!--ZerGood spawned : Gatekeeper on Loc : 181944,-175784,-3568,24575-->
+    <npc id="50205" count="1" respawn="60" pos="181944 -175784 -3568 24575" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Court Magician]">
+    <!--ZerGood spawned : Court Magician on Loc : 82296,149000,-3472,60699-->
+    <npc id="35648" count="1" respawn="60" pos="82296 149000 -3472 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Guardian of the Holy Land]">
+    <!--ZerGood spawned : Guardian of the Holy Land on Loc : 82296,148936,-3472,49151-->
+    <npc id="22134" count="1" respawn="60" pos="82296 148936 -3472 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 180872,-174296,320,49151-->
+    <npc id="50200" count="1" respawn="60" pos="180872 -174296 320 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 179288,-182856,-232,15344-->
+    <npc id="50206" count="1" respawn="60" pos="179288 -182856 -232 15344" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 181960,-176728,-2424,52507-->
+    <npc id="50205" count="1" respawn="60" pos="181960 -176728 -2424 52507" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 180264,-175480,-3160,37604-->
+    <npc id="50205" count="1" respawn="60" pos="180264 -175480 -3160 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 182968,-175656,-2800,27931-->
+    <npc id="50205" count="1" respawn="60" pos="182968 -175656 -2800 27931" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 178952,-175688,-1896,37604-->
+    <npc id="50205" count="1" respawn="60" pos="178952 -175688 -1896 37604" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 175752,-176696,2880,16383-->
+    <npc id="50200" count="1" respawn="60" pos="175752 -176696 2880 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 173080,-173880,3488,61793-->
+    <npc id="50206" count="1" respawn="60" pos="173080 -173880 3488 61793" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 173752,-181688,-1896,47997-->
+    <npc id="50200" count="1" respawn="60" pos="173752 -181688 -1896 47997" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181480,-175288,-3568,60699-->
+    <npc id="18342" count="1" respawn="60" pos="181480 -175288 -3568 60699" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181432,-175560,-3568,47330-->
+    <npc id="18342" count="1" respawn="60" pos="181432 -175560 -3568 47330" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181128,-175560,-3568,32767-->
+    <npc id="18342" count="1" respawn="60" pos="181128 -175560 -3568 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180872,-175272,-3568,23963-->
+    <npc id="18342" count="1" respawn="60" pos="180872 -175272 -3568 23963" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 180952,-174856,-3568,14402-->
+    <npc id="18342" count="1" respawn="60" pos="180952 -174856 -3568 14402" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181288,-174760,-3568,2902-->
+    <npc id="18342" count="1" respawn="60" pos="181288 -174760 -3568 2902" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Gremlin]">
+    <!--ZerGood spawned : Gremlin on Loc : 181480,-174904,-3568,58824-->
+    <npc id="18342" count="1" respawn="60" pos="181480 -174904 -3568 58824" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 181608,-174888,-3568,1297-->
+    <npc id="20121" count="1" respawn="60" pos="181608 -174888 -3568 1297" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 181864,-175192,-3568,56452-->
+    <npc id="20121" count="1" respawn="60" pos="181864 -175192 -3568 56452" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 181640,-174568,-3568,22411-->
+    <npc id="20121" count="1" respawn="60" pos="181640 -174568 -3568 22411" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 181464,-174312,-3568,22666-->
+    <npc id="20121" count="1" respawn="60" pos="181464 -174312 -3568 22666" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 181032,-174232,-3568,30858-->
+    <npc id="20121" count="1" respawn="60" pos="181032 -174232 -3568 30858" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 180616,-174424,-3568,37278-->
+    <npc id="20121" count="1" respawn="60" pos="180616 -174424 -3568 37278" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 180360,-175048,-3568,31470-->
+    <npc id="20121" count="1" respawn="60" pos="180360 -175048 -3568 31470" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[Money Toad]">
+    <!--ZerGood spawned : Money Toad on Loc : 180648,-175672,-3568,53662-->
+    <npc id="20121" count="1" respawn="60" pos="180648 -175672 -3568 53662" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 173480,-181704,-1896,49151-->
+    <npc id="50207" count="1" respawn="60" pos="173480 -181704 -1896 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 181448,-183368,-1648,32767-->
+    <npc id="50207" count="1" respawn="60" pos="181448 -183368 -1648 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 182072,-175224,-3568,32767-->
+    <npc id="50202" count="1" respawn="60" pos="182072 -175224 -3568 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 182072,-174840,-3568,32767-->
+    <npc id="50201" count="1" respawn="60" pos="182072 -174840 -3568 32767" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 175880,-176680,2880,16383-->
+    <npc id="50207" count="1" respawn="60" pos="175880 -176680 2880 16383" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 180744,-174296,320,49151-->
+    <npc id="50207" count="1" respawn="60" pos="180744 -174296 320 49151" />
+  </spawn>
+  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
+    <!--ZerGood spawned : La2SuperBuff on Loc : 83640,148536,-3408,35323-->
+    <npc id="50208" count="1" respawn="60" pos="83640 148536 -3408 35323" />
   </spawn>
 </list>
