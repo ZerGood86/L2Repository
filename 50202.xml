@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+
+<list>
+<!-- вкладка расходники -->
+
+  <!-- Greater Healing Potion   -->
+<item id="9">
+<ingredient id="4037" count="10" enchant="0"/>
+<production id="1539" count="100" enchant="0"/>
+</item>
+
+  <!-- Быстродействующее Зелье Исцеления   -->
+<item id="10">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="1540" count="20" enchant="0"/>
+</item>
+
+  <!-- Mana Potion   -->
+<item id="11">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="728" count="100" enchant="0"/>
+</item>
+
+  <!-- Greater CP Potion   -->
+<item id="13">
+<ingredient id="4037" count="100" enchant="0"/>
+<production id="5592" count="1000" enchant="0"/>
+</item>
+
+  <!--  Blessed Scroll of Resurrection  -->
+<item id="14">
+<ingredient id="4037" count="50" enchant="0"/>
+<production id="3936" count="10" enchant="0"/>
+</item>
+
+  <!-- Blessed Scroll of Escape   -->
+<item id="15">
+<ingredient id="4037" count="20" enchant="0"/>
+<production id="1538" count="10" enchant="0"/>
+</item>
+
+<!-- Greater Haste Potion -->
+<item id="20">
+<ingredient id="4037" count="100"/>
+<production id="1374" count="10"/>
+</item>
+
+
+<!-- Greater Swift Attack Potion -->
+<item id="21">
+<ingredient id="4037" count="100"/>
+<production id="1375" count="10"/>
+</item>
+
+
+<!-- Greater Magic Haste Potion -->
+<item id="22">
+<ingredient id="4037" count="100"/>
+<production id="6036" count="10"/>
+</item>
+
+
+  <!-- Соски   -->
+
+
+
+</list>

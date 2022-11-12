@@ -57,11 +57,6 @@
     <production id="21984" count="1" enchant="0"/>
  </item>
 
-<item id="20">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="21983" count="1" enchant="0"/>
- </item>
-
 <item id="21">
     <ingredient id="4037" count="800" enchant="0"/>
     <production id="21981" count="1" enchant="0"/>
@@ -86,12 +81,7 @@
     <ingredient id="4037" count="800" enchant="0"/>
     <production id="21577" count="1" enchant="0"/>
  </item>
-
-<item id="31">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="21565" count="1" enchant="0"/>
- </item>
-
+//18
 <item id="32">
     <ingredient id="4037" count="800" enchant="0"/>
     <production id="21553" count="1" enchant="0"/>
@@ -122,11 +112,6 @@
     <production id="20922" count="1" enchant="0"/>
  </item>
 
-<item id="38">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20789" count="1" enchant="0"/>
- </item>
-
 <item id="39">
     <ingredient id="4037" count="800" enchant="0"/>
     <production id="20670" count="1" enchant="0"/>
@@ -137,41 +122,13 @@
     <production id="20324" count="1" enchant="0"/>
  </item>
 
-<item id="41">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20322" count="1" enchant="0"/>
- </item>
 
 <item id="42">
     <ingredient id="4037" count="800" enchant="0"/>
     <production id="20321" count="1" enchant="0"/>
  </item>
 
-<item id="43">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20032" count="1" enchant="0"/>
- </item>
-
-<item id="44">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20024" count="1" enchant="0"/>
- </item>
- 
-<item id="45">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20022" count="1" enchant="0"/>
- </item>
-
-<item id="46">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20021" count="1" enchant="0"/>
- </item>
-
-<item id="47">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="20020" count="1" enchant="0"/>
- </item>
-
+//30-34
 <item id="48">
     <ingredient id="4037" count="800" enchant="0"/>
     <production id="17155" count="1" enchant="0"/>
@@ -287,10 +244,6 @@
     <production id="13503" count="1" enchant="0"/>
  </item>
 
-<item id="81">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="13502" count="1" enchant="0"/>
- </item>
 
 <item id="82">
     <ingredient id="4037" count="800" enchant="0"/>
@@ -307,10 +260,6 @@
     <production id="13496" count="1" enchant="0"/>
  </item>
  
-<item id="85">
-    <ingredient id="4037" count="800" enchant="0"/>
-    <production id="13493" count="1" enchant="0"/>
- </item>
 
 <item id="86">
     <ingredient id="4037" count="800" enchant="0"/>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+//Богатые костюмы
+<item id="1">
+    <ingredient id="4037" count="100" enchant="0"/>
+    <production id="25116" count="1" enchant="0"/>
+ </item>
+ 
+<item id="10">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50009" count="1" enchant="0"/>
+ </item>
+
+<item id="11">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50010" count="1" enchant="0"/>
+ </item>
+
+<item id="12">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50011" count="1" enchant="0"/>
+ </item>
+
+<item id="13">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50012" count="1" enchant="0"/>
+ </item>
+
+<item id="14">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50017" count="1" enchant="0"/>
+ </item>
+
+<item id="15">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50021" count="1" enchant="0"/>
+ </item>
+
+<item id="16">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50032" count="1" enchant="0"/>
+ </item>
+
+<item id="17">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50033" count="1" enchant="0"/>
+ </item>
+
+<item id="18">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50036" count="1" enchant="0"/>
+ </item>
+
+<item id="19">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50038" count="1" enchant="0"/>
+ </item>
+
+<item id="20">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50043" count="1" enchant="0"/>
+ </item>
+
+<item id="21">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50044" count="1" enchant="0"/>
+ </item>
+
+<item id="22">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50045" count="1" enchant="0"/>
+ </item>
+
+<item id="23">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50048" count="1" enchant="0"/>
+ </item>
+
+<item id="24">
+    <ingredient id="4037" count="800" enchant="0"/>
+    <production id="50049" count="1" enchant="0"/>
+ </item>
+
+
+</list>

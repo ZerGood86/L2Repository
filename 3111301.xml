@@ -82,66 +82,24 @@
 		<ingredient id="5575" count="400000"/>
 		<production id="3936" count="1"/>
 	</item>
-	<!-- Dye of Strength <Str +1 Con -1> for 42000 Ancient Adena -->
-	<item id="16">
-		<ingredient id="5575" count="42000"/>
-		<production id="4469" count="1"/>
-	</item>
-	<!-- Dye of Strength <Str +1 Dex -1> for 42000 Ancient Adena -->
-	<item id="17">
-		<ingredient id="5575" count="42000"/>
-		<production id="4470" count="1"/>
-	</item>
-	<!-- Dye of Constitution <Con +1 Str -1> for 42000 Ancient Adena -->
-	<item id="18">
-		<ingredient id="5575" count="42000"/>
-		<production id="4471" count="1"/>
-	</item>
-	<!-- Dye of Constitution <Con +1 Dex -1> for 42000 Ancient Adena -->
-	<item id="19">
-		<ingredient id="5575" count="42000"/>
-		<production id="4472" count="1"/>
-	</item>
-	<!-- Dye of Dexterity <Dex +1 Str -1> for 42000 Ancient Adena -->
-	<item id="20">
-		<ingredient id="5575" count="42000"/>
-		<production id="4473" count="1"/>
-	</item>
-	<!-- Dye of Dexterity <Dex +1 Con -1> for 42000 Ancient Adena -->
-	<item id="21">
-		<ingredient id="5575" count="42000"/>
-		<production id="4474" count="1"/>
-	</item>
-	<!-- Dye of Intelligence <Int +1 Men -1> for 42000 Ancient Adena -->
-	<item id="22">
-		<ingredient id="5575" count="42000"/>
-		<production id="4475" count="1"/>
-	</item>
-	<!-- Dye of Intelligence <Int +1 Wit -1> for 42000 Ancient Adena -->
-	<item id="23">
-		<ingredient id="5575" count="42000"/>
-		<production id="4476" count="1"/>
-	</item>
-	<!-- Dye of Mental Strength <Men +1 Int -1> for 42000 Ancient Adena -->
-	<item id="24">
-		<ingredient id="5575" count="42000"/>
-		<production id="4477" count="1"/>
-	</item>
-	<!-- Dye of Mental Strength <Men +1 Wit -1> for 42000 Ancient Adena -->
-	<item id="25">
-		<ingredient id="5575" count="42000"/>
-		<production id="4478" count="1"/>
-	</item>
-	<!-- Dye of Wit <Wit +1 Int -1> for 42000 Ancient Adena -->
-	<item id="26">
-		<ingredient id="5575" count="42000"/>
-		<production id="4479" count="1"/>
-	</item>
-	<!-- Dye of Wit <Wit +1 Men -1> for 42000 Ancient Adena -->
-	<item id="27">
-		<ingredient id="5575" count="42000"/>
-		<production id="4480" count="1"/>
-	</item>
+	
+
+<!--камни из кат-->
+<item id="15">
+<ingredient id="6362" count="1000"/>
+<production id="5575" count="10000"/>
+</item>
+
+<item id="16">
+<ingredient id="6361" count="1000"/>
+<production id="5575" count="5000"/>
+</item>
+
+<item id="17">
+<ingredient id="6360" count="1000"/>
+<production id="5575" count="2500"/>
+</item>
+	
 	<!-- Greater Dye of Strength <Str +1 Con -1> for 60000 Ancient Adena -->
 	<item id="28">
 		<ingredient id="5575" count="60000"/>

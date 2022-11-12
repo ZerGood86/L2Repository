@@ -3,44 +3,7 @@
 
 <list>
 <!-- вкладка расходники -->
-
-  <!-- Healing Potion   -->
-<item id="10">
-<ingredient id="57" count="350" enchant="0"/>
-<production id="1061" count="1" enchant="0"/>
-</item>
-
-  <!-- Greater Healing Potion   -->
-<item id="11">
-<ingredient id="5575" count="1000" enchant="0"/>
-<production id="1539" count="1" enchant="0"/>
-</item>
-
-  <!-- CP Potion small  -->
-<item id="12">
-<ingredient id="57" count="1000" enchant="0"/>
-<production id="5591" count="1" enchant="0"/>
-</item>
-
-  <!-- Greater CP Potion   -->
-<item id="13">
-<ingredient id="5575" count="1000" enchant="0"/>
-<production id="5592" count="1" enchant="0"/>
-</item>
-
-  <!-- COE   -->
-<item id="14">
-<ingredient id="57" count="15000" enchant="0"/>
-<production id="736" count="1" enchant="0"/>
-</item>
-
-  <!-- COR   -->
-<item id="15">
-<ingredient id="5575" count="400000" enchant="0"/>
-<production id="737" count="1" enchant="0"/>
-</item>
-
-  <!-- Боевые расходники   -->
+<!-- Боевые расходники   -->
 <item id="20">
 <ingredient id="57" count="1000" enchant="0"/>
 <production id="3031" count="1" enchant="0"/>
@@ -75,22 +38,6 @@
   <!-- Банки на бег, каст, аткспд   -->
 
   <!-- Банки на бег, каст, аткспд за АА  -->
-
-  <!-- Феникс блуд, Холи ватер, Суммон кри   -->
-<item id="33">
-<ingredient id="57" count="50000"/>
-<production id="8873" count="1"/>
-</item>
-
-<item id="34">
-<ingredient id="57" count="150000"/>
-<production id="8874" count="1"/>
-</item>
-
-<item id="35">
-<ingredient id="57" count="50000000"/>
-<production id="8615" count="1"/>
-</item>
 
   <!-- Гемстоуны   -->
 <item id="42">
@@ -155,115 +102,32 @@
 <production id="8599" count="1" enchant="0"/>
 </item>
 
-  <!-- Elixir of Life (No Grade) -->
-  <item id="77">
-    <ingredient id="57" count="1000"/>
-    <production id="8622" count="1"/>
-  </item>
-  
-  <!-- Elixir of Life (D)-->
-  <item id="78">
-    <ingredient id="57" count="10000"/>
-    <production id="8623" count="1"/>
-  </item>
-
-  <!-- Elixir of Life (C) -->
-  <item id="79">
-    <ingredient id="57" count="80000"/>
-    <production id="8624" count="1"/>
-  </item> 
-  
-  <!-- Elixir of Life (B) -->
-  <item id="80">
-    <ingredient id="57" count="150000"/>
-    <production id="8625" count="1"/>
-  </item> 
-  
-  <!-- Elixir of Life (A) -->
-  <item id="81">
-    <ingredient id="57" count="200000"/>
-    <production id="8626" count="1"/>
-  </item> 
-  
-  <!-- Elixir of Life (S) -->
-  <item id="82">
-    <ingredient id="57" count="666000"/>
-    <production id="8627" count="1"/>
-  </item> 
-  
-  <!-- Elixir of CP (No Grade) -->
-  <item id="83">
-    <ingredient id="57" count="1000"/>
-    <production id="8634" count="1"/>
-  </item>
-  
-  <!-- Elixir of CP (D) -->
-  <item id="84">
-    <ingredient id="57" count="5000"/>
-    <production id="8635" count="1"/>
-  </item>
-
-  <!-- Elixir of CP (C) -->
-  <item id="85">
-    <ingredient id="57" count="40000"/>
-    <production id="8636" count="1"/>
-  </item> 
-  
-  <!-- Elixir of CP (B) -->
-  <item id="86">
-    <ingredient id="57" count="75000"/>
-    <production id="8637" count="1"/>
-  </item>
-  
-  <!-- Elixir of CP (A) -->
-  <item id="87">
-    <ingredient id="57" count="100000"/>
-    <production id="8638" count="1"/>
-  </item>
-
-  <!-- Elixir of CP (S-Grade) -->
-  <item id="88">
-    <ingredient id="57" count="333000"/>
-    <production id="8639" count="1"/>
-  </item> 
-  
-  <!-- Haste Potion -->
-  <item id="91">
-    <ingredient id="57" count="25000"/>
-    <production id="734" count="1"/>
-  </item>
-  
-    <!-- Potion of Alacrity -->
-  <item id="92">
-<ingredient id="57" count="25000"/>
-<production id="735" count="1"/>
+<!-- Феникс блуд, Холи ватер, Суммон кри   -->
+<item id="100">
+<ingredient id="57" count="50000"/>
+<production id="8873" count="1"/>
 </item>
 
-<!-- Magic Haste Potion -->
-<item id="93">
-<ingredient id="57" count="25000"/>
-<production id="6035" count="1"/>
+<item id="101">
+<ingredient id="57" count="150000"/>
+<production id="8874" count="1"/>
 </item>
 
-<!-- Greater Haste Potion -->
-<item id="94">
-<ingredient id="5575" count="25000"/>
-<production id="1374" count="1"/>
+<item id="102">
+<ingredient id="57" count="50000000"/>
+<production id="8615" count="1"/>
 </item>
 
-
-<!-- Greater Swift Attack Potion -->
-<item id="95">
-<ingredient id="5575" count="25000"/>
-<production id="1375" count="1"/>
+  <!-- COE   -->
+<item id="14">
+<ingredient id="57" count="10000" enchant="0"/>
+<production id="736" count="1" enchant="0"/>
 </item>
 
-
-<!-- Greater Magic Haste Potion -->
-<item id="96">
-<ingredient id="5575" count="25000"/>
-<production id="6036" count="1"/>
+  <!-- COR   -->
+<item id="15">
+<ingredient id="57" count="100000" enchant="0"/>
+<production id="737" count="1" enchant="0"/>
 </item>
-
 
 </list>
