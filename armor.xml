@@ -304,13 +304,11 @@
 	</set>
 	<!-- Start Set Fighter NONE -->
 	<set set_id="45">
-		<item id="1146"/>
-		<item id="1147"/>
+		<item id="50054"/>
 	</set>
 	<!-- Start Set Mage NONE -->
 	<set set_id="46">
-		<item id="1146"/>
-		<item id="1147"/>
+		<item id="50053"/>
 	</set>
 		<!-- Mithril Tunic BANANA D -->
 	<set set_id="47">
