@@ -7277,8 +7277,8 @@
 		<skills>
 			<skill id="4033" level="3"/>
 			<!--NPC Burn-->
-			<skill id="4408" level="10"/>
-			<!--HP Increase (2x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="12"/>
@@ -7305,7 +7305,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="493" max="984" chance="100.0"/>
+				<reward item_id="57" min="493" max="1984" chance="100.0"/>
 			</group>
 			<group chance="0.1368">
 				<!--Sword of Magic-->
@@ -7399,7 +7399,6 @@
 		<set name="rewardSp" value="118"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.5123"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>
@@ -7569,7 +7568,7 @@
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="1991"/>
+		<set name="rewardExp" value="4991"/>
 		<set name="rewardSp" value="122"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.4543"/>
@@ -7582,8 +7581,8 @@
 			<set name="DaggerBackAttack" value="1"/>
 		</ai_params>
 		<skills>
-			<skill id="4408" level="1"/>
-			<!--HP Increase (1x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="11"/>
@@ -7608,7 +7607,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="276" max="551" chance="100.0"/>
+				<reward item_id="57" min="276" max="4051" chance="100.0"/>
 			</group>
 			<group chance="2.0757">
 				<!--Elven Earring-->
@@ -12807,11 +12806,11 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="0"/>
+		<set name="aggroRange" value="500"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="2212"/>
+		<set name="rewardExp" value="6212"/>
 		<set name="rewardSp" value="141"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.4543"/>
@@ -12835,8 +12834,8 @@
 			<!--NPC HP Drain - Magic-->
 			<skill id="4160" level="3"/>
 			<!--NPC Aura Burn - Magic-->
-			<skill id="4408" level="1"/>
-			<!--HP Increase (1x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="12"/>
@@ -12861,7 +12860,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="307" max="611" chance="100.0"/>
+				<reward item_id="57" min="1070" max="6011" chance="100.0"/>
 			</group>
 			<group chance="0.2195">
 				<!--Strengthened Long Bow Shaft-->

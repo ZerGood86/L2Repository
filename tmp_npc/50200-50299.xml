@@ -60,6 +60,17 @@
 			<set name="MoveAroundSocial1" value="0"/>
 			<set name="MoveAroundSocial2" value="0"/>
 		</ai_params>
+		<skills>
+			<skill id="4416" level="14" />	<!--Humans-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>  
 	
 	<npc id="50201" name="La2SuperBuff" title="GM SHOP">
@@ -124,6 +135,17 @@
 			<set name="MoveAroundSocial1" value="0"/>
 			<set name="MoveAroundSocial2" value="0"/>
 		</ai_params>
+		<skills>
+			<skill id="4416" level="14" />	<!--Humans-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>  
 
 	<npc id="50202" name="La2SuperBuff" title="DONAT SHOP"> 
@@ -192,6 +214,14 @@
 			<skill id="4416" level="19"/>
 			<!--Others-->
 		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>   
 	<npc id="50203" name="La2SuperBuff" title="EVENT MANAGER"> 
 		<set name="displayId" value="31508"/>
@@ -255,9 +285,16 @@
 			<set name="MoveAroundSocial2" value="0"/>
 		</ai_params>
 		<skills>
-			<skill id="4416" level="19"/>
-			<!--Others-->
+			<skill id="4416" level="19" />	<!--Humans-->
 		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>  
 	
 	
@@ -323,6 +360,17 @@
 			<set name="MoveAroundSocial1" value="0"/>
 			<set name="MoveAroundSocial2" value="0"/>
 		</ai_params>
+		<skills>
+			<skill id="4416" level="14" />	<!--Humans-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>  
 
 <npc id="50205" name="La2SuperBuff" title="GATEKEEPER">
@@ -386,7 +434,17 @@
 			<set name="MoveAroundSocial1" value="0"/>
 			<set name="MoveAroundSocial2" value="0"/>
 		</ai_params>
-		
+		<skills>
+			<skill id="4416" level="14" />	<!--Humans-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>		
 		<teleportlist>
 			<sublist id="1">
 				<target loc="180984 -174504 320" item_id="57" price="0" name="1010596" StringName="5 Floor Hard (35+)" StringNameLang="5 Этаж Трудно (35+)"/>
@@ -464,13 +522,23 @@
 			<set name="MoveAroundSocial" value="0"/>
 			<set name="MoveAroundSocial1" value="0"/>
 			<set name="MoveAroundSocial2" value="0"/>
-		</ai_params>
-		
+		</ai_params>		
 		<teleportlist>
 			<sublist id="1">
 				<target loc="83463 148045 -3400" item_id="57" price="0" name="1010007" StringName="The Town of Giran" StringNameLang="Гиран" castle_id="3"/>
 			</sublist>
 		</teleportlist>
+		<skills>
+			<skill id="4416" level="14" />	<!--Humans-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>  
 	<npc id="50207" name="La2SuperBuff" title="URN"> 
 		<!--Done by JunkyFunky at : 2018-02-25T21:53:25.695-->
@@ -538,6 +606,14 @@
 			<skill id="4416" level="19"/>
 			<!--Others-->
 		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
 	</npc>  
 	
 	<npc id="50208" name="La2SuperBuff" title="OBT SHOP">
@@ -584,6 +660,17 @@
 			<defence attribute="earth" value="20"/>
 			<defence attribute="holy" value="20"/>
 			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="14" />	<!--Humans-->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
 		</attributes>
 	</npc>
 

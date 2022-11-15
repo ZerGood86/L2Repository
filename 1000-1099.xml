@@ -444,11 +444,11 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 	</skill>
 	<skill id="1016" levels="9" name="Resurrection">
-		<table name="#effectPoint">121 196 290 374 460 502 542 595 624</table>
-		<table name="#mpConsume2">47 70 97 121 144 156 165 182 191</table>
+		<table name="#effectPoint">121 624 290 374 460 502 542 595 624</table>
+		<table name="#mpConsume2">47 170 97 121 144 156 165 182 191</table>
 		<table name="#mpConsume1">12 18 25 31 36 39 42 46 48</table>
-		<table name="#magicLevel">20 30 40 48 56 60 64 70 74</table>
-		<table name="#power">0 20 30 40 50 55 60 65 70</table>
+		<table name="#magicLevel">20 74 40 48 56 60 64 70 74</table>
+		<table name="#power">0 70 30 40 50 55 60 65 70</table>
 		<set name="magicType" val="MAGIC"/>
 		<set name="icon" val="icon.skill1016"/>
 		<set name="reuseDelay" val="120000"/>
@@ -905,11 +905,11 @@
 			<effect count="1" name="UnAggro" stackOrder="1" stackType="UnAggro" time="120" val="0"/>
 		</for>
 	</skill>
-	<skill id="1050" levels="2" name="Return">
-		<table name="#mpConsume2">84 122</table>
-		<table name="#mpConsume1">21 31</table>
-		<table name="#hitTime">20000 1500</table>
-		<table name="#magicLevel">40 56</table>
+	<skill id="1050" levels="3" name="Return">
+		<table name="#mpConsume2">84 122 150</table>
+		<table name="#mpConsume1">21 31 41</table>
+		<table name="#hitTime">20000 1500 300</table>
+		<table name="#magicLevel">40 56 80</table>
 		<set name="magicType" val="MAGIC"/>
 		<set name="icon" val="icon.skill1050"/>
 		<set name="reuseDelay" val="300000"/>

@@ -683,7 +683,65 @@
 			<skill id="1349" level="18" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="19" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="20" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1349" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1349" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />	
+			<!--Spoil-->
+			<skill id="254" level="1" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="254" level="2" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Sweeper-->
+			<skill id="42" level="1" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="42" level="2" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Return-->
+			<skill id="1050" level="1" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="2" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="3" cost="0" name="Return" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Resurrection-->
+			<skill id="1016" level="1" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="2" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="3" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Holy Resistance-->
+			<skill id="1392" level="1" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="2" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="3" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="4" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="5" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="6" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="7" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="8" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="9" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="10" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="11" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="12" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="13" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="14" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="15" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="16" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="17" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="18" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="19" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="20" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="21" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Unholy Resistance-->
+			<skill id="1393" level="1" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="2" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="3" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="4" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="5" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="6" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="7" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="8" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="9" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="10" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="11" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="12" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="13" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="14" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="15" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="16" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="17" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="18" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="1"><!--
 			<skill id="1312" level="1" cost="0" name="Fishing" min_level="10" item_id="57" item_count="1000" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1367,6 +1425,64 @@
 			<skill id="1349" level="19" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="20" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Spoil-->
+			<skill id="254" level="1" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="254" level="2" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Sweeper-->
+			<skill id="42" level="1" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="42" level="2" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Return-->
+			<skill id="1050" level="1" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="2" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="3" cost="0" name="Return" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Resurrection-->
+			<skill id="1016" level="1" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="2" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="3" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Holy Resistance-->
+			<skill id="1392" level="1" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="2" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="3" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="4" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="5" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="6" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="7" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="8" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="9" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="10" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="11" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="12" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="13" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="14" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="15" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="16" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="17" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="18" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="19" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="20" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="21" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Unholy Resistance-->
+			<skill id="1393" level="1" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="2" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="3" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="4" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="5" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="6" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="7" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="8" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="9" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="10" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="11" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="12" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="13" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="14" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="15" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="16" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="17" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="18" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="2"><!--
 			<skill id="1312" level="1" cost="0" name="Fishing" min_level="10" item_id="57" item_count="1000" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2050,6 +2166,64 @@
 			<skill id="1349" level="19" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="20" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Spoil-->
+			<skill id="254" level="1" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="254" level="2" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Sweeper-->
+			<skill id="42" level="1" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="42" level="2" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Return-->
+			<skill id="1050" level="1" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="2" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="3" cost="0" name="Return" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Resurrection-->
+			<skill id="1016" level="1" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="2" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="3" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Holy Resistance-->
+			<skill id="1392" level="1" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="2" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="3" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="4" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="5" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="6" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="7" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="8" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="9" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="10" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="11" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="12" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="13" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="14" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="15" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="16" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="17" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="18" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="19" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="20" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="21" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Unholy Resistance-->
+			<skill id="1393" level="1" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="2" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="3" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="4" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="5" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="6" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="7" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="8" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="9" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="10" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="11" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="12" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="13" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="14" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="15" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="16" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="17" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="18" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="3"><!--
 			<skill id="1312" level="1" cost="0" name="Fishing" min_level="10" item_id="57" item_count="1000" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2733,6 +2907,64 @@
 			<skill id="1349" level="19" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="20" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Spoil-->
+			<skill id="254" level="1" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="254" level="2" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Sweeper-->
+			<skill id="42" level="1" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="42" level="2" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Return-->
+			<skill id="1050" level="1" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="2" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="3" cost="0" name="Return" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Resurrection-->
+			<skill id="1016" level="1" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="2" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="3" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Holy Resistance-->
+			<skill id="1392" level="1" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="2" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="3" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="4" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="5" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="6" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="7" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="8" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="9" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="10" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="11" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="12" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="13" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="14" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="15" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="16" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="17" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="18" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="19" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="20" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="21" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Unholy Resistance-->
+			<skill id="1393" level="1" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="2" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="3" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="4" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="5" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="6" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="7" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="8" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="9" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="10" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="11" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="12" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="13" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="14" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="15" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="16" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="17" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="18" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="4">
 			<!--Dwarven--><!--
@@ -3425,6 +3657,64 @@
 			<skill id="1349" level="19" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="20" cost="0" name="Final Servitor" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1349" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Spoil-->
+			<skill id="254" level="1" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="254" level="2" cost="0" name="Spoil" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Sweeper-->
+			<skill id="42" level="1" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="42" level="2" cost="0" name="Sweeper" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Return-->
+			<skill id="1050" level="1" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="2" cost="0" name="Return" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1050" level="3" cost="0" name="Return" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Resurrection-->
+			<skill id="1016" level="1" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="2" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1016" level="3" cost="0" name="Resurrection" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Holy Resistance-->
+			<skill id="1392" level="1" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="2" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="3" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="4" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="5" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="6" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="7" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="8" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="9" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="10" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="11" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="12" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="13" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="14" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="15" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="16" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="17" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="18" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="19" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="20" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1392" level="21" cost="0" name="Holy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Unholy Resistance-->
+			<skill id="1393" level="1" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="2" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="3" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="4" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="5" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="6" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="7" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="8" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="9" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="10" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="11" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="12" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="13" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="14" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="15" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="16" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="17" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="18" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 	</fishing_skill_tree>
 </list>
