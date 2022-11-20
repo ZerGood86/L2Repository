@@ -134,53 +134,37 @@
 	</skill>
 	<skill id="3608" levels="1" name="Apella Heavy Armor Set">
 		<!--	Description:	Lvl1: Increases Max. CP/CP Recovery Power, and decreases Experience penalty when killed by a skilled player. When being attacked, magic resistance is increased, and Critical damage hitting rate is decreased. Maximum CP +1035, CP recovery speed is increased by 40%. There is a 10% probability that magic defense power is increased by 5% and critical damage is decreased by 3 if the damage inflicted by PC is more than 50.	Lvl2: Increases Max. CP/CP Recovery power, and decreases Experience penalty when killed by MP consumption of skills and a player .  When being attacked, magic resistance and Critical rate are increased, and Critical damage hitting rate is decreased. Maximum CP +1116, CP recovery speed is increased by 40%, and when the PC receives more than 50 damage, there is a 10% probability that magic defense power is increased by 5%, the critical damage is decreased by 3, and the critical strike probability is increased by 2.621	-->
-		<table name="#maxCP">1035 1116</table>
-		<table name="#expLost">0.9 0.8</table>
 		<set name="icon" val="icon.armor_t1004_ul_i00"/>
 		<set name="magicLevel" val="1"/>
 		<set name="target" val="TARGET_SELF"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<mul order="0x30" stat="expLost" val="#expLost">
-				<target pvp="true"/>
-			</mul>
-			<add order="0x40" stat="maxCp" val="#maxCP"/>
-			<mul order="0x30" stat="regCp" val="1.40"/>
+			<mul order="0x30" stat="pAtk" val="1.10"/>
+			<mul order="0x30" stat="pDef" val="1.10"/>
 		</for>
 	</skill>
 	<skill id="3609" levels="1" name="Apella Light Armor Set">
 		<!--	Description:	Lvl1: Increases Max. CP/CP Recovery Power, and decreases Experience penalty when killed by a player. When being attacked, Evasion is increased, and received Critical damage is decreased. Maximum CP +1035, CP recover speed is increased by 40%. There is a 10% probability that evasion is increased by 2 and critical damage is decreased by 86 if the damage inflicted by PC is more than 50.	Lvl2: Increases Max. CP/CP Recovery power, and decreases Experience penalty when killed by MP consumption of skills and a player .  When being attacked, evasion and attack speed are increased, and received Critical damage is decreased. Maximum CP +1116, CP recovery speed is increased by 40%, and when the PC receives more than 50 damage, there is a 10% probability that evasion is increased by 2 and critical damage is decreased by 86. Increased Atk. Spd. by 2.5%.\0	a,	a,	0	0	6	a,When all set items are enchanted by 6 or higher, M. Def. and Evasion will increase.	-->
-		<table name="#maxCP">1035 1116</table>
-		<table name="#expLost">0.9 0.8</table>
 		<set name="icon" val="icon.armor_t1005_ul_i00"/>
 		<set name="magicLevel" val="1"/>
 		<set name="target" val="TARGET_SELF"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<mul order="0x30" stat="expLost" val="#expLost">
-				<target pvp="true"/>
-			</mul>
-			<add order="0x40" stat="maxCp" val="#maxCP"/>
-			<mul order="0x30" stat="regCp" val="1.40"/>
+			<add order="0x40" stat="runSpd" val="6"/>
+			<mul order="0x30" stat="pAtkSpd" val="1.08"/>
 		</for>
 	</skill>
 	<skill id="3610" levels="1" name="Apella Robe Set">
 		<!--	Description:	Lvl1: Increases Max. CP/CP Recovery Power, and decreases Experience penalty when killed by a player. When being attacked, evasion and defense power are increased. Maximum CP +1035, CP recovery speed is increased by 40%. There is a 10% probability that Speed is increased by 10 and defense power is increased by 5% if the damage inflicted by PC is more than 50.	Lvl2: Increases Max. CP/CP Recovery power, and decreases Experience penalty when killed by MP consumption of skills and a player . When being attacked, Speed, defense power and magic power are increased. Maximum CP +1116, CP recovery speed is increased by 40%. Has a 10% chance to increase Speed by 10, increase P. Def. by 5% and increase M. Atk. by 6 if the damage inflicted by a PC is more than 50.	-->
-		<table name="#maxCP">1035 1116</table>
-		<table name="#expLost">0.9 0.8</table>
 		<set name="icon" val="icon.armor_t1006_ul_i00"/>
 		<set name="magicLevel" val="1"/>
 		<set name="target" val="TARGET_SELF"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<mul order="0x30" stat="expLost" val="#expLost">
-				<target pvp="true"/>
-			</mul>
-			<add order="0x40" stat="maxCp" val="#maxCP"/>
-			<mul order="0x30" stat="regCp" val="1.40"/>
+			<mul order="0x30" stat="mAtkSpd" val="1.16"/>
 		</for>
 	</skill>
 	<skill id="3611" levels="1" name="Enchant Heavy Armor (Grade D)">
