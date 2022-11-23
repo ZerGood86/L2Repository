@@ -586,5 +586,213 @@
 			<defence attribute="unholy" value="20"/>
 		</attributes>
 	</npc>
+	<npc id="50209" name="La2SuperBuff" title="GLOBAL GK">
+		<set name="displayId" value="31512"/>
+		<set name="collision_radius" value="11"/>
+		<set name="collision_height" value="45"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="type" value="Npc"/>
+		<set name="level" value="70"/>
+		<set name="exp" value="429634523"/>
+		<set name="race" value="etc"/>
+		<set name="sex" value="etc"/>
+		<set name="baseRunSpd" value="119"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseMEN" value="10"/>
+		<set name="baseHpMax" value="2444"/>
+		<set name="baseHpReg" value="11.85"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseMpMax" value="1493"/>
+		<set name="baseMpReg" value="2.78"/>
+		<set name="baseAtkType" value="FIST"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseDamageRange" value="0;0;80;120"/>
+		<set name="baseRndDam" value="7"/>
+		<set name="basePAtk" value="683"/>
+		<set name="baseCritRate" value="80"/>
+		<set name="basePAtkSpd" value="247.42"/>
+		<set name="baseReuseDelay" value="0"/>
+		<set name="baseMDef" value="206"/>
+		<set name="baseMAtk" value="468"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="basePDef" value="296"/>
+		<set name="HitTimeFactor" value="0.6"/>
+		<set name="physical_hit_modify" value="0"/>
+		<set name="physical_avoid_modify" value="0"/>
+		<set name="SafeHeight" value="100"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="soulshot_count" value="0"/>
+		<set name="spiritshot_count" value="0"/>
+		<set name="corpse_time" value="7"/>
+		<set name="noSleepMode" value="0"/>
+		<set name="aggroRange" value="0"/>
+		<set name="texture" value=""/>
+		<set name="isAgro" value="0"/>
+		<set name="unsowing" value="1"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="acquire_exp_rate" value="0"/>
+		<set name="htm_root" value="mods/globalgk/"/>
+		<ai_params>
+			<!--PTS AI Params-->
+			<set name="MoveAroundSocial" value="0"/>
+			<set name="MoveAroundSocial1" value="0"/>
+			<set name="MoveAroundSocial2" value="0"/>
+		</ai_params>		
+		
+		<teleportlist>
+			<sublist id="1">
+				<!-- 1 Goddard -->
+				<target loc="147591 -56359 -2807" name="1010199" StringName="The Town of Goddard" StringNameLang="Годдард" item_id="57" price="15000"/>
+				<target loc="184380 -62690 -3000" name="Gatekeeper.WallofArgos" item_id="57" price="15000"/>
+				<target loc="125893 -40901 -3776" name="Gatekeeper.VarkasSilenosStronghold" item_id="57" price="15000"/>
+				<target loc="141213 -122118 -1961" name="Gatekeeper.HotSprings" item_id="57" price="15000"/>
+				<target loc="154482 -126560 -2311" name="Gatekeeper.TheCenterofHotSprings" item_id="57" price="15000"/>
+				<target loc="52816 -81617 -2751" name="Gatekeeper.GardenofWildBeasts" item_id="57" price="15000"/>
+				<target loc="130512 -72326 -3538" name="Gatekeeper.residences.KetraOrcOutpost" item_id="57" price="15000"/>
+				<target loc="170193 -116256 -2084" name="Gatekeeper.residences.EntrancetotheForgeoftheGods" item_id="57" price="15000"/>
+			</sublist>
+			<!-- 2  -->
+			<sublist id="2">
+			</sublist>
+			<!--  3 К -->
+			<sublist id="3">
+			</sublist>
+			<!--  4  -->
+			<sublist id="4">
+			</sublist>
+			<!-- 5 -->
+			<sublist id="5">
+				<target loc="-84318 244579 -3730" name="1010001" item_id="57" price="15000"/>
+				<target loc="-99746 237538 -3572" name="1010168" item_id="57" price="15000"/>
+				<target loc="48736 248463 -6162" name="1010557" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="6">
+				<!-- 2 Giran -->
+				<target loc="83400 147943 -3404" name="1010007" StringName="The Town of Giran" StringNameLang="Гиран" item_id="57" price="15000"/>
+				<target loc="47114 187152 -3485" name="1010021"  StringName="Giran Harbor" StringNameLang="Гавань Гирана"  item_id="57" price="15000"/>
+				<target loc="72317 117736 -3672" name="Gatekeeper.DragonValley" item_id="57" price="15000"/>
+				<target loc="84959 110701 -3209" name="Gatekeeper.TheCenterofDragonValley" item_id="57" price="15000"/>
+				<target loc="46165 150008 -3208" name="1010114" StringName="Execution Grounds" StringNameLang="Земля Казненных" item_id="57" price="15000"/>
+				<target loc="46897 111567 -2069" name="Gatekeeper.residences.FortressofResistance" item_id="57" price="15000"/>
+				<target loc="-26111 173692 -4152" name="1010566"  StringName="The Ant Nest" StringNameLang="Муравейник" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="7">
+				<!-- Hunters -->
+				<target loc="117110 76883 -2695" name="1010020" StringName="The Hunters Village" StringNameLang="Деревня Охотников" item_id="57" price="15000"/>
+				<target loc="150477 85907 -2753" name="1010586" StringName="The Center of the Forest of Mirrors" StringNameLang="Центр Леса Зеркал" item_id="57" price="15000"/>
+				<target loc="169026 85272 -2092" name="1010607" StringName="Anghel Waterfall" StringNameLang="Ангельский Водопад" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="8">
+				<!-- 3Rune -->
+				<target loc="45843 -47929 -823" name="Gatekeeper.TheRuneTownship" item_id="57" price="15000"/>
+				<target loc="63379 -48912 -3164" name="1010592" StringName="Forest of the Dead" StringNameLang="Лес Неупокоенных" item_id="57" price="15000"/>
+				<target loc="91317 -57174 -2991" name="1010565"  StringName="Swamp of Screams" StringNameLang="Болото Криков" item_id="57" price="15000"/>
+				<target loc="64352 -71206 -3714" name="Gatekeeper.residences.ValleyofSaints" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="9">
+				<!-- 1Dion -->
+				<target loc="15670 142983 -2705" name="1010006" StringName="The Town of Dion" StringNameLang="Дион"  item_id="57" price="15000"/>
+				<target loc="17838 170274 -3508" name="Gatekeeper.residences.EntrancetoFloranVillage" item_id="57" price="15000"/>
+				<target loc="46165 150008 -3208" name="1010114" StringName="Execution Grounds" StringNameLang="Земля Казненных" item_id="57" price="15000"/>
+				<target loc="17192 114178 -3439" name="1010116" StringName="Cruma Tower" StringNameLang="Башня Крумы" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="10">
+				<!-- Gludin -->
+				<target loc="-80826 149775 -3043" name="1010004" StringName="The Village of Gludin" StringNameLang="Глудин" item_id="57" price="15000"/>
+				<target loc="-89199 149962 -3586" name="Gatekeeper.GludinHarbor" item_id="57" price="15000"/>
+				<target loc="-66931 120296 -3651" name="1010096" item_id="57" price="15000"/>
+				<target loc="-90562 108182 -3546" name="1010095" item_id="57" price="15000"/>
+				<target loc="-17949 205272 -3670" name="1010621WesternRegion" item_id="57" price="15000"/>
+				<target loc="-53838 179285 -4640" name="1010106Entrance" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="11">
+				<!-- 3 Gludio -->
+				<target loc="-12672 122776 -3116" name="1010005" StringName="The Town of Gludio" StringNameLang="Глудио" item_id="57" price="15000"/>
+				<target loc="-56235 106668 -3773" name="1010097" StringName="Isle of Souls Harbor" StringNameLang="Гавань Острова Душ" item_id="57" price="15000"/>
+				<target loc="-20043 137688 -3896" name="1010101" StringName="Ruins of Despair" StringNameLang="Руины Отчаяния" item_id="57" price="15000"/>
+				<target loc="-20893 186060 -4108" name="1010621" item_id="57" price="15000"/>
+				<target loc="-26111 173692 -4152" name="Gatekeeper.ATheAntNest" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="12">
+				<!-- 4 Innadril -->
+				<target loc="107092 219693 -3446" name="Gatekeeper.residences.HeineTownSquare" item_id="57" price="15000"/>
+				<target loc="100887 172943 -3724" name="1010150" item_id="57" price="15000"/>
+				<target loc="42006 208234 -3756" name="1010153" item_id="57" price="15000"/>
+				<target loc="84904 182410 -3670" name="Gatekeeper.residences.FieldofSilenceCenter" item_id="57" price="15000"/>
+				<target loc="86519 211911 -3764" name="Gatekeeper.residences.FieldofWhispersCenter" item_id="57" price="15000"/>
+				<target loc="84543 235022 -3756" name="Gatekeeper.residences.InsidetheGardenofEva" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="13">
+				<!-- 5 Aden -->
+				<target loc="147450 26741 -2204" name="1010023" StringName="The Town of Aden" StringNameLang="Аден" item_id="57" price="15000"/>
+				<target loc="145835 -10995 -4424" name="1010060" StringName="Blazing Swamp" StringNameLang="Раскаленные Топи" item_id="57" price="15000"/>
+				<target loc="109699 -7908 -2902" name="Gatekeeper.residences.FrontoftheBorderFortress" item_id="57" price="15000"/>
+				<target loc="185395 20359 -3270" name="1010604" StringName="Seal of Shilen" StringNameLang="Запретные Врата" item_id="57" price="15000"/>
+				<target loc="172136 20325 -3326" name="1010604" StringName="Seal of Shilen" StringNameLang="Запретные Врата" item_id="57" price="15000"/>
+				<target loc="147451 46728 -3410" name="1010053" StringName="Coliseum" StringNameLang="Колизей" item_id="57" price="15000"/>
+				<target loc="174528 52683 -4369" name="Gatekeeper.residences.TheGiantCaveLowerLayer" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="14">
+			</sublist>
+			<sublist id="15">
+				<!-- 7 Oren -->
+				<target loc="82956 53162 -1495" name="1010013" StringName="The Town of Oren" StringNameLang="Орен" item_id="57" price="15000"/>
+				<target loc="124113 59232 -4587" name="1010617" StringName="The Center of the Enchanted Valley" StringNameLang="Центр Волшебной Долины" item_id="57" price="15000"/>
+				<target loc="85332 16186 -3673" name="Gatekeeper.residences.IvoryTower" item_id="57" price="15000"/>
+				<target loc="70833 6426 -3639" name="Gatekeeper.residences.FrontoftheIvoryFortress" item_id="57" price="15000"/>
+				<target loc="54216 23826 -5380" name="Gatekeeper.residences.SeaofSpores" item_id="57" price="15000"/>
+				<target loc="110848 16154 -2120" item_id="57" price="15000" name="1010193" StringName="Tower of Insolence, 3rd Floor" StringNameLang="Башня Дерзости - 3-й этаж"/>
+				<target loc="118404 15988 832" item_id="57" price="15000" name="1010194" StringName="Tower of Insolence, 5th Floor" StringNameLang="Башня Дерзости - 5-й этаж"/>
+				<target loc="115064 12181 2960" item_id="57" price="15000" name="1010195" StringName="Tower of Insolence, 7th Floor" StringNameLang="Башня Дерзости - 7-й этаж"/>
+				<target loc="118525 16455 5984" item_id="57" price="15000" name="1010196" StringName="Tower of Insolence, 10th Floor" StringNameLang="Башня Дерзости - 10-й этаж"/>
+				<target loc="115384 16820 9000" item_id="57" price="15000" name="1010197" StringName="Tower of Insolence, 13th Floor" StringNameLang="Башня Дерзости - 13-й этаж"/>
+			</sublist>
+			<sublist id="16">
+				<!-- 8 Schuttgart -->
+				<target loc="87170 -143355 -1288" item_id="57" price="15000" name="1010574" StringName="Town of Schuttgart" StringNameLang="Шутгарт"/>
+				<target loc="123743 -75032 -2902" name="1010575" StringName="Monastery of Silence" StringNameLang="Монастырь Безмолвия" item_id="57" price="15000"/>
+				<target loc="56095 -118952 -3290" name="1010571" StringName="Crypts of Disgrace" StringNameLang="Склепы Позора" item_id="57" price="15000"/>
+				<target loc="76860 -125169 -3414" name="1010569"  StringName="Den of Evil" StringNameLang="Логово Зла" item_id="57" price="15000"/>
+				<target loc="108090 -120925 -3628" name="Gatekeeper.TheCenterofForestofMirrors" item_id="57" price="15000"/>
+				<target loc="88275 -125690 -3815" name="1010573" StringName="Pavel Ruins" StringNameLang="Заброшенная Мастерская" item_id="57" price="15000"/>
+				<target loc="113900 -154175 -1488" name="Gatekeeper.residences.PlunderousPlains" item_id="57" price="15000"/>
+				<target loc="89880 -44515 -2135" name="1010706" StringName="Shyeed's Cavern" StringNameLang="Пещера Королевы Шиид" item_id="57" price="15000"/>
+				<target loc="57849 -93182 -1360" name="Gatekeeper.residences.WildBeastPastures" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="17">
+				<!-- Necropolis -->
+				<target loc="-41570 209785 -5089" name="Gatekeeper.NecropolisofSacrifice20-30" item_id="57" price="15000"/>
+				<target loc="45251 123890 -5415" name="Gatekeeper.ThePilgrimsNecropolis30-40" item_id="57" price="15000"/>
+				<target loc="111273 174015 -5417" name="Gatekeeper.NecropolisofWorship40-50" item_id="57" price="15000"/>
+				<target loc="-21726 77385 -5177" name="Gatekeeper.ThePatriotsNecropolis50-60" item_id="57" price="15000"/>
+				<target loc="-52254 79103 -4743" name="Gatekeeper.NecropolisofDevotion60-70" item_id="57" price="15000"/>
+				<target loc="118308 132800 -4833" name="Gatekeeper.NecropolisofMartyrdom60-70" item_id="57" price="15000"/>
+				<target loc="172251 -17605 -4903" name="Gatekeeper.DisciplesNecropolis70-80" item_id="57" price="15000"/>
+				<target loc="83000 209213 -5443" name="Gatekeeper.TheSaintsNecropolis70-80" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="18">
+				<!-- Catacombs -->
+				<target loc="-53174 -250275 -7911" name="Gatekeeper.CatacomboftheHeretic30-40" item_id="57" price="15000"/>
+				<target loc="46217 170290 -4983" name="Gatekeeper.CatacomboftheBranded40-50" item_id="57" price="15000"/>
+				<target loc="-20230 -250780 -8168" name="Gatekeeper.CatacomboftheApostate50-60" item_id="57" price="15000"/>
+				<target loc="140404 79678 -5431" name="Gatekeeper.CatacomboftheWitch60-70" item_id="57" price="15000"/>
+				<target loc="-19500 13508 -4905" name="Gatekeeper.CatacombofDarkOmens70-80" item_id="57" price="15000"/>
+				<target loc="12521 -248481 -9585" name="Gatekeeper.CatacomboftheForbiddenPath70-80" item_id="57" price="15000"/>
+			</sublist>
+			<sublist id="19">
+				<!-- Interlude Areas -->
+				<target loc="10468 -24569 -3650" name="Gatekeeper.PrimevalIsle" item_id="57" price="15000"/>
+			</sublist>
+		</teleportlist>
+	</npc>  
 
 </list>
