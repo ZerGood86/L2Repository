@@ -1,56 +1,119 @@
-﻿<html><body>
-<center>
-<table cellspacing="0" cellpadding="2" border="0" width="550" height="467">
-<tr>
-     <td FIXWIDTH="116">	 
-	 <table height="465" bgcolor="909090"> <!-- 448 -->
-	<tr>
-		<td>
-		<br><br>
-			<button value="Главная" action="bypass _bbspage:index" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Магазин" action="bypass _bbspage:shop" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Телепортер" action="bypass _bbspage:teleport" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Профессии" action="bypass _cbbsquestsmain 0" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Баффер" action="bypass scripts_services.Buffer:actBBS reply=buff" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Информация" action="bypass _bbspage:rate" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Сервисы" action="bypass _bbspage:services" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Команды" action="bypass _bbspage:commands" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<button value="Ивенты" action="bypass _bbspage:events" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-			<!-- Форум -->
-			<button value="Личный Кабинет" action="bypass _bbscstats" width=110 height=25 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-		</td>
-	</tr>
-	</table></td>
-     <td FIXWIDTH="550"><center><table cellspacing="0" cellpadding="2" width="550">
-<tr>
-	 <td  FIXWIDTH="40">
-			<br>
-				<center> 
-				<img src="L2UI.bbs_folder" width=32 height=32>
-				<font color="LEVEL">Сервисы</font>
+﻿<html NOSCROLLBAR=yes>
+<body>
+	<table width="770" height="500" cellspacing="0" border="0" cellpadding="0" bgcolor="333366">
+		<tr>
+			<td width="10">
+				<table width="100" height="500" bgcolor="909090"  cellspacing="10">
+					<tr>
+						<td>
+						<br>
+							<button value="О сервере" action="bypass _bbspage:index" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Донат шоп" action="bypass _bbspage:services" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Баффер" action="bypass scripts_services.Buffer:actBBS reply=buff" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Характеристики" action="bypass _bbscstats" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Рейты" action="bypass _bbspage:rate" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Команды" action="bypass _bbspage:commands" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Ивенты" action="bypass _bbspage:events" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Профессии" action="bypass _cbbsquestsmain 0" width=115 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+						</td>
+					</tr>
+				</table>
+			</td>
+			<td width="670" align = "left">
+						<br>
+						<br>
+						<br>
+						<br>
+				<center>
+					
+					<table width=360>
+						<tr>
+							<td align=center><img src="br_cashtex.item.br_cash_mana_potion_i00" width=32 height=35></td>
+							<td align=center><img src="icon.etc_codex_of_giant_i00" width=32 height=35></td>
+							<td align=center><img src="icon.etc_pi_gift_box_i03" width=32 height=35></td>
+						</tr>
+						<tr>
+							<td align=center><button value="Расходники " action="bypass -h multisell 50202" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Разное " action="bypass -h multisell 50203" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Премиум " action="bypass -h scripts_services.RateBonus:list" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+						</tr>
+					</table>	
+					
+					<table width=360>
+						<tr>
+							<td align=center><img src="icon.mticket_cleric_move_i00" width=32 height=35></td>
+							<td align=center><img src="icon.mticket_sword_fix_i00" width=32 height=35></td>
+							<td align=center><img src="icon.mticket_pole_move_i00" width=32 height=35></td>
+						</tr>
+						<tr>
+							<td align=center><button value="Имя Клана " action="bypass -h scripts_services.ClanRename:rename_clan_page" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Лвл Клана " action="bypass -h scripts_services.ClanUpgrade:clan_upgrade_page" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Склад Клана + " action="bypass -h scripts_services.ExpandCWH:show" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+						</tr>
+					</table>
+
+					<table width=360>
+						<tr>
+							<td align=center><img src="icon.etc_holy_statue_gold_i00" width=32 height=35></td>
+							<td align=center><img src="icon.etc_holy_statue_silver_i00" width=32 height=35></td>
+							<td align=center><img src="icon.etc_holy_statue_bronze_i00" width=32 height=35></td>
+						</tr>
+						<tr>
+							<td align=center><button value="Цвет Ника " action="bypass -h scripts_services.NickColor:list" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Цвет Титула " action="bypass -h scripts_services.TitleColor:list" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Смена Пола " action="bypass -h scripts_services.ChangeSex:change_sex" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+						</tr>
+					</table>
+					
+					<table width=480>
+						<tr>
+							<td align=center><img src="icon.accessory_halloween_cap_i00" width=32 height=35></td>
+							<td align=center><img src="icon.ev_alien_mask_i00" width=32 height=35></td>
+							<td align=center><img src="LineageCustom5.cby_ico" width=32 height=35></td>
+							<td align=center><img src="LineageCustomTexAll.g_co_beres_u" width=32 height=35></td>
+						</tr>
+						<tr>
+							<td align=center><button value="Богатые Шапки " action="bypass -h multisell 50063" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Эпичные Шапки " action="bypass -h multisell 50065" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Богатая Одежда " action="bypass -h multisell 50064" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Эпичная Одежда " action="bypass -h multisell 50066" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+						</tr>
+					</table>
+					
+					<table width=480>
+						<tr>
+							<td align=center><img src="icon.exp_bottle_scroll" width=32 height=35></td>
+							<td align=center><img src="icon.etc_trans_form_i00" width=32 height=35></td>
+							<td align=center><img src="icon.etc_golden_spice_blessed_i00" width=32 height=35></td>
+							<td align=center><img src="icon.new_user_box" width=32 height=35></td>
+						</tr>
+						<tr>
+							<td align=center><button value="Увеличить лвл " action="bypass scripts_services.Levelup:levelup_page" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Уменьшить лвл " action="bypass -h scripts_services.Delevel:delevel_page" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Инвентарь + " action="bypass -h scripts_services.ExpandInventory:show" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Склад + " action="bypass -h scripts_services.ExpandWarehouse:show" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+						</tr>
+					</table>
+
+					<table width=480>
+						<tr>
+							<td align=center><img src="icon.accessory_noblesse_tiara_i00" width=32 height=35></td>
+							<td align=center><img src="icon.seal_lev_95" width=32 height=35></td>
+							<td align=center><img src="icon.etc_skull_red_i00" width=32 height=35></td>
+							<td align=center><img src="icon.etc_ashes_red_i00" width=32 height=35></td>
+						</tr>
+						<tr>
+							<td align=center><button value="Дворянство " action="bypass -h scripts_services.NoblesSell:show" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Сменить Имя " action="bypass -h scripts_services.Rename:rename show" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Сброс счета ПК " action="bypass scripts_services.PKClean:pkclean_page" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+							<td align=center><button value="Сброс Кармы " action="bypass scripts_services.KarmaClean:karmaclean_page" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+						</tr>
+					</table>
+					
 				</center>
-	</td>
-</tr>
-</table><br>
-<table cellspacing="0" cellpadding="2" width="550" >
-<tr>
-	<td>
-			<center>
-				<table width=170>
-						<tr><td><button value="Смена Имени[10CoL]" action="bypass _bbspage:change_name" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td></tr>
-						<tr><td><button value="Смена пола[7CoL]" action="bypass _cbbsserviceschangesex" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td></tr>
-						<tr><td><button value="Дворянство[500kk]" action="bypass _cbbsservicesbuynoble" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td></tr>
-						<tr><td><button value="Делевел 2 lvl[100kk]" action="bypass _cbbsservicesdelvl" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td></tr>
-						<tr><td><button value="Клан левел[10kk]" action="bypass _bbsclanup" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td></tr>
-						<tr><td><button value="Снять Штраф[1CoL]" action="bypass _bbsclanexpire" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td></tr>
-				</table>	
-			</center>
-	</td>
-</tr>
-</table>
-</center></td>
-</tr>
-</table>
-</center>
+			</td>
+		</tr>
+	</table>
 </body>
 </html>
+
