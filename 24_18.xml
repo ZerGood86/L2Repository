@@ -1549,7 +1549,7 @@
 		<!-- [blacksmith_wilbert]	pos={150608;28510;-2247;49152}	total=1	respawn=1min -->
 	</spawn>
 	<spawn name="[aden13_npc2418_11]">
-		<npc id="30848" count="1" respawn="60" pos="146737 25807 -2013 0" />
+		<npc id="50209" count="1" respawn="60" pos="146737 25807 -2013 0" />
 		<!-- [gatekeeper_elisabeth]	pos={146737;25807;-2013;0}	total=1	respawn=1min -->
 	</spawn>
 	<spawn name="[aden13_npc2418_12]">

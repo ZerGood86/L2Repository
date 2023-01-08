@@ -1569,7 +1569,7 @@
 		<!-- [master_bronwyn]	pos={148736;-52560;-2736;49500}	total=1	respawn=1min -->
 	</spawn>
 	<spawn name="[godard02_npc2416_19]">
-		<npc id="31275" count="1" respawn="60" pos="147966 -55228 -2728 48000" />
+		<npc id="50209" count="1" respawn="60" pos="147966 -55228 -2728 48000" />
 		<!-- [gatekeeper_tatiana]	pos={147966;-55228;-2728;48000}	total=1	respawn=1min -->
 	</spawn>
 	<spawn name="[godard02_npc2416_21]">

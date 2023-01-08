@@ -1598,7 +1598,7 @@
 		<!-- [blacksmith_helton]	pos={83684;55631;-1509;45056}	total=1	respawn=1min -->
 	</spawn>
 	<spawn name="[oren17_npc2219_011]">
-		<npc id="30177" count="1" respawn="60" pos="82992 53171 -1492 31000" />
+		<npc id="50209" count="1" respawn="60" pos="82992 53171 -1492 31000" />
 		<!-- [valentina]	pos={82992;53171;-1492;31000}	total=1	respawn=1min -->
 	</spawn>
 	<spawn name="[oren17_npc2219_012]">

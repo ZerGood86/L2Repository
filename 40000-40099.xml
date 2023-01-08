@@ -761,7 +761,8 @@
 			<defence attribute="unholy" value="20"/>
 		</attributes>
 	</npc>
-	<npc id="40026" name="Auction" title="Auction Manager">
+	<npc id="40026" name="L2SuperBuff" title="AUCTION MANAGER">
+		<set name="displayId" value="18682"/>
 		<set name="aggroRange" value="0"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="baseAtkRange" value="40"/>
@@ -796,7 +797,6 @@
 		<set name="shots" value="NONE"/>
 		<set name="texture" value=""/>
 		<set name="type" value="PawnShop"/>
-		<set name="displayId" value="30767"/>
 		<attributes>
 			<defence attribute="fire" value="20"/>
 			<defence attribute="water" value="20"/>
