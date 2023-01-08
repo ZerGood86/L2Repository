@@ -1,7 +1,5 @@
 <html NOSCROLLBAR=yes>
 <body>
-						<br>
-						<br>
 	<table width="770" height="500" cellspacing="0" border="0" cellpadding="0" bgcolor="333366">
 		<tr>
 			<td width="10">
@@ -11,33 +9,24 @@
 						<br>
 							<button value="О сервере" action="bypass _bbspage:index" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
 							<button value="Донат шоп" action="bypass _bbspage:services" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-							<button value="Баффер" action="bypass _bbspage:buffer" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Баффы" action="bypass _bbspage:buffer" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
+							<button value="Армор" action="bypass _bbspage:armor" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
 							<button value="Характеристики" action="bypass _bbscstats" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
 							<button value="Рейты" action="bypass _bbspage:rate" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
 							<button value="Команды" action="bypass _bbspage:commands" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
 							<button value="Ивенты" action="bypass _bbspage:events" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-							<button value="Профессии" action="bypass _cbbsquestsmain 0" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
-						</td>
-					</tr>
-				</table>
-			</td>
-			<td width="10">
-				<table width="100" height="500" bgcolor="909090"  cellspacing="10">
-					<tr>
-						<td>
-						<br>
-
+							<button value="Профессия" action="bypass _cbbsquestsmain 0" width="120" height="30" back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"><br1>
 						</td>
 					</tr>
 				</table>
 			</td>
 			<td>
-				<table width="400" border="1" cellspacing="0" cellpadding="0">
+				<table width="400" border="0" cellspacing="0" cellpadding="0">
 					<tr>
 						<td width="10" align = "center">
 							<br>
 							<br>
-							<br><center><font color="3399CC">Характеристики     </font></center>
+							<br><center><font color="3399CC">Пароль     </font></center>
 							<br>
 							<table align="center" width="400" cellpadding="0" cellspacing="0">
 								<tr>
@@ -48,36 +37,40 @@
 							</table>	
 						</td>
 					</tr>
-				
+				</table>		
+				<table width="300" border="0" cellspacing="0" cellpadding="0">				
 					<tr>
+						<td width="40" align = "center">
+						</td>	
 						<td>
 							<br>
 							<br>
-							<br>
-							<table BACKGROUND="L2UI_CT1.MISC_DF_SERVERSELECT_BACK" width="322" height="335" border="1" align="right">
+							<br>		
+							<table BACKGROUND="L2UI_CT1.MISC_DF_SERVERSELECT_BACK" width="322" height="335" border="0" align="right">
 								<tr><td align="center" height="40">
-									<font color="LEVEL">Change password:</font>
+									<br>
+									<font color="LEVEL">Смена пароля:</font>
 								</td></tr>
 								<tr><td align="center" height="150">
 									<table border="0" cellspacing="0" cellpadding="0" width="290" >
 										<tr>
-											<td align="right">Current password:</td>
-											<td align="center" width="140" height="32"><edit var="currpass" TYPE="password" width=130 height=14 length=18><br></td>
+											<td align="right">Текущий пароль:</td>
+											<td align="center" width="140" height="32"><edit var="currpass" TYPE="password" width=120 height=14 length=18><br></td>
 											<td align="left">*</td>
 										</tr>
 										<tr>
-											<td align="right" >New password:</td>
-											<td align="center" width="150" height="26"><edit var="newpass0" TYPE="password" width=130 height=14 length=18></td>
+											<td align="right" >Новый пароль:</td>
+											<td align="center" width="140" height="32"><edit var="newpass0" TYPE="password" width=120 height=14 length=18></td>
 											<td align="left">*</td>
 										</tr>
 										<tr>
-											<td align="right" >Confirm new password:</td>
-											<td align="center" width="150" height="26"><edit var="newpass1" TYPE="password" width=130 height=14 length=18></td>
+											<td align="right" >Повторите пароль:</td>
+											<td align="center" width="140" height="32"><edit var="newpass1" TYPE="password" width=120 height=14 length=18></td>
 											<td align="left">*</td>
 										</tr>
 									</table>
 									<br>
-									&nbsp;* - 4-14 english characters, digits, _ and -
+									&nbsp;* - 4-14 английских букв, цифры, _ и -
 								</td></tr>
 								<tr><td align="center">
 									<button value="OK" action="bypass _bbscpassword $currpass $newpass0 $newpass1"  back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2" width=100 height=22>

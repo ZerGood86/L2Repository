@@ -742,6 +742,10 @@
 			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Weight Limit-->
+			<skill id="150" level="1" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="2" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="3" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="1"><!--
 			<skill id="1312" level="1" cost="0" name="Fishing" min_level="10" item_id="57" item_count="1000" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1483,6 +1487,10 @@
 			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Weight Limit-->
+			<skill id="150" level="1" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="2" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="3" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="2"><!--
 			<skill id="1312" level="1" cost="0" name="Fishing" min_level="10" item_id="57" item_count="1000" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2224,6 +2232,10 @@
 			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Weight Limit-->
+			<skill id="150" level="1" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="2" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="3" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="3"><!--
 			<skill id="1312" level="1" cost="0" name="Fishing" min_level="10" item_id="57" item_count="1000" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2965,6 +2977,10 @@
 			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Weight Limit-->
+			<skill id="150" level="1" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="2" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="3" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 		<race id="4">
 			<!--Dwarven--><!--
@@ -3715,6 +3731,10 @@
 			<skill id="1393" level="19" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="20" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1393" level="21" cost="0" name="Unholy Resistance" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--Weight Limit-->
+			<skill id="150" level="1" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="2" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="150" level="3" cost="0" name="Weight Limit" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 		</race>
 	</fishing_skill_tree>
 </list>
