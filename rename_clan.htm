@@ -13,21 +13,18 @@
 <font color="LEVEL">%item_count% &#%item_id%;.</font></td>
 </tr>
 </table>
+<br>
 
-<br>
-<br>
-<br>
 <table width=300>
-
 <tr>
 <td align="center"><font color="ff9218">Новое название:<edit var="new_name" width=80></font></td>
 </tr>
-
+<tr></tr><tr></tr>
 <tr>
 <td align=center><img src="icon.mticket_sword_fix_i00" width=32 height=35></td>
 </tr>
 <tr>
-<td align=center><button value="Переименовать " action="scripts_services.ClanRename:rename_clan $new_name" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+<td align=center><button value="Переименовать " action="bypass -h scripts_services.ClanRename:rename_clan $new_name" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
 </tr>
 </table>
 
@@ -44,12 +41,3 @@
 
 </body>
 </html>
-
-<html><head><body>Rename clan:<br>
-Rename clan for %item_count% &#%item_id%;
-<table width=270>
-<tr><td>New name:<edit var="new_name" width=80></td></tr>
-<tr><td></td></tr>
-<tr><td>[scripts_services.ClanRename:rename_clan $new_name|Rename Clan]</td></tr>
-</table>
-</body></html>

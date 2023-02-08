@@ -1,7 +1,40 @@
-<html><head><body>Карма:<br>
-Очистить карму за %item_count% &#%item_id%;
-<table width=270>
-    <tr><td></td></tr>
-    <tr><td>[scripts_services.KarmaClean:karmaclean|Очистить]</td></tr>
+<html imgsrc="WarEffectsTextures.Particles.jm-chip"><!-- фон -->
+<title>Священный источник | Сброс Кармы</title><!-- титул в нпц  -->
+<body>
+<br>
+<br>
+<br>
+
+<table width=295>
+<tr>
+<td align="center"><font color="ff9218">Сбросить Карму за</font>
+<br>
+<font color="LEVEL">%item_count% &#%item_id%;.</font></td>
+</tr>
 </table>
-</body></html>
+
+<br>
+<br>
+<br>
+<table width=300>
+<tr>
+<td align=center><img src="icon.etc_ashes_red_i00" width=32 height=35></td>
+</tr>
+<tr>
+<td align=center><button value="Сбросить " action="bypass -h scripts_services.KarmaClean:karmaclean" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+</tr>
+</table>
+
+<br>
+<br>
+<table width=300>
+<tr>
+<td align=center><img src="L2UI_CT1.Icon.ICON_DF_CHARACTERTURN_RIGHT" width=50 height=53></td>
+</tr>
+<tr>
+<td align=center><button value="Назад " action="bypass -h npc_%objectId%_Link mods/services/50202.htm" width=120 height=30 back="L2UI_CH3.bigbutton2_down" fore="L2UI_CH3.bigbutton2"></td>
+</tr>
+</table>
+
+</body>
+</html>
