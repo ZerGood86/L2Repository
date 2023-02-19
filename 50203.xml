@@ -11,15 +11,27 @@
 </item>
 
 <!-- Богатые головные уборы -->
-<item id="9">
+<item id="7">
 <ingredient id="4037" count="100" enchant="0"/>
 <production id="25104" count="1" enchant="0"/>
 </item>
 
 <!-- Эпичные головные уборы -->
-<item id="10">
+<item id="8">
 <ingredient id="4037" count="1000" enchant="0"/>
 <production id="25105" count="1" enchant="0"/>
+</item>
+
+<!-- Сундук с Богатыми костюмами -->
+<item id="9">
+<ingredient id="4037" count="300" enchant="0"/>
+<production id="25116" count="1" enchant="0"/>
+</item>
+
+<!-- Сундук с Эпичными костюмами -->
+<item id="10">
+<ingredient id="4037" count="3000" enchant="0"/>
+<production id="25117" count="1" enchant="0"/>
 </item>
 
 <!-- 100% Свиток: Модифицировать Оружие (S) -->
