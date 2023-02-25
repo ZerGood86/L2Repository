@@ -4447,7 +4447,7 @@
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="992"/>
+		<set name="rewardExp" value="1992"/>
 		<set name="rewardSp" value="50"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.5872"/>
@@ -4475,8 +4475,8 @@
 			<!--Resist Bow/Crossbow Weapons-->
 			<skill id="4279" level="1"/>
 			<!--Fire Attack Weak Point-->
-			<skill id="4408" level="1"/>
-			<!--HP Increase (1x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="11"/>
@@ -4497,7 +4497,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="154" max="288" chance="100.0"/>
+				<reward item_id="57" min="154" max="600" chance="100.0"/>
 			</group>
 			<group chance="1.377">
 				<!--Leather Boots-->
@@ -8410,7 +8410,7 @@
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="1397"/>
+		<set name="rewardExp" value="2800"/>
 		<set name="rewardSp" value="78"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.4537"/>
@@ -8427,8 +8427,8 @@
 		<skills>
 			<skill id="4317" level="1"/>
 			<!--Increase Rage Might-->
-			<skill id="4408" level="1"/>
-			<!--HP Increase (1x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="10"/>
@@ -8453,7 +8453,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="199" max="396" chance="100.0"/>
+				<reward item_id="57" min="199" max="1800" chance="100.0"/>
 			</group>
 			<group chance="0.0783">
 				<!--Conjuror's Staff Head-->

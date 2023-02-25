@@ -3106,7 +3106,6 @@
 		<set name="rewardSp" value="30"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.8781"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>

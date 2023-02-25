@@ -2129,7 +2129,6 @@
 		<set name="rewardSp" value="26"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="3.8698"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="120"/>
@@ -8438,7 +8437,6 @@
 		<set name="rewardSp" value="35"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.7324"/>
-		<faction name="skeleton_clan" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="110"/>
@@ -9778,7 +9776,6 @@
 		<set name="rewardSp" value="42"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.6597"/>
-		<faction name="bugbear_clan" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="124"/>
@@ -11329,7 +11326,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -15136,7 +15133,6 @@
 		<set name="rewardSp" value="10"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="2.96"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>

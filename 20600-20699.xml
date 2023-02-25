@@ -1254,7 +1254,7 @@
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="2012"/>
+		<set name="rewardExp" value="4012"/>
 		<set name="rewardSp" value="106"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="2.5664"/>
@@ -1270,8 +1270,8 @@
 		<skills>
 			<skill id="4073" level="2"/>
 			<!--Stun-->
-			<skill id="4408" level="10"/>
-			<!--HP Increase (2x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="12"/>
@@ -1292,7 +1292,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="296" max="580" chance="100.0"/>
+				<reward item_id="57" min="296" max="1200" chance="100.0"/>
 			</group>
 			<group chance="0.1509">
 				<!--Scroll of Wisdom-->

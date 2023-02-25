@@ -5423,7 +5423,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -7433,7 +7433,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -7441,7 +7441,6 @@
 		<set name="rewardSp" value="100"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.4827"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>
@@ -7724,7 +7723,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -7732,7 +7731,6 @@
 		<set name="rewardSp" value="63"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.5319"/>
-		<faction name="neer_crawler_clan" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="126"/>
@@ -9293,7 +9291,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -9301,7 +9299,6 @@
 		<set name="rewardSp" value="54"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.5947"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="110"/>
@@ -11576,7 +11573,6 @@
 		<set name="rewardSp" value="85"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.73"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="0"/>

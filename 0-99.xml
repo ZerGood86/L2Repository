@@ -545,9 +545,11 @@
 	</armor>
 	<armor id="26" name="Bronze Breastplate">
 		<!-- [bronze_breastplate] -->
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
 		<set name="crystal_type" value="NONE"/>
 		<set name="icon" value="icon.armor_t34_u_i00"/>
-		<set name="price" value="49200"/>
 		<set name="type" value="HEAVY"/>
 		<set name="weight" value="8920"/>
 		<equip>
@@ -681,9 +683,11 @@
 	</armor>
 	<armor id="34" name="Bronze Gaiters">
 		<!-- [bronze_gaiters] -->
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
 		<set name="crystal_type" value="NONE"/>
 		<set name="icon" value="icon.armor_t34_l_i00"/>
-		<set name="price" value="30700"/>
 		<set name="type" value="HEAVY"/>
 		<set name="weight" value="3960"/>
 		<equip>
@@ -850,9 +854,11 @@
 	</armor>
 	<armor id="44" name="Leather Helmet">
 		<!-- [leather_helmet] -->
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="tradeable" value="false"/>
 		<set name="crystal_type" value="NONE"/>
 		<set name="icon" value="icon.armor_leather_helmet_i00"/>
-		<set name="price" value="10200"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="650"/>
 		<equip>

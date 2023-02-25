@@ -5879,7 +5879,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -5887,7 +5887,6 @@
 		<set name="rewardSp" value="22"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="2.081999"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="110"/>
@@ -7638,8 +7637,8 @@
 			<set name="MoveAroundSocial2" value="80"/>
 		</ai_params>
 		<skills>
-			<skill id="4408" level="1"/>
-			<!--HP Increase (1x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="10"/>
@@ -7664,7 +7663,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="137" max="246" chance="100.0"/>
+				<reward item_id="57" min="137" max="500" chance="100.0"/>
 			</group>
 			<group chance="0.0146">
 				<!--Falchion-->
@@ -7944,7 +7943,7 @@
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
-		<set name="rewardExp" value="678"/>
+		<set name="rewardExp" value="1300"/>
 		<set name="rewardSp" value="30"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.8781"/>
@@ -7956,8 +7955,8 @@
 			<set name="MoveAroundSocial2" value="100"/>
 		</ai_params>
 		<skills>
-			<skill id="4408" level="1"/>
-			<!--HP Increase (1x)-->
+			<skill id="4408" level="12"/>
+			<!--HP Increase (4x)-->
 			<skill id="4409" level="1"/>
 			<!--MP Increase (1x)-->
 			<skill id="4410" level="12"/>
@@ -7982,7 +7981,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="70">
 				<!--Adena-->
-				<reward item_id="57" min="122" max="208" chance="100.0"/>
+				<reward item_id="57" min="122" max="400" chance="100.0"/>
 			</group>
 			<group chance="0.0228">
 				<!--Journeyman's Staff-->
@@ -8108,7 +8107,6 @@
 		<set name="rewardSp" value="23"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="2.2266"/>
-		<faction name="wererat_clan" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="100"/>
@@ -9662,7 +9660,7 @@
 		<set name="spiritshot_count" value="0"/>
 		<set name="corpse_time" value="7"/>
 		<set name="noSleepMode" value="0"/>
-		<set name="aggroRange" value="500"/>
+		<set name="aggroRange" value="0"/>
 		<set name="texture" value=""/>
 		<set name="isAgro" value="0"/>
 		<set name="unsowing" value="0"/>
@@ -9670,7 +9668,6 @@
 		<set name="rewardSp" value="19"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="2.017799"/>
-		<faction name="-1" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="110"/>
