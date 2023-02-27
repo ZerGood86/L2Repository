@@ -226,7 +226,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.accessary_elven_necklace_i00"/>
-		<set name="price" value="125000"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="150"/>
 		<equip>

@@ -296,7 +296,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t42_l_i00"/>
-		<set name="price" value="140000"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="LIGHT"/>
 		<set name="weight" value="1550"/>
 		<equip>
@@ -637,7 +637,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t51_u_i00"/>
-		<set name="price" value="224000"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="MAGIC"/>
 		<set name="weight" value="2010"/>
 		<equip>
@@ -1229,7 +1229,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t51_l_i00"/>
-		<set name="price" value="140000"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="MAGIC"/>
 		<set name="weight" value="980"/>
 		<equip>

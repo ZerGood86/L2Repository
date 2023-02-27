@@ -338,7 +338,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="2" stackType="SpeedUp" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="2" stackType="SpeedUp" time="1200" val="0">
 				<add order="0x40" stat="runSpd" val="48"/>
 			</effect>
 		</for>
@@ -353,7 +353,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="3" stackType="pDef" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="3" stackType="pDef" time="1200" val="0">
 				<mul order="0x30" stat="pDef" val="1.5"/>
 			</effect>
 		</for>
@@ -368,7 +368,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="6" stackType="hp_up" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="6" stackType="hp_up" time="1200" val="0">
 				<mul order="0x30" stat="maxHp" val="1.5"/>
 			</effect>
 		</for>
@@ -383,7 +383,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="9" stackType="vampRage" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="9" stackType="vampRage" time="1200" val="0">
 				<add order="0x40" stat="absorbDam" val="9"/>
 			</effect>
 		</for>
@@ -398,7 +398,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="3" stackType="hpregen" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="3" stackType="hpregen" time="1200" val="0">
 				<mul order="0x30" stat="regHp" val="1.3"/>
 			<add order="0x40" stat="regHp" val="30"/>
 			</effect>
@@ -414,7 +414,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="1" stackType="pAtkSpeedUp" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="1" stackType="pAtkSpeedUp" time="1200" val="0">
 				<mul order="0x30" stat="pAtkSpd" val="1.24"/>
 			</effect>
 		</for>
@@ -429,7 +429,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="6" stackType="mp_up" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="6" stackType="mp_up" time="1200" val="0">
 				<mul order="0x30" stat="maxMp" val="1.5"/>
 			</effect>
 		</for>
@@ -444,7 +444,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="3" stackType="mAtkSpeedUp" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="3" stackType="mAtkSpeedUp" time="1200" val="0">
 				<mul order="0x30" stat="mAtkSpd" val="1.24"/>
 			</effect>
 		</for>
@@ -459,7 +459,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="1" stackType="concentration" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="1" stackType="concentration" time="1200" val="0">
 				<mul order="0x30" stat="concentration" val="0.82"/>
 			</effect>
 		</for>
@@ -474,7 +474,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="isNewbie" val="true"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="1" stackType="mAtk" time="3600" val="0">
+			<effect count="1" name="Buff" stackOrder="1" stackType="mAtk" time="1200" val="0">
 				<mul order="0x30" stat="mAtk" val="1.3"/>
 			</effect>
 		</for>
@@ -561,7 +561,7 @@
 		<set name="operateType" val="OP_ACTIVE"/>
 		<set name="cancelable" val="false"/>
 		<for>
-			<effect name="Cubic" stackType="life_cubic" stackOrder="1" time="3600">
+			<effect name="Cubic" stackType="life_cubic" stackOrder="1" time="1200">
 				<def name="cubicId" val="3"/>
 				<def name="cubicLevel" val="20"/>
 				<player cubic="3"/>
@@ -669,7 +669,7 @@
 		<!-- s_agit_might -->
 		<table name="#rate">1.08 1.12 1.15 1.08 1.12 1.15</table>
 		<table name="#power">1 2 3 1 2 3</table>
-		<table name="#time">1200 1200 1200 3600 3600 3600</table>
+		<table name="#time">1200 1200 1200 1200 1200 1200</table>
 		<set name="magicType" val="MAGIC"/>
 		<set name="icon" val="icon.skill1068"/>
 		<set name="magicLevel" val="1"/>
@@ -756,7 +756,7 @@
 		<table name="#Tab-mDef">1.23 1.3 1.23 1.3</table>
 		<table name="#power">2 3 2 3</table>
 		<table name="#display">1 2 1 2</table>
-		<table name="#time">3600 3600 3600 3600</table>
+		<table name="#time">1200 1200 1200 1200</table>
 		<set name="magicType" val="MAGIC"/>
 		<set name="icon" val="icon.skill1036"/>
 		<set name="magicLevel" val="1"/>
@@ -956,7 +956,6 @@
 		<!-- s_agit_guidance -->
 		<table name="#Tab-accCombat">2 3 10 2 3 4</table>
 		<table name="#stackOrder">1 2 3 1 2 3</table>
-		<table name="#time">3600 3600 3600 3600 3600 3600</table>
 		<set name="magicType" val="MAGIC"/>
 		<set name="icon" val="icon.skill1240"/>
 		<set name="magicLevel" val="1"/>
@@ -967,7 +966,7 @@
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="#stackOrder" stackType="accuracyUp" time="#time" val="0">
+			<effect count="1" name="Buff" stackOrder="#stackOrder" stackType="accuracyUp" time="1200" val="0">
 				<add order="0x40" stat="accCombat" val="#Tab-accCombat"/>
 			</effect>
 		</for>

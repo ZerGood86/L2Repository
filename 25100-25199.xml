@@ -214,8 +214,8 @@
 		<set name="icon" value="icon.weapon_monster_i00"/>
 		<set name="rnd_dam" value="10"/>
 		<set name="sellable" value="false"/>
-		<set name="soulshots" value="2"/>
-		<set name="spiritshots" value="2"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
 		<set name="tradeable" value="false"/>
 		<set name="type" value="BIGSWORD"/>
 		<set name="weight" value="3000"/>
@@ -226,6 +226,32 @@
 			<add stat="pAtk" order="0x10" value="110"/>
 			<add stat="mAtk" order="0x10" value="21"/>
 			<set stat="baseCrit" order="0x08" value="80"/>
+			<set stat="atkBaseSpeed" order="0x08" value="325"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="mAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	
+	<weapon id="25121" name="Staff of the Saints">
+		<!-- [Стартовое оружие для магов] -->
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="durability" value="120"/>
+		<set name="icon" value="icon.weapon_monster_i00"/>
+		<set name="rnd_dam" value="10"/>
+		<set name="sellable" value="false"/>
+		<set name="soulshots" value="3"/>
+		<set name="spiritshots" value="3"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="BIGSWORD"/>
+		<set name="weight" value="3000"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="70"/>
+			<add stat="mAtk" order="0x10" value="70"/>
+			<set stat="baseCrit" order="0x08" value="40"/>
 			<set stat="atkBaseSpeed" order="0x08" value="325"/>
 			<enchant stat="pAtk" order="0x0C" value="0"/>
 			<enchant stat="mAtk" order="0x0C" value="0"/>

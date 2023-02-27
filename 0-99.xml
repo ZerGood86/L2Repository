@@ -1276,7 +1276,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.weapon_claymore_i00"/>
-		<set name="price" value="1800000"/>
+		<set name="price" value="200000"/>
 		<set name="rnd_dam" value="10"/>
 		<set name="soulshots" value="3"/>
 		<set name="spiritshots" value="3"/>

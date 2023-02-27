@@ -7303,7 +7303,7 @@
 			<!--Bastard Sword-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="493" max="1984" chance="100.0"/>
 			</group>
@@ -7430,7 +7430,7 @@
 			<!--Beasts-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="272" max="546" chance="100.0"/>
 			</group>
@@ -7605,7 +7605,7 @@
 			<!--Assassin Knife-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="276" max="4051" chance="100.0"/>
 			</group>
@@ -7784,7 +7784,7 @@
 			<!--Undead-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="595" max="1187" chance="100.0"/>
 			</group>
@@ -12858,7 +12858,7 @@
 			<!--Bonebreaker-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="1070" max="6011" chance="100.0"/>
 			</group>

@@ -4495,7 +4495,7 @@
 			<!--Bugs-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="154" max="600" chance="100.0"/>
 			</group>
@@ -8451,9 +8451,9 @@
 			<!--Morning Star-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
-				<reward item_id="57" min="199" max="1800" chance="100.0"/>
+				<reward item_id="57" min="900" max="1400" chance="100.0"/>
 			</group>
 			<group chance="0.0783">
 				<!--Conjuror's Staff Head-->

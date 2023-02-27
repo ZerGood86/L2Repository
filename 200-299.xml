@@ -636,7 +636,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.weapon_mithril_dagger_i00"/>
-		<set name="price" value="1800000"/>
+		<set name="price" value="200000"/>
 		<set name="rnd_dam" value="5"/>
 		<set name="soulshots" value="3"/>
 		<set name="spiritshots" value="3"/>
@@ -1493,7 +1493,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.weapon_scallop_jamadhr_i00"/>
-		<set name="price" value="1800000"/>
+		<set name="price" value="200000"/>
 		<set name="rnd_dam" value="5"/>
 		<set name="soulshots" value="3"/>
 		<set name="spiritshots" value="3"/>
@@ -1957,7 +1957,7 @@
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.weapon_cyclone_bow_i00"/>
 		<set name="mp_consume" value="2"/>
-		<set name="price" value="1800000"/>
+		<set name="price" value="200000"/>
 		<set name="rnd_dam" value="5"/>
 		<set name="soulshots" value="10"/>
 		<set name="spiritshots" value="3"/>
@@ -2420,7 +2420,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.weapon_glaive_i00"/>
-		<set name="price" value="1800000"/>
+		<set name="price" value="200000"/>
 		<set name="rnd_dam" value="10"/>
 		<set name="soulshots" value="3"/>
 		<set name="spiritshots" value="3"/>

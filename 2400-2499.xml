@@ -208,7 +208,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_leather_helmet_i00"/>
-		<set name="price" value="112000"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="630"/>
 		<equip>
@@ -259,7 +259,7 @@
 		<set name="crystal_type" value="C"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_leather_helmet_i00"/>
-		<set name="price" value="536000"/>
+		<set name="price" value="400000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="600"/>
 		<equip>
@@ -412,7 +412,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t41_b_i00"/>
-		<set name="price" value="50800"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="1270"/>
 		<equip>
@@ -429,7 +429,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t42_b_i00"/>
-		<set name="price" value="74700"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="1260"/>
 		<equip>
@@ -446,7 +446,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t43_b_i00"/>
-		<set name="price" value="74700"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="1250"/>
 		<equip>
@@ -463,7 +463,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t51_b_i00"/>
-		<set name="price" value="74700"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="1250"/>
 		<equip>
@@ -820,7 +820,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t41_g_i00"/>
-		<set name="price" value="50800"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="640"/>
 		<equip>
@@ -837,7 +837,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t42_g_i00"/>
-		<set name="price" value="74700"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="630"/>
 		<equip>
@@ -854,7 +854,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t43_g_i00"/>
-		<set name="price" value="74700"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="630"/>
 		<equip>
@@ -871,7 +871,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t51_g_i00"/>
-		<set name="price" value="74700"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="640"/>
 		<equip>
@@ -888,7 +888,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.armor_t44_g_i00"/>
-		<set name="price" value="97800"/>
+		<set name="price" value="50000"/>
 		<set name="type" value="NONE"/>
 		<set name="weight" value="630"/>
 		<equip>
@@ -1598,7 +1598,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.shield_brigandine_shield_i00"/>
-		<set name="price" value="78400"/>
+		<set name="price" value="50000"/>
 		<set name="rnd_dam" value="0"/>
 		<set name="soulshots" value="0"/>
 		<set name="spiritshots" value="0"/>
@@ -1686,7 +1686,7 @@
 		<set name="crystal_type" value="C"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.shield_full_plate_shield_i00"/>
-		<set name="price" value="375000"/>
+		<set name="price" value="400000"/>
 		<set name="rnd_dam" value="0"/>
 		<set name="soulshots" value="0"/>
 		<set name="spiritshots" value="0"/>
@@ -1730,7 +1730,7 @@
 		<set name="crystal_type" value="D"/>
 		<set name="crystallizable" value="true"/>
 		<set name="icon" value="icon.weapon_elven_long_sword_i00"/>
-		<set name="price" value="1800000"/>
+		<set name="price" value="200000"/>
 		<set name="rnd_dam" value="10"/>
 		<set name="soulshots" value="3"/>
 		<set name="spiritshots" value="3"/>
