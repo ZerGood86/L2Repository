@@ -2865,34 +2865,6 @@
     <npc id="50200" count="1" respawn="60" pos="17512 170648 -3496 49151" />
   </spawn>
   <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
-    <!--ZerGood1 spawned : La2SuperBuff on Loc : 9720,15384,-4568,16383-->
-    <npc id="50200" count="1" respawn="60" pos="9720 15384 -4568 16383" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
-    <!--ZerGood1 spawned : La2SuperBuff on Loc : 9832,15368,-4568,13828-->
-    <npc id="50201" count="1" respawn="60" pos="9832 15368 -4568 13828" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
-    <!--ZerGood1 spawned : La2SuperBuff on Loc : 9944,15352,-4568,13828-->
-    <npc id="50202" count="1" respawn="60" pos="9944 15352 -4568 13828" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
-    <!--ZerGood1 spawned : La2SuperBuff on Loc : 10040,15336,-4568,13828-->
-    <npc id="50203" count="1" respawn="60" pos="10040 15336 -4568 13828" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[L2SuperBuff]">
-    <!--ZerGood1 spawned : L2SuperBuff on Loc : 10136,15320,-4568,13828-->
-    <npc id="40026" count="1" respawn="60" pos="10136 15320 -4568 13828" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
-    <!--ZerGood1 spawned : La2SuperBuff on Loc : 9576,15688,-4568,62980-->
-    <npc id="50208" count="1" respawn="60" pos="9576 15688 -4568 62980" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
-    <!--ZerGood1 spawned : La2SuperBuff on Loc : 9688,15560,-4568,8191-->
-    <npc id="50209" count="1" respawn="60" pos="9688 15560 -4568 8191" />
-  </spawn>
-  <spawn event_name="[custom_spawn]" name="[La2SuperBuff]">
     <!--ZerGood1 spawned : La2SuperBuff on Loc : 11800,-24632,-3640,32767-->
     <npc id="50209" count="1" respawn="60" pos="11800 -24632 -3640 32767" />
   </spawn>

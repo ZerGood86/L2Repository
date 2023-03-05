@@ -277,8 +277,8 @@
 			<skill id="1035" level="8" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="9" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="10" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="13" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="14" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="15" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -288,6 +288,7 @@
 			<skill id="1035" level="19" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="20" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			-->
 			<!-- Vampiric Buff-->
 			<skill id="1268" level="1" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1268" level="2" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1022,8 +1023,8 @@
 			<skill id="1035" level="8" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="9" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="10" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="13" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="14" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="15" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1033,6 +1034,7 @@
 			<skill id="1035" level="19" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="20" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			-->
 			<!-- Vampiric Buff-->
 			<skill id="1268" level="1" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1268" level="2" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1767,8 +1769,8 @@
 			<skill id="1035" level="8" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="9" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="10" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="13" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="14" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="15" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1778,6 +1780,7 @@
 			<skill id="1035" level="19" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="20" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			-->
 			<!-- Vampiric Buff-->
 			<skill id="1268" level="1" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1268" level="2" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2512,8 +2515,8 @@
 			<skill id="1035" level="8" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="9" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="10" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="13" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="14" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="15" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2523,6 +2526,7 @@
 			<skill id="1035" level="19" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="20" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			-->
 			<!-- Vampiric Buff-->
 			<skill id="1268" level="1" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1268" level="2" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -3266,8 +3270,8 @@
 			<skill id="1035" level="8" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="9" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="10" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1035" level="11" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<!--<skill id="1035" level="12" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="13" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="14" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="15" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -3277,6 +3281,7 @@
 			<skill id="1035" level="19" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="20" cost="0" name="Mental Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1035" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			-->
 			<!-- Vampiric Buff-->
 			<skill id="1268" level="1" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1268" level="2" cost="0" name=" Vampiric" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />

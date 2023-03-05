@@ -2260,53 +2260,32 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="1392" levels="3" name="Holy Resistance">
-		<table name="#mpConsume2">43 50 55</table>
-		<table name="#mpConsume1">11 12 14</table>
-		<table name="#Res">15 23 30</table>
-		<table name="#abnormal_time">1200</table>
-		<table name="#magicLevel">58 66 74</table>
-		<set name="magicType" val="MAGIC"/>
+	<skill id="1392" levels="21" name="Holy Resistance">
+		<table name="#Res">10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210</table>
+		<table name="#magicLevel">40	42	44	46	48	50	52	54	56	58	60	62	64	66	68	70	72	74	76	78	80</table>
 		<set name="icon" val="icon.skill1392"/>
-		<set name="reuseDelay" val="10000"/>
 		<set name="magicLevel" val="#magicLevel"/>
-		<set name="castRange" val="400"/>
-		<set name="hitTime" val="4000"/>
-		<set name="hitCancelTime" val="500"/>
-		<set name="mpConsume1" val="#mpConsume1"/>
-		<set name="mpConsume2" val="#mpConsume2"/>
-		<set name="target" val="TARGET_ONE"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillType" val="BUFF"/>
-		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<effect count="1" name="Buff" time="#abnormal_time" val="0">
 				<add order="0x40" stat="defenceHoly" val="#Res"/>
-			</effect>
+				<add order="0x40" stat="defenceWind" val="#Res"/>
+				<add order="0x40" stat="defenceWater" val="#Res"/>
 		</for>
 	</skill>
-	<skill id="1393" levels="3" name="Unholy Resistance">
-		<table name="#mpConsume2">43 50 55</table>
-		<table name="#mpConsume1">11 12 14</table>
-		<table name="#Res">15 23 30</table>
-		<table name="#order">1 2 3</table>
-		<table name="#abnormal_time">1200</table>
-		<table name="#magicLevel">58 66 74</table>
-		<set name="magicType" val="MAGIC"/>
+	<skill id="1393" levels="21" name="Unholy Resistance">
+		<table name="#Res">10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210</table>
+		<table name="#magicLevel">40	42	44	46	48	50	52	54	56	58	60	62	64	66	68	70	72	74	76	78	80</table>
 		<set name="icon" val="icon.skill1393"/>
-		<set name="reuseDelay" val="10000"/>
 		<set name="magicLevel" val="#magicLevel"/>
-		<set name="castRange" val="400"/>
-		<set name="hitTime" val="4000"/>
-		<set name="hitCancelTime" val="500"/>
-		<set name="mpConsume1" val="#mpConsume1"/>
-		<set name="mpConsume2" val="#mpConsume2"/>
-		<set name="target" val="TARGET_ONE"/>
+		<set name="target" val="TARGET_SELF"/>
 		<set name="skillType" val="BUFF"/>
-		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="#order" stackType="unholyRcpt" time="#abnormal_time" val="0">
 				<add order="0x40" stat="defenceUnholy" val="#Res"/>
-			</effect>
+				<add order="0x40" stat="defenceFire" val="#Res"/>
+				<add order="0x40" stat="poisonResist" val="#Res"/>
 		</for>
 	</skill>
 	<skill id="1394" levels="10" name="Trance">

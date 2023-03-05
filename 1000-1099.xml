@@ -906,7 +906,7 @@
 		</for>
 	</skill>
 	<skill id="1050" levels="3" name="Return">
-		<table name="#mpConsume2">84 122 150</table>
+		<table name="#mpConsume2">20 100 150</table>
 		<table name="#mpConsume1">21 31 41</table>
 		<table name="#hitTime">20000 1500 300</table>
 		<table name="#magicLevel">40 56 80</table>

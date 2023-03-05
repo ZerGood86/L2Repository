@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- А оружие -->
+<list>
+//убийца драконов
+ <item id="1">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="81" count="1" enchant="0"/>
+</item>
+//легендарный меч
+<item id="2">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="151" count="1" enchant="0"/>
+</item>
+//Элизиум	
+<item id="3">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="164" count="1" enchant="0"/>
+</item>
+//ветвь древа жизни
+<item id="4">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="213" count="1" enchant="0"/>
+</item>
+//Душегуб
+<item id="5">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="236" count="1" enchant="0"/>
+</item>
+//погибель дракона
+<item id="6">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="270" count="1" enchant="0"/>
+</item>
+//пронзатель душ
+<item id="8">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="289" count="1" enchant="0"/>
+</item>
+//глефа таллума
+<item id="9">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="305" count="1" enchant="0"/>
+</item>
+//темный легион
+<item id="11">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="2500" count="1" enchant="0"/>
+</item>
+//кровавый лук
+<item id="12">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="288" count="1" enchant="0"/>
+</item>
+//дамаскус*дамаскус
+<item id="13">
+<ingredient id="25108" count="10" enchant="0"/>
+<production id="5706" count="1" enchant="0"/>
+</item>
+
+</list>
