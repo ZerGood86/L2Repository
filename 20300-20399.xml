@@ -5922,7 +5922,7 @@
 			<!--Undead-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="110" max="171" chance="100.0"/>
 			</group>
@@ -5943,10 +5943,6 @@
 				<reward item_id="1866" min="1" max="1" chance="14.2214"/>
 				<!--Antidote-->
 				<reward item_id="1831" min="1" max="1" chance="56.8847"/>
-				<!--Recipe: Piece Bone Breastplate-->
-				<reward item_id="1800" min="1" max="1" chance="6.7088"/>
-				<!--Recipe: Greater Soulshot (D) Compressed Package (100%)-->
-				<reward item_id="5268" min="1" max="1" chance="0.8534"/>
 			</group>
 		</rewardlist>
 		<rewardlist type="NOT_RATED_GROUPED">
@@ -8138,7 +8134,7 @@
 			<!--Knife-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="118" max="183" chance="100.0"/>
 			</group>
@@ -9699,7 +9695,7 @@
 			<!--Undead-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="99" max="150" chance="100.0"/>
 			</group>

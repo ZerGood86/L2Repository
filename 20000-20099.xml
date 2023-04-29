@@ -2168,7 +2168,7 @@
 			<!--Undead-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="127" max="180" chance="100.0"/>
 			</group>
@@ -8474,7 +8474,7 @@
 			<!--Shamshir-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="130" max="231" chance="100.0"/>
 			</group>
@@ -9807,7 +9807,7 @@
 			<!--Hand Axe-->
 		</equip>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="144" max="255" chance="100.0"/>
 			</group>
@@ -11361,7 +11361,7 @@
 			<!--Beasts-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="175" max="343" chance="100.0"/>
 			</group>
@@ -15165,7 +15165,7 @@
 			<!--Animals-->
 		</skills>
 		<rewardlist type="RATED_GROUPED">
-			<group chance="70">
+			<group chance="100">
 				<!--Adena-->
 				<reward item_id="57" min="80" max="108" chance="100.0"/>
 			</group>

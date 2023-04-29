@@ -7572,7 +7572,7 @@
 		<set name="rewardSp" value="122"/>
 		<set name="rewardRp" value="0"/>
 		<set name="acquire_exp_rate" value="1.4543"/>
-		<faction name="-1" range="300"/>
+		<faction name="scavengers_clan" range="300"/>
 		<ai_params>
 			<!--PTS AI Params-->
 			<set name="MoveAroundSocial" value="100"/>
@@ -7607,7 +7607,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="100">
 				<!--Adena-->
-				<reward item_id="57" min="276" max="4051" chance="100.0"/>
+				<reward item_id="57" min="1100" max="1500" chance="100.0"/>
 			</group>
 			<group chance="2.0757">
 				<!--Elven Earring-->
@@ -12789,11 +12789,11 @@
 		<set name="baseRndDam" value="50"/>
 		<set name="basePAtk" value="196"/>
 		<set name="baseCritRate" value="10"/>
-		<set name="basePAtkSpd" value="247.42"/>
+		<set name="basePAtkSpd" value="400.42"/>
 		<set name="baseReuseDelay" value="0"/>
 		<set name="baseMDef" value="120"/>
 		<set name="baseMAtk" value="143"/>
-		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseMAtkSpd" value="666"/>
 		<set name="basePDef" value="150"/>
 		<set name="HitTimeFactor" value="0.63"/>
 		<set name="physical_hit_modify" value="4.75"/>
@@ -12860,7 +12860,7 @@
 		<rewardlist type="RATED_GROUPED">
 			<group chance="100">
 				<!--Adena-->
-				<reward item_id="57" min="1070" max="6011" chance="100.0"/>
+				<reward item_id="57" min="1400" max="1600" chance="100.0"/>
 			</group>
 			<group chance="0.2195">
 				<!--Strengthened Long Bow Shaft-->
