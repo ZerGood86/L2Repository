@@ -860,7 +860,7 @@
 		</for>
 	</skill>
 	<skill id="1047" levels="21" name="Mana Regeneration">
-		<table name="#rate">5	10	15	20	25	30	35	40	45	50	55	60	65	70	75	80	85	90	95	100	100</table>
+		<table name="#rate">10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210</table>
 		<table name="#magicLevel">40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40</table>
 		<table name="#MPrate">1.02 1.04 1.06 1.08 1.1 1.12 1.14 1.16 1.18 1.2 1.22 1.24 1.26 1.28 1.3 1.32 1.34 1.36 1.38 1.4 1.41</table>
 		<set name="icon" val="icon.skill1047"/>
@@ -1284,7 +1284,7 @@
 		</for>
 	</skill>
 	<skill id="1077" levels="15" name="Focus">
-		<table name="#rate">40 83 129 180 234 293 356 425 499 579 665 759 859 968 1000</table>
+		<table name="#rate">1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0 20</table>
 		<table name="#magicLevel">40 40 40 40 40 40 40 40 40 40 40 40 40 40 40</table>
 		<set name="icon" val="icon.skill1077"/>
 		<set name="magicLevel" val="#magicLevel"/>
@@ -1292,7 +1292,7 @@
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<add order="0x40" stat="rCrit" val="#rate"/>
+			<mul order="0x30" stat="rCrit" val="#rate"/>
 		</for>
 	</skill>
 	<skill id="1078" levels="11" name="Concentration">
@@ -1371,7 +1371,7 @@
 		</for>
 	</skill>
 	<skill id="1087" levels="11" name="Agility">
-		<table name="#rate">2 4 6 8 10 12 14 16 18 20 22</table>
+		<table name="#rate">3 6 9 12 15 18 21 24 27 30 33</table>
 		<table name="#magicLevel">40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40</table>
 		<set name="icon" val="icon.skill1087"/>
 		<set name="magicLevel" val="#magicLevel"/>

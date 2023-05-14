@@ -60,7 +60,7 @@
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<add order="0x40" stat="maxMp" val="92"/>
+			<mul order="0x30" stat="pAtkSpd" val="1.08"/>
 		</for>
 	</skill>
 	<skill id="3506" levels="1" name="Brigandine Set">
@@ -279,7 +279,7 @@
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_PASSIVE"/>
 		<for>
-			<mul order="0x30" stat="cAtk" val="1.2"/>
+			<mul order="0x30" stat="rCrit" val="1.2"/>
 			<add order="0x40" stat="accCombat" val="2"/>
 		</for>
 	</skill>

@@ -1,268 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
-
-<armor id="9202" name="Shadow Item - Dapper Cap" add_name="Firework">
-		<set name="crystal_type" value="NONE"/>
-		<set name="dropable" value="false"/>
-		<set name="durability" value="360"/>
-		<set name="icon" value="icon.accessory_dandy_cap_i00"/>
-		<set name="sellable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="type" value="NONE"/>
-		<set name="weight" value="10"/>
-		<equip>
-			<slot id="HAIR_ALL"/>
-		</equip>
-		<skills>
-			<skill id="3266" level="1"/>
-		</skills>
-	</armor>
-<!-- [Ключ для ивента Trick or Transmutation] -->
-<etcitem id="9205" name="Alchemist's Chest Key">
-    <set name="class" value="OTHER"/>
-    <set name="crystal_type" value="NONE"/>
-    <set name="dropable" value="false"/>
-    <set name="icon" value="icon.etc_old_key_i02"/>
-    <set name="stackable" value="true"/>
-    <set name="tradeable" value="false"/>
-    <set name="type" value="OTHER"/>
-    <set name="weight" value="10"/>
-  </etcitem>
-  
-	<etcitem id="9210" name="Enir">
-		<!-- [Enir] -->
-		<set name="price" value="20000"/>
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="destroyable" value="false"/>
-		<set name="icon" value="Nostalgia.money_enir"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="dropable" value="false"/>
-		<set name="type" value="MONEY"/>
-	</etcitem>
-
-	<etcitem id="9211" name="Premium Card - 30">
-		<!-- [клубная карта] -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="destroyable" value="false"/>
-		<set name="icon" value="NostalgiaIcon.items_001"/>
-		<set name="durability" value="43200"/> <!-- [30 дней] 43200 -->
-		<set name="temporal" value="true"/>
-		<set name="stackable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="dropable" value="false"/>
-		<set name="type" value="MONEY"/>
-	</etcitem>
-
-	<etcitem id="9212" name="Premium Card - 7">
-		<!-- [клубная карта] -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="destroyable" value="false"/>
-		<set name="icon" value="NostalgiaIcon.items_001"/>
-		<set name="durability" value="10080"/> <!-- [7 дней] 10080 -->
-		<set name="temporal" value="true"/>
-		<set name="stackable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="dropable" value="false"/>
-		<set name="type" value="MONEY"/>
-	</etcitem>
-
-	<etcitem id="9213" name="Premium Card - 1">
-		<!-- [клубная карта] -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="destroyable" value="false"/>
-		<set name="icon" value="NostalgiaIcon.items_001"/>
-		<set name="durability" value="4320"/> <!-- [1 дней] 1440 -->
-		<set name="temporal" value="true"/>
-		<set name="stackable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="dropable" value="false"/>
-		<set name="type" value="MONEY"/>
-	</etcitem>
-	
-	<etcitem id="9215" name="Сундук Путешественника: Руна Exp\SP 50% 3ч">
-		<!-- Руна опыта\сп 50% 3ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_2_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9216" name="Сундук Путешественника: Руна Exp\SP 100% 3ч">
-		<!-- Руна опыта\сп 100% 3ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_2_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9217" name="Сундук Путешественника: Руна Exp\SP 50% 24ч">
-		<!-- Руна опыта\сп 50% 24ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_4_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9218" name="Сундук Путешественника: Руна Exp\SP 100% 24ч">
-		<!-- Руна опыта\сп 100% 24ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_4_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9219" name="Сундук Путешественника: Руна Exp\SP 50% 72ч">
-		<!-- Руна опыта\сп 50% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9220" name="Сундук Путешественника: Руна Exp\SP 100% 72ч">
-		<!-- Руна опыта\сп 100% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-    <etcitem id="9221" name="Сундук Путешественника: Руна Exp\SP 50% 3ч">
-		<!-- Руна опыта\сп 50% 3ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<!-- Коробки Богатства -->
-	
-	<etcitem id="9222" name="Сундук Богатства: Руна Adena\Drop\Spoil 50% 3ч">
-		<!-- Руна богатства 50% 3ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9223" name="Сундук Богатства: Руна Adena\Drop\Spoil 100% 3ч">
-		<!-- Руна опыта\сп 100% 3ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9224" name="Сундук Богатства: Руна Adena\Drop\Spoil 50% 24ч">
-		<!-- Руна опыта\сп 50% 24ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9225" name="Сундук Богатства: Руна Adena\Drop\Spoil 100% 24ч">
-		<!-- Руна опыта\сп 100% 24ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9226" name="Сундук Богатства: Руна Adena\Drop\Spoil 50% 72ч">
-		<!-- Руна опыта\сп 50% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
-	
-	<etcitem id="9227" name="Сундук Богатства: Руна Exp\SP 100% 72ч">
-		<!-- Руна опыта\сп 100% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="icon.etc_box_of_adventure_3_i00"/>
-		<set name="stackable" value="true"/>
-		<set name="tradeable" value="true"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="20"/>
-	</etcitem>
+	<skill id="9201" levels="21" name="Summon Physical Shield">
+		<table name="#effectPoint">379 457 532 532 532 532 532 532 532 532 532 532 532 532 532 532 532 532 532 532 532</table>
+		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
+		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
+		<table name="#Tab-pDef">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1</table>
+		<table name="#abnormal_lv">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
+		<table name="#abnormal_time">1200</table>
+		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1140"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="castRange" val="400"/>
+		<set name="hitTime" val="4000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="target" val="TARGET_PET"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="30" name="Time">
+			<table name="#abnormal_time">1240 1280 1320 1360 1400 1440 1480 1520 1560 1600 1640 1680 1720 1760 1800 1840 1880 1920 1960 2000 2040 2080 2120 2160 2200 2240 2280 2320 2360 2400</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<enchant2 levels="30" name="Cost">
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+			<table name="#mpConsume1">10 10 10 10 10 9 9 9 9 9 8 8 8 8 8 8 7 7 7 7 7 6 6 6 6 6 6 5 5 5</table>
+			<table name="#mpConsume2">40 39 38 38 37 36 36 35 34 34 33 32 32 31 30 30 29 28 28 27 26 25 25 24 23 23 22 21 21 20</table>
+		</enchant2>
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="pDef" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="pDef" val="#Tab-pDef"/>
+			</effect>
+		</for>
+	<skill id="9202" levels="21" name="Summon Haste">
+		<table name="#effectPoint">418 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495</table>
+		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
+		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
+		<table name="#Tab-AtkSpd"> 1.08 1.16 1.24 1.32 1.40 1.48 1.56 1.64 1.72 1.8 1.88 1.96 2.04 2.12 2.2 2.28 2.36 2.42 2.5 2.58 2.64</table>
+		<table name="#abnormal_lv">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
+		<table name="#abnormal_time">1200</table>
+		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1141"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="castRange" val="400"/>
+		<set name="hitTime" val="4000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="target" val="TARGET_PET"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="30" name="Time">
+			<table name="#abnormal_time">1240 1280 1320 1360 1400 1440 1480 1520 1560 1600 1640 1680 1720 1760 1800 1840 1880 1920 1960 2000 2040 2080 2120 2160 2200 2240 2280 2320 2360 2400</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<enchant2 levels="30" name="Cost">
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+			<table name="#mpConsume1">9 9 9 9 9 9 8 8 8 8 8 8 7 7 7 7 7 7 6 6 6 6 6 6 5 5 5 5 5 5</table>
+			<table name="#mpConsume2">37 36 36 35 34 34 33 32 32 31 31 30 29 29 28 27 27 26 25 25 24 24 23 22 22 21 20 20 19 19</table>
+		</enchant2>
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="pAtkSpeedUp" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="#Tab-AtkSpd"/>
+	            <mul order="0x30" stat="mAtkSpd" val="#Tab-AtkSpd"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9203" levels="21" name="Summon Wind Walk">
+		<table name="#effectPoint">418 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495</table>
+		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
+		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
+		<table name="#Tab-runSpd">6 12 18 24 30 36 42 48 54 60 66 72 78 84 90 96 102 108 114 120 126</table>
+		<table name="#abnormal_lv">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
+		<table name="#abnormal_time">1200</table>
+		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1144"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="castRange" val="400"/>
+		<set name="hitTime" val="4000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="target" val="TARGET_PET"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="30" name="Time">
+			<table name="#abnormal_time">1240 1280 1320 1360 1400 1440 1480 1520 1560 1600 1640 1680 1720 1760 1800 1840 1880 1920 1960 2000 2040 2080 2120 2160 2200 2240 2280 2320 2360 2400</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<enchant2 levels="30" name="Cost">
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+			<table name="#mpConsume1">9 9 9 9 9 9 8 8 8 8 8 8 7 7 7 7 7 7 6 6 6 6 6 6 5 5 5 5 5 5</table>
+			<table name="#mpConsume2">34 33 33 32 32 31 30 30 29 29 28 28 27 26 26 25 25 24 23 23 22 22 21 21 20 19 19 18 18 17</table>
+		</enchant2>
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="SpeedUp" time="#abnormal_time" val="0">
+				<add order="0x40" stat="runSpd" val="#Tab-runSpd"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9204" levels="21" name="Summon Mighty">
+		<table name="#effectPoint">418 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495</table>
+		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
+		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
+		<table name="#Tab-mAtk">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1</table>
+		<table name="#Tab-pAtk">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1</table>
+		<table name="#abnormal_lv">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
+		<table name="#abnormal_time">1200</table>
+		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1146"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="castRange" val="400"/>
+		<set name="hitTime" val="4000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="target" val="TARGET_PET"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="30" name="Time">
+			<table name="#abnormal_time">1240 1280 1320 1360 1400 1440 1480 1520 1560 1600 1640 1680 1720 1760 1800 1840 1880 1920 1960 2000 2040 2080 2120 2160 2200 2240 2280 2320 2360 2400</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<enchant2 levels="30" name="Cost">
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+			<table name="#mpConsume1">11 11 11 11 11 10 10 10 10 10 9 9 9 9 9 8 8 8 8 8 7 7 7 7 7 6 6 6 6 6</table>
+			<table name="#mpConsume2">41 40 39 39 38 37 37 36 35 35 34 33 32 32 31 30 30 29 28 28 27 26 25 25 24 23 23 22 21 21</table>
+		</enchant2>
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="pAtk" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="pAtk" val="#Tab-pAtk"/>
+	  <mul order="0x30" stat="mAtk" val="#Tab-mAtk"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9205" levels="21" name="Summon Magic Shield">
+		<table name="#effectPoint">418 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495</table>
+		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
+		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
+		<table name="#Tab-mDef">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1</table>
+		<table name="#abnormal_lv">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
+		<table name="#abnormal_time">1200</table>
+		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1139"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="castRange" val="400"/>
+		<set name="hitTime" val="4000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="target" val="TARGET_PET"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<enchant1 levels="30" name="Time">
+			<table name="#abnormal_time">1240 1280 1320 1360 1400 1440 1480 1520 1560 1600 1640 1680 1720 1760 1800 1840 1880 1920 1960 2000 2040 2080 2120 2160 2200 2240 2280 2320 2360 2400</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<enchant2 levels="30" name="Cost">
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+			<table name="#mpConsume1">9 9 9 9 9 9 8 8 8 8 8 8 7 7 7 7 7 7 6 6 6 6 6 6 5 5 5 5 5 5</table>
+			<table name="#mpConsume2">37 36 36 35 34 34 33 32 32 31 31 30 29 29 28 27 27 26 25 25 24 24 23 22 22 21 20 20 19 19</table>
+		</enchant2>
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lv" stackType="MagicDefUp" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="mDef" val="#Tab-mDef"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9206" levels="21" name="Summon Final">
+		<table name="#effectPoint">418 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495</table>
+		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
+		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
+		<table name="#Tab-maxHp">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1</table>
+		<table name="#abnormal_lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
+		<table name="#abnormal_time">1200</table>
+		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill1349"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="castRange" val="400"/>
+		<set name="hitTime" val="4000"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="mpConsume1" val="#mpConsume1"/>
+		<set name="mpConsume2" val="#mpConsume2"/>
+		<set name="effectPoint" val="#effectPoint"/>
+		<set name="target" val="TARGET_PET"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Buff" stackOrder="#abnormal_lvl" stackType="ancient" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="maxHp" val="#Tab-maxHp"/>
+			</effect>
+			<effect count="1" name="HealPercent" time="0" val="20"/>
+		</for>
+	</skill>
+	</skill>
 	
 	
-	<etcitem id="9228" name="Бирюзовая подарочная коробка">
-		<!-- Руна опыта\сп 100% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="BranchSys.icon.br_gold_box_i00"/>
-		<set name="stackable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="5"/>
-	</etcitem>
 	
 	
-	<etcitem id="9229" name="Синяя подарочная коробка">
-		<!-- Руна опыта\сп 100% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="BranchSys.icon.br_silver_box_i00"/>
-		<set name="stackable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="5"/>
-	</etcitem>
 	
 	
-	<etcitem id="9230" name="Золотая подарочная коробка">
-		<!-- Руна опыта\сп 100% 72ч -->
-		<set name="class" value="OTHER"/>
-		<set name="crystal_type" value="NONE"/>
-		<set name="icon" value="BranchSys.icon.br_bright_gold_box_i00"/>
-		<set name="stackable" value="false"/>
-		<set name="tradeable" value="false"/>
-		<set name="type" value="OTHER"/>
-		<set name="weight" value="5"/>
-	</etcitem>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 </list>

@@ -155,7 +155,12 @@
 			<skill id="1040" level="18" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="19" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="20" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1040" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="21" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="22" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="23" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="24" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="25" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="26" cost="0" name="Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Haste Buff-->
 			<skill id="1086" level="1" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1086" level="2" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -243,7 +248,27 @@
 			<skill id="1045" level="18" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="19" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="20" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1045" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="21" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="22" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="23" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="24" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="25" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="26" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="27" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="28" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="29" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="30" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="31" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="32" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="33" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="34" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="35" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="36" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="37" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="38" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="39" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="40" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="41" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Bless Soul Buff-->
 			<skill id="1048" level="1" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1048" level="2" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -901,7 +926,12 @@
 			<skill id="1040" level="18" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="19" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="20" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1040" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="21" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="22" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="23" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="24" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="25" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="26" cost="0" name="Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Haste Buff-->
 			<skill id="1086" level="1" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1086" level="2" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -989,7 +1019,27 @@
 			<skill id="1045" level="18" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="19" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="20" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1045" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="21" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="22" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="23" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="24" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="25" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="26" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="27" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="28" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="29" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="30" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="31" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="32" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="33" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="34" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="35" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="36" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="37" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="38" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="39" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="40" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="41" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Bless Soul Buff-->
 			<skill id="1048" level="1" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1048" level="2" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1647,7 +1697,12 @@
 			<skill id="1040" level="18" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="19" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="20" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1040" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="21" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="22" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="23" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="24" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="25" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="26" cost="0" name="Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Haste Buff-->
 			<skill id="1086" level="1" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1086" level="2" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -1735,7 +1790,27 @@
 			<skill id="1045" level="18" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="19" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="20" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1045" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="21" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="22" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="23" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="24" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="25" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="26" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="27" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="28" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="29" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="30" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="31" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="32" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="33" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="34" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="35" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="36" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="37" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="38" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="39" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="40" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="41" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Bless Soul Buff-->
 			<skill id="1048" level="1" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1048" level="2" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2393,7 +2468,12 @@
 			<skill id="1040" level="18" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="19" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="20" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1040" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="21" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="22" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="23" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="24" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="25" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="26" cost="0" name="Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Haste Buff-->
 			<skill id="1086" level="1" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1086" level="2" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -2481,7 +2561,27 @@
 			<skill id="1045" level="18" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="19" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="20" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1045" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="21" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="22" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="23" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="24" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="25" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="26" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="27" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="28" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="29" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="30" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="31" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="32" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="33" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="34" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="35" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="36" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="37" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="38" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="39" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="40" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="41" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Bless Soul Buff-->
 			<skill id="1048" level="1" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1048" level="2" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -3148,7 +3248,12 @@
 			<skill id="1040" level="18" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="19" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1040" level="20" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1040" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="21" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="22" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="23" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="24" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="25" cost="0" name="Shield" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1040" level="26" cost="0" name="Shield" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Haste Buff-->
 			<skill id="1086" level="1" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1086" level="2" cost="0" name="Haste" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
@@ -3236,7 +3341,27 @@
 			<skill id="1045" level="18" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="19" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1045" level="20" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
-			<skill id="1045" level="21" cost="0" name="Might" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="21" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="22" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="23" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="24" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="25" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="26" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="27" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="28" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="29" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="30" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="31" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="32" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="33" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="34" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="35" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="36" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="37" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="38" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="39" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="40" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
+			<skill id="1045" level="41" cost="0" name="Bless Body" min_level="1" item_id="25100" item_count="100" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<!--Bless Soul Buff-->
 			<skill id="1048" level="1" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
 			<skill id="1048" level="2" cost="0" name="Bless Soul" min_level="1" item_id="25100" item_count="1" unlearn_item_id="6673" unlearn_item_count="1" clicked="false" />
