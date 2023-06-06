@@ -1200,30 +1200,37 @@
 			</effect>
 		</for>
 	</skill>
-	<skill id="1349" levels="21" name="Final Servitor">
-		<table name="#effectPoint">418 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495 495</table>
-		<table name="#mpConsume2">35 44 53 62 71 80 89 98 107 116 125 134 143 152 161 170 179 188 197 206 215</table>
-		<table name="#mpConsume1">8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8</table>
-		<table name="#Tab-maxHp">1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0 3.1</table>
-		<table name="#abnormal_lvl">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21</table>
-		<table name="#abnormal_time">1200</table>
-		<table name="#magicLevel">40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80</table>
+	<skill id="1349" levels="1" name="Final Servitor">
+		<table name="#abnormal_time">300</table>
+		<table name="#magicLevel">78</table>
 		<set name="magicType" val="MAGIC"/>
 		<set name="icon" val="icon.skill1349"/>
-		<set name="reuseDelay" val="6000"/>
+		<set name="reuseDelay" val="600000"/>
 		<set name="magicLevel" val="#magicLevel"/>
 		<set name="castRange" val="400"/>
 		<set name="hitTime" val="4000"/>
 		<set name="hitCancelTime" val="500"/>
-		<set name="mpConsume1" val="#mpConsume1"/>
-		<set name="mpConsume2" val="#mpConsume2"/>
-		<set name="effectPoint" val="#effectPoint"/>
+		<set name="mpConsume1" val="14"/>
+		<set name="mpConsume2" val="58"/>
+		<set name="itemConsumeId" val="3031"/>
+		<set name="itemConsumeCount" val="20"/>
 		<set name="target" val="TARGET_PET"/>
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="OP_ACTIVE"/>
 		<for>
-			<effect count="1" name="Buff" stackOrder="#abnormal_lvl" stackType="ancient" time="#abnormal_time" val="0">
-				<mul order="0x30" stat="maxHp" val="#Tab-maxHp"/>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="#abnormal_time" val="0">
+				<mul order="0x30" stat="maxHp" val="1.2"/>
+				<add order="0x40" stat="accCombat" val="4"/>
+				<mul order="0x30" stat="pAtk" val="1.1"/>
+				<mul order="0x30" stat="pDef" val="1.2"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.2"/>
+				<add order="0x40" stat="rCrit" val="20"/>
+				<mul order="0x30" stat="cAtk" val="1.2"/>
+				<mul order="0x30" stat="mDef" val="1.2"/>
+				<mul order="0x30" stat="mAtk" val="1.2"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.2"/>
+				<add order="0x40" stat="debuffResist" val="20"/>
+				<mul order="0x30" stat="runSpd" val="0.8"/>
 			</effect>
 			<effect count="1" name="HealPercent" time="0" val="20"/>
 		</for>
